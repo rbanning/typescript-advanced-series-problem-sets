@@ -4,6 +4,7 @@
   "description": "Problems Sets for the Advanced Typescript Series",
   "main": "index.ts",
   "scripts": {
+    "start": "ts-node"
   },
   "author": "Robert Banning",
   "license": "ISC",
