@@ -1,0 +1,14 @@
+{
+  "name": "typescript-advanced-series-problem-sets",
+  "version": "1.0.0",
+  "description": "Problems Sets for the Advanced Typescript Series",
+  "main": "index.ts",
+  "scripts": {
+  },
+  "author": "Robert Banning",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  }
+}
