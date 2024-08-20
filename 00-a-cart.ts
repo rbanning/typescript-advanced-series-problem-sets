@@ -4,18 +4,19 @@ import { fetchData, RawDataSource } from "./src/fetch-data.utils";
 import { ProblemSet, problemSetDone, problemSetHeading } from "./src/problem-set.utils";
 import { Cart } from './src/00-cart/cart.type';
 
-const ps = new ProblemSet(0, 'cart');
 
 const main = (() => {
+  const ps = ProblemSet.current();
+  if (!ps) { throw new Error("could not determine problem set"); }
 
   problemSetHeading(ps);
-  work()
+  work(ps)
     .then(() => problemSetDone());
 
 })();
 
 
-async function work() {
+async function work(ps: ProblemSet) {
   //load data
   const data: RawDataSource = await fetchData('file', ps.toFilename('txt'), { removeBlankLines: true });
 

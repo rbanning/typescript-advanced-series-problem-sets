@@ -1,0 +1,10001 @@
+source,item,qty
+4596,blackcurrant,1
+1429,kale,6
+858,fig,2
+50,spaghetti squash,5
+3043,broccoflower,3
+3778,mamey,4
+1146,black-eyed pea,5
+4419,kale,6
+3809,blackberry,4
+4109,tat soi,6
+2941,patty pan,4
+1682,apple,2
+3527,apricot,6
+2914,tat soi,4
+4771,blackcurrant,1
+708,tat soi,2
+1636,apricot,5
+4197,patty pan,1
+4048,navy bean,3
+2955,goji berry,1
+4860,damson,1
+3070,cherimoya,1
+2540,raisin,3
+895,cherimoya,4
+1258,raisin,3
+1400,lentils,1
+4783,banana,1
+4914,green bean,2
+423,kale,2
+1150,raisin,3
+1282,bilberry,4
+3090,banana,1
+3310,azuki bean,3
+2984,coconut,4
+1796,fig,2
+2489,blueberry,5
+2413,broccoflower,3
+2561,banana,4
+1399,tubers,4
+4660,white radish,5
+773,gem squash,5
+542,tat soi,3
+2315,patty pan,2
+4227,white radish,4
+773,goji berry,4
+2184,fig,4
+410,currant,6
+4244,corn salad,5
+1223,banana,2
+530,spinach,3
+2498,bilberry,4
+392,blackcurrant,2
+287,navy bean,2
+2617,currant,4
+4701,feijoa,3
+1675,frisee,4
+2745,marjoram,1
+2308,lentils,3
+1976,coconut,6
+1222,corn salad,6
+483,apricot,4
+2508,grapefruit,4
+2023,black-eyed pea,3
+949,daikon,2
+2870,raisin,6
+2489,blackcurrant,5
+911,feijoa,3
+3485,radish,6
+2694,avocado,2
+2503,tat soi,1
+1735,date,6
+1171,goji berry,2
+254,spinach,6
+2276,white radish,4
+2022,tat soi,4
+4716,topinambur,1
+1360,frisee,2
+3609,cabbage,3
+1655,spinach,6
+2806,cloudberry,6
+1554,banana,1
+2229,azuki bean,1
+2562,navy bean,6
+2158,blackcurrant,2
+61,bilberry,5
+4997,patty pan,4
+4049,raisin,5
+1659,navy bean,5
+611,coconut,4
+523,banana,2
+2874,navy bean,2
+1421,lentils,6
+3839,blackberry,3
+1066,apple,2
+1087,corn salad,3
+2573,cherimoya,6
+2935,blackberry,1
+742,currant,6
+1152,tat soi,4
+2967,black-eyed pea,6
+1724,currant,3
+2129,apricot,2
+3357,avocado,6
+4924,navy bean,2
+2833,azuki bean,4
+4261,corn salad,3
+2987,cherimoya,3
+52,raisin,4
+3099,grapefruit,6
+2596,spinach,6
+4197,lentils,4
+3641,apple,2
+3799,spaghetti squash,2
+1395,corn salad,3
+3733,daikon,1
+4167,tabasco pepper,1
+3405,fig,1
+2685,spaghetti squash,4
+4286,fig,4
+4276,feijoa,3
+4128,watercress,4
+3624,navy bean,6
+3649,bilberry,4
+3259,azuki bean,6
+2707,corn salad,4
+3536,dragonfruit,5
+4632,marjoram,3
+4853,watercress,1
+484,tabasco pepper,2
+3231,tat soi,2
+3045,fig,4
+1155,fig,2
+2757,mustard green,3
+4758,daikon,6
+826,avocado,1
+2080,bilberry,3
+4616,spinach,5
+3511,cloudberry,4
+3875,tabasco pepper,4
+4231,watercress,2
+3372,cloudberry,1
+3327,white radish,1
+1788,watercress,2
+3522,azuki bean,6
+3950,apricot,1
+912,blueberry,4
+4626,bilberry,2
+4197,tat soi,4
+2561,spaghetti squash,4
+3708,cherimoya,2
+2866,apple,5
+1231,patty pan,2
+2837,azuki bean,1
+4540,spinach,4
+3578,kale,5
+4307,blackberry,2
+2924,raisin,2
+1896,broccoflower,1
+1721,damson,4
+939,mushroom,3
+4976,marjoram,1
+1646,kale,1
+1703,tabasco pepper,6
+1654,damson,3
+4562,blackberry,1
+226,kale,1
+3419,cloudberry,5
+1533,blackberry,1
+2782,blackberry,6
+4904,avocado,1
+4835,avocado,2
+2280,corn salad,1
+2542,radish,5
+1419,daikon,6
+942,date,4
+1662,azuki bean,5
+3119,spaghetti squash,5
+964,damson,2
+3307,blackberry,1
+4465,tat soi,3
+2316,currant,2
+448,banana,6
+2208,navy bean,6
+3314,patty pan,2
+2154,grapefruit,6
+1435,blackberry,6
+1792,apple,6
+80,bilberry,5
+4893,navy bean,4
+2608,blackberry,1
+3305,goji berry,1
+545,yam,5
+4727,raisin,5
+2777,watercress,4
+3981,cabbage,6
+2930,azuki bean,5
+3280,cherimoya,5
+4802,wasabi,4
+4469,grapefruit,5
+951,avocado,6
+373,date,4
+3592,tat soi,5
+1134,apricot,4
+3583,apple,3
+3761,grapefruit,1
+2121,apple,5
+701,blackcurrant,2
+1882,black-eyed pea,6
+2254,apricot,1
+1515,frisee,3
+323,potato,3
+3881,broccoflower,2
+2580,cloudberry,6
+3412,broccoflower,1
+2757,currant,2
+670,avocado,2
+4544,apricot,4
+2028,damson,1
+1112,dragonfruit,1
+369,marjoram,5
+1307,fig,2
+308,cloudberry,6
+1066,fig,5
+3429,spinach,6
+3369,bilberry,1
+3843,damson,1
+3177,dragonfruit,3
+2789,date,5
+11,white radish,2
+81,kale,3
+4639,cabbage,2
+2388,cherimoya,1
+4267,frisee,1
+5000,grapefruit,4
+2142,potato,4
+4048,frisee,1
+4247,date,2
+2558,blackberry,4
+1628,apple,3
+2502,corn salad,3
+4936,kale,1
+1479,goji berry,4
+1112,tubers,2
+4956,white radish,6
+4352,kale,4
+4538,date,6
+1018,dragonfruit,2
+3197,tubers,1
+270,lentils,6
+790,tabasco pepper,2
+4104,grapefruit,6
+4344,black-eyed pea,6
+1208,kale,6
+164,banana,2
+2833,cherimoya,6
+1251,spaghetti squash,6
+4558,caraway,2
+378,spaghetti squash,6
+2013,cherimoya,1
+1593,black-eyed pea,2
+4742,currant,4
+1031,frisee,6
+780,tubers,3
+1212,fig,1
+3522,blackberry,3
+1896,currant,2
+1023,coconut,5
+600,tabasco pepper,1
+2623,fig,1
+4421,fig,1
+2719,fig,3
+3163,marjoram,4
+2813,raisin,1
+1884,corn salad,2
+2691,cabbage,2
+2051,corn salad,2
+2992,coconut,6
+3337,avocado,2
+4923,spaghetti squash,1
+2780,bilberry,1
+4149,cherimoya,2
+2643,feijoa,5
+690,blackberry,5
+2394,blackberry,1
+1932,tat soi,5
+600,kale,4
+2719,feijoa,6
+2440,tat soi,2
+2408,broccoflower,5
+251,goji berry,5
+3898,kale,4
+738,spaghetti squash,4
+3029,white radish,6
+2813,marjoram,2
+4617,bilberry,1
+1801,blackberry,4
+2168,blackcurrant,2
+3977,raisin,6
+3253,raisin,3
+2550,cherimoya,5
+4169,spaghetti squash,5
+1593,broccoflower,3
+1700,kohlrabi,1
+2295,daikon,6
+2453,white radish,3
+1050,corn,3
+4438,cloudberry,2
+3512,tubers,4
+2412,corn salad,1
+4549,watercress,3
+3422,hubbard squash,2
+3480,patty pan,2
+2174,banana,3
+2013,watercress,1
+123,cloudberry,1
+4297,marjoram,1
+4247,dragonfruit,6
+1525,azuki bean,1
+4102,patty pan,4
+1921,cloudberry,3
+2682,daikon,1
+2027,grapefruit,3
+4786,daikon,3
+4674,tat soi,3
+2564,marjoram,1
+1209,parsnip,2
+2134,lentils,2
+278,damson,5
+4310,azuki bean,5
+1748,avocado,6
+642,feijoa,6
+4986,spaghetti squash,5
+1514,radish,5
+500,lentils,5
+4787,spinach,6
+4542,goji berry,4
+997,fig,4
+4364,rosemary,2
+1640,banana,6
+1581,tubers,3
+2249,daikon,3
+1865,banana,2
+3655,feijoa,3
+1920,navy bean,3
+2009,marjoram,5
+3104,lentils,4
+1890,kale,1
+4279,azuki bean,2
+4802,bilberry,3
+946,radish,6
+4743,raisin,6
+3151,avocado,3
+1424,broad beans,5
+1374,damson,2
+876,spaghetti squash,5
+2626,currant,6
+998,blackberry,1
+2022,navy bean,5
+3105,date,2
+2230,patty pan,4
+4994,cherimoya,2
+997,frisee,1
+3873,kohlrabi,5
+4132,radish,6
+2201,radish,4
+1260,fig,1
+494,dragonfruit,1
+2889,frisee,1
+1648,date,5
+7,paprika,2
+1376,broccoflower,4
+4574,cherimoya,3
+1652,feijoa,1
+2349,marjoram,1
+1559,cloudberry,2
+2535,apple,4
+635,cabbage,1
+2374,blueberry,3
+2936,broccoflower,5
+2329,spinach,2
+221,coconut,5
+2561,coconut,6
+4591,marjoram,5
+2307,goji berry,2
+128,navy bean,4
+3716,kale,4
+4268,fig,6
+1668,feijoa,1
+2956,cherimoya,6
+2325,lentils,5
+1808,lentils,3
+4653,marjoram,5
+2479,cherimoya,4
+1990,lentils,5
+1639,broccoflower,5
+3170,dragonfruit,5
+644,radish,1
+1870,lemon grass,2
+3503,amaranth,4
+3837,azuki bean,4
+2623,tat soi,3
+4091,bilberry,4
+2331,corn salad,4
+1774,tubers,6
+363,mung bean,3
+3512,blackberry,4
+2934,corn salad,5
+1796,marjoram,1
+3899,watercress,4
+3964,frisee,4
+2059,coconut,6
+1991,cherimoya,5
+2897,spinach,3
+2562,grapefruit,1
+4687,feijoa,3
+1655,blueberry,3
+4625,avocado,3
+955,avocado,3
+3747,date,4
+4040,apricot,2
+2746,black-eyed pea,6
+2396,blueberry,2
+4219,apple,4
+3113,white radish,2
+4260,radish,6
+409,blackcurrant,2
+2523,damson,5
+1846,spinach,5
+527,bilberry,2
+2883,black-eyed pea,4
+373,dragonfruit,3
+1305,banana,6
+1748,raisin,2
+3176,blackcurrant,3
+3997,date,2
+198,tubers,4
+2992,radish,1
+530,spaghetti squash,6
+3544,navy bean,1
+840,pea,6
+3024,blackberry,6
+6,tabasco pepper,5
+2706,radish,1
+3857,bilberry,6
+2285,pumpkin,1
+1469,patty pan,2
+1681,dragonfruit,1
+4464,blueberry,5
+660,cherimoya,1
+156,broccoflower,3
+3748,azuki bean,3
+928,broccoflower,3
+782,frisee,6
+490,blackcurrant,3
+2614,blackberry,3
+859,fig,5
+3947,damson,3
+3347,kale,6
+481,apple,3
+1418,raisin,1
+436,patty pan,6
+2748,banana,4
+2090,frisee,5
+3942,azuki bean,4
+3931,avocado,3
+2100,kale,3
+4508,goji berry,4
+1934,kale,4
+743,black-eyed pea,6
+4056,coconut,3
+2968,apricot,2
+3311,kale,6
+4532,tabasco pepper,2
+4101,paprika,6
+2500,blackcurrant,5
+3135,corn salad,2
+2782,damson,4
+1248,date,2
+4524,radish,3
+234,feijoa,4
+4014,avocado,4
+4925,currant,5
+1456,cloudberry,2
+4300,bilberry,6
+4607,watercress,6
+3024,daikon,2
+2319,corn salad,2
+2333,kale,1
+1406,raisin,2
+3610,cabbage,5
+552,banana,3
+410,coconut,3
+648,radish,5
+4416,azuki bean,6
+3956,radish,3
+3840,tubers,3
+2770,banana,5
+310,cloudberry,5
+1453,broccoflower,1
+1589,banana,5
+3068,raisin,2
+4098,blackcurrant,2
+804,tabasco pepper,4
+4382,blackberry,6
+2166,radish,3
+2011,raisin,6
+1269,azuki bean,6
+2690,tat soi,4
+4301,apricot,5
+4076,frisee,6
+2075,banana,6
+3340,corn salad,3
+4395,avocado,2
+3868,fig,6
+1565,corn salad,6
+3635,grapefruit,6
+4813,white radish,3
+4670,white radish,4
+1087,bilberry,1
+2590,dragonfruit,1
+3919,kale,2
+3336,apple,3
+4968,patty pan,6
+609,cloudberry,4
+3238,lentils,3
+4600,bilberry,2
+3017,date,5
+1784,blackberry,5
+3177,fig,6
+3228,black-eyed pea,1
+4390,apple,2
+3369,date,2
+480,currant,4
+3178,cabbage,1
+2989,bilberry,6
+1170,radish,4
+3001,avocado,3
+1521,navy bean,3
+4446,frisee,6
+3691,raisin,1
+2340,tubers,5
+4414,patty pan,1
+100,black-eyed pea,2
+532,mung bean,1
+1625,tubers,1
+3080,dragonfruit,3
+1038,blueberry,3
+4499,radish,2
+3832,black-eyed pea,3
+3382,frisee,2
+979,black-eyed pea,2
+3742,avocado,6
+4600,azuki bean,4
+2185,currant,2
+657,blueberry,4
+282,tat soi,3
+3900,frisee,3
+3183,fig,1
+3172,corn salad,2
+1671,banana,6
+3325,black-eyed pea,5
+491,banana,5
+1784,cherimoya,3
+486,goji berry,3
+3854,cherimoya,1
+218,cloudberry,1
+4776,azuki bean,3
+750,currant,5
+3524,raisin,3
+4372,avocado,3
+1109,dragonfruit,4
+2241,watercress,2
+1599,avocado,2
+548,broccoflower,1
+2964,tubers,5
+1638,patty pan,3
+2026,kidney bean,3
+2699,blackcurrant,4
+1739,cherimoya,6
+956,goji berry,3
+2576,tabasco pepper,3
+2145,spinach,2
+1062,patty pan,2
+4400,grapefruit,4
+280,apricot,1
+1811,corn salad,1
+831,blackcurrant,6
+3492,currant,5
+3317,white radish,4
+3218,daikon,2
+4546,goji berry,2
+2979,asparagus,2
+3180,blackberry,5
+260,cherimoya,1
+1606,watercress,4
+2037,grapefruit,3
+3941,tabasco pepper,3
+3222,apple,4
+2736,watercress,5
+1117,goji berry,2
+4380,goji berry,1
+3105,apple,2
+1870,fig,6
+1229,corn salad,1
+3012,cherimoya,1
+4461,spinach,2
+3839,coconut,3
+1407,blackberry,5
+3368,navy bean,5
+1749,watercress,5
+953,feijoa,2
+2856,azuki bean,5
+2135,cherimoya,1
+4417,avocado,5
+1978,patty pan,1
+2435,watercress,4
+3060,goji berry,4
+4193,currant,3
+1567,spaghetti squash,5
+2490,black-eyed pea,6
+3304,patty pan,2
+1002,raisin,5
+4048,corn,6
+4924,white radish,2
+4929,blackcurrant,2
+289,patty pan,3
+524,tubers,5
+4674,navy bean,1
+1782,blackcurrant,5
+3951,lentils,5
+3825,lentils,1
+1031,navy bean,5
+4796,celery,6
+1543,apricot,6
+2252,goji berry,3
+866,raisin,6
+894,spaghetti squash,6
+3039,date,1
+3809,radish,3
+898,black-eyed pea,4
+2318,watercress,5
+2314,date,5
+3662,spinach,5
+4329,raisin,3
+1137,broccoflower,6
+4989,white radish,4
+1832,watercress,1
+3495,jerusalem artichoke,2
+4699,daikon,3
+2919,tubers,3
+236,marjoram,4
+943,blackberry,1
+4526,fiddlehead,2
+4574,navy bean,5
+53,marjoram,4
+3067,apple,2
+3666,daikon,4
+4223,habanero,2
+4370,cloudberry,6
+809,cloudberry,3
+3629,raisin,3
+1472,avocado,3
+4675,cloudberry,5
+1153,spaghetti squash,2
+1343,tubers,5
+539,kale,6
+1248,dragonfruit,2
+888,currant,6
+2287,daikon,6
+117,watercress,4
+1235,broccoflower,4
+1060,goji berry,3
+1246,banana,1
+2263,scallion,3
+3285,kohlrabi,4
+1322,lentils,4
+1017,dragonfruit,2
+4629,grapefruit,3
+3164,blueberry,4
+1793,feijoa,1
+2604,currant,2
+642,kale,6
+3032,cherimoya,6
+2090,lentils,2
+1786,raisin,1
+3325,blackberry,4
+1515,cherry,4
+3969,apple,5
+3816,navy bean,1
+3832,azuki bean,6
+4362,corn salad,4
+2830,dragonfruit,4
+3385,black-eyed pea,3
+4444,dragonfruit,2
+1389,cabbage,4
+140,banana,3
+1484,broccoflower,2
+2585,apple,6
+4321,tubers,4
+3237,azuki bean,6
+523,coconut,6
+912,navy bean,5
+4403,broccoflower,5
+1272,fig,5
+3147,fig,1
+1680,cloudberry,6
+1909,avocado,1
+1334,bilberry,3
+145,navy bean,5
+2871,tat soi,1
+4831,blueberry,6
+1266,watercress,5
+1889,spinach,4
+428,coconut,5
+4630,bilberry,6
+4575,spinach,4
+1917,raisin,4
+550,tabasco pepper,2
+4725,black-eyed pea,6
+1649,blackcurrant,2
+3154,watercress,3
+1204,azuki bean,4
+1611,tabasco pepper,2
+2095,radish,3
+1962,apricot,3
+4155,damson,3
+2516,tubers,3
+1048,tubers,4
+416,blueberry,2
+2362,black-eyed pea,4
+1974,goji berry,3
+1555,banana,3
+3704,raisin,4
+117,corn salad,6
+2109,cabbage,6
+850,white radish,1
+3422,raisin,3
+2534,coconut,3
+1173,cabbage,5
+4188,coconut,4
+4360,spaghetti squash,1
+859,apple,5
+4485,avocado,2
+4551,blackberry,4
+1973,tat soi,3
+4176,navy bean,3
+231,damson,2
+243,apple,4
+4675,lentils,3
+1881,white radish,4
+1543,daikon,2
+3737,patty pan,1
+4801,cabbage,6
+2278,daikon,5
+4922,cloudberry,3
+4893,spaghetti squash,5
+1707,raisin,4
+4061,banana,3
+4250,feijoa,2
+3701,feijoa,3
+4027,blackberry,2
+3233,blueberry,3
+4069,dragonfruit,4
+4643,watercress,1
+3986,goji berry,3
+4807,goji berry,6
+4235,white radish,2
+1217,broccoflower,1
+1294,dragonfruit,2
+3761,navy bean,5
+2694,dragonfruit,3
+3939,lentils,5
+4430,marjoram,4
+2508,marjoram,4
+3706,patty pan,1
+1744,feijoa,1
+361,raisin,4
+1197,kale,6
+623,tubers,6
+1887,kale,3
+4477,coconut,3
+1186,sage,5
+1047,cabbage,4
+4974,spinach,5
+2139,date,2
+1901,kale,1
+1286,dragonfruit,5
+61,blueberry,5
+247,banana,5
+977,lentils,3
+2099,coconut,5
+4984,cloudberry,2
+4477,dragonfruit,4
+4373,lentils,6
+2657,avocado,6
+1176,broccoflower,1
+690,blueberry,4
+428,azuki bean,2
+3611,avocado,6
+165,cucumber,1
+3791,corn salad,1
+718,cherimoya,3
+145,frisee,1
+1797,azuki bean,4
+4306,apple,4
+2751,currant,3
+4097,cloudberry,5
+104,tat soi,3
+1765,daikon,2
+1152,dragonfruit,2
+1244,lentils,3
+2844,frisee,1
+630,coconut,1
+1232,grapefruit,5
+4634,currant,3
+1378,kale,4
+1981,navy bean,6
+3825,damson,4
+2057,radish,3
+697,broccoflower,1
+3718,cabbage,5
+3610,black-eyed pea,4
+2412,frisee,4
+918,tat soi,5
+87,white radish,4
+2027,black-eyed pea,3
+915,broccoflower,6
+4951,damson,2
+3248,damson,1
+1097,black bean,6
+1684,watercress,3
+4721,marjoram,6
+4986,date,6
+1332,tubers,4
+512,lentils,3
+4173,daikon,3
+4043,dragonfruit,2
+4440,cabbage,6
+1310,black-eyed pea,1
+1368,pea,5
+490,damson,5
+4202,kale,6
+2132,kale,3
+3317,tabasco pepper,4
+4760,grapefruit,2
+1773,runner bean,1
+4524,azuki bean,3
+3383,spaghetti squash,3
+3676,currant,5
+2096,bilberry,2
+3817,kale,1
+499,lentils,6
+4250,watercress,3
+4399,kale,2
+3276,patty pan,3
+76,leek ,1
+1098,marjoram,2
+3168,currant,4
+414,blackberry,6
+2422,black-eyed pea,1
+3271,spaghetti squash,4
+2960,azuki bean,6
+1487,kale,5
+1635,tat soi,1
+369,apricot,3
+4754,cherimoya,1
+194,banana,6
+3498,watercress,2
+2803,marjoram,1
+4829,watercress,3
+3439,cloudberry,4
+132,spaghetti squash,6
+4984,frisee,3
+4934,tat soi,2
+481,daikon,5
+653,tabasco pepper,3
+65,white radish,4
+4053,white radish,3
+4337,avocado,4
+4218,avocado,3
+4444,spaghetti squash,3
+4200,azuki bean,6
+4360,marjoram,4
+71,feijoa,3
+4118,azuki bean,1
+1969,grapefruit,1
+3078,broccoflower,5
+2958,raisin,6
+1215,calabrese,3
+1044,navy bean,1
+3083,currant,1
+1072,apple,6
+4052,blackcurrant,6
+1246,navy bean,2
+2300,dragonfruit,3
+4864,marjoram,1
+2902,corn,4
+4508,broccoflower,1
+2678,navy bean,3
+2780,watercress,2
+2617,apple,2
+1512,white radish,3
+2651,dragonfruit,2
+4939,banana,2
+2388,spaghetti squash,3
+27,apricot,4
+3,apricot,5
+2874,tabasco pepper,4
+3913,black-eyed pea,3
+2408,currant,3
+4814,raisin,1
+4818,coconut,3
+1136,apricot,4
+2034,blackcurrant,2
+4549,blueberry,3
+382,broccoflower,2
+2441,navy bean,2
+211,azuki bean,3
+3786,tabasco pepper,3
+38,damson,6
+4912,pumpkin,5
+2648,grapefruit,3
+1014,fig,2
+4941,cloudberry,1
+4971,frisee,6
+90,raisin,1
+3232,date,3
+2122,patty pan,6
+4149,grapefruit,1
+1618,broccoflower,6
+3210,spaghetti squash,1
+1875,corn salad,1
+4810,apricot,2
+4006,feijoa,6
+4187,fig,5
+2035,goji berry,5
+2367,fig,2
+4444,daikon,2
+3845,blackberry,5
+3747,lentils,5
+2250,nopale,6
+3273,date,3
+1778,cherimoya,6
+190,frisee,6
+1422,spinach,4
+211,spaghetti squash,4
+304,nopale,6
+4866,blueberry,4
+61,blackcurrant,6
+3619,kale,3
+4680,dragonfruit,2
+4366,lentils,1
+3322,cloudberry,6
+4901,marjoram,6
+2126,coconut,2
+934,blackberry,1
+929,blueberry,5
+4556,watercress,2
+3644,coconut,1
+1557,cloudberry,4
+4432,currant,3
+2579,arugula,1
+1810,broccoflower,2
+4884,cloudberry,6
+725,kale,1
+1526,apple,2
+3669,broccoflower,6
+1580,lentils,1
+3555,apricot,6
+4972,damson,2
+3373,tat soi,1
+3900,white radish,3
+1583,apricot,3
+275,damson,6
+3950,cherimoya,1
+4940,date,3
+4341,avocado,1
+2890,feijoa,1
+469,azuki bean,3
+4462,marjoram,5
+1135,damson,6
+1292,cabbage,4
+1336,coconut,6
+2569,currant,2
+3426,azuki bean,3
+3820,corn salad,2
+141,patty pan,1
+4163,date,2
+3763,cabbage,3
+1334,watercress,3
+1636,damson,2
+1147,grapefruit,3
+1884,fig,5
+3774,watercress,3
+2696,spinach,6
+4963,cherimoya,5
+873,cherimoya,5
+2356,raisin,2
+1813,apricot,5
+257,tat soi,2
+4466,dragonfruit,6
+1163,grapefruit,1
+1878,tabasco pepper,1
+1785,damson,1
+3805,corn salad,1
+1921,taro,1
+1681,currant,3
+2475,corn salad,2
+328,date,1
+2929,currant,1
+2625,grapefruit,4
+1542,watercress,5
+408,currant,6
+2946,cherimoya,6
+1040,broccoflower,3
+3461,tat soi,5
+390,feijoa,1
+4250,feijoa,1
+4691,blackberry,2
+2412,apple,5
+1175,blackberry,5
+2702,tabasco pepper,5
+4638,kale,1
+4384,watercress,4
+2613,acorn squash,4
+3859,blackcurrant,6
+1369,watercress,3
+4597,blueberry,6
+4091,grapefruit,2
+740,lentils,6
+466,cloudberry,3
+1266,feijoa,4
+3302,bilberry,6
+4078,goji berry,2
+3332,mamey,6
+4661,kale,5
+4485,feijoa,2
+4895,white radish,2
+4510,marjoram,6
+2923,currant,2
+1121,raisin,3
+2663,bilberry,4
+3492,corn salad,3
+4083,feijoa,4
+3952,goji berry,5
+1462,marjoram,3
+424,lentils,5
+2043,bilberry,5
+425,marjoram,5
+132,tat soi,6
+1740,frisee,3
+4574,kale,3
+854,chickpea,4
+3591,navy bean,2
+3227,currant,6
+3493,watercress,3
+2969,tat soi,2
+423,pea,1
+2534,artichoke,1
+2958,frisee,1
+876,patty pan,3
+2096,apricot,3
+2211,blueberry,1
+2904,banana,2
+1582,damson,4
+4095,dragonfruit,2
+3238,coconut,2
+1954,patty pan,6
+4975,cabbage,6
+781,raisin,3
+333,blackcurrant,2
+3377,dragonfruit,1
+1467,bilberry,1
+162,spinach,2
+4640,black-eyed pea,5
+3461,blackberry,5
+1328,spinach,4
+1900,watercress,6
+2885,kale,6
+2136,damson,5
+1251,currant,5
+2403,lemon grass,4
+1377,grapefruit,1
+305,radish,5
+1577,broccoflower,3
+4865,daikon,1
+213,rutabaga,1
+4387,white radish,2
+1988,black-eyed pea,5
+2184,dragonfruit,2
+1679,patty pan,5
+4699,damson,4
+930,pea,6
+1159,goji berry,5
+3790,corn,1
+1525,coconut,2
+3578,kale,3
+767,spaghetti squash,1
+727,tabasco pepper,5
+393,lentils,3
+104,corn salad,5
+1811,raisin,5
+4207,spinach,4
+3511,azuki bean,3
+712,bilberry,5
+3724,avocado,4
+555,dragonfruit,5
+4893,grapefruit,1
+3707,pea,3
+3048,marjoram,1
+4890,patty pan,2
+1316,grapefruit,2
+1010,goji berry,6
+3284,fiddlehead,5
+158,tat soi,4
+3278,kale,1
+2195,radish,1
+2293,daikon,6
+1107,marjoram,2
+941,damson,4
+1255,watercress,1
+1120,coconut,4
+2506,spaghetti squash,6
+2782,grapefruit,3
+490,lentils,2
+4297,dragonfruit,4
+2686,corn salad,2
+951,goji berry,4
+1583,kale,1
+1334,bean sprout,4
+4487,white radish,4
+313,marjoram,6
+3166,damson,6
+4880,watercress,2
+3047,apricot,3
+1310,cloudberry,1
+4695,grapefruit,2
+3120,avocado,3
+3864,frisee,4
+3364,damson,5
+2933,apple,3
+1397,spinach,2
+4375,tubers,3
+1730,azuki bean,5
+4664,avocado,2
+1977,blackcurrant,4
+2812,marjoram,3
+668,currant,1
+195,corn salad,4
+1209,lentils,4
+1244,blueberry,1
+3230,apple,4
+1198,tabasco pepper,3
+3407,patty pan,6
+2491,fennel,3
+4262,fig,4
+422,raisin,3
+2560,corn salad,2
+1694,blackberry,3
+2603,zucchini,5
+577,cabbage,5
+1212,cherimoya,2
+3837,navy bean,4
+820,navy bean,3
+4672,currant,2
+855,marjoram,6
+4478,date,6
+805,coconut,2
+3319,patty pan,6
+4102,goji berry,3
+96,apple,1
+4264,watercress,6
+3136,cabbage,4
+480,avocado,3
+1627,broccoflower,3
+176,apple,2
+4529,raisin,1
+1974,daikon,3
+3411,bilberry,6
+2012,white radish,4
+2202,blackcurrant,6
+2597,daikon,1
+3534,azuki bean,6
+2267,navy bean,5
+1151,bilberry,5
+553,frisee,3
+4200,watercress,1
+3414,legume,3
+4330,apricot,2
+2600,date,3
+642,cilantro,6
+2632,watercress,1
+3724,damson,2
+2621,bilberry,3
+1689,dragonfruit,2
+2266,cloudberry,2
+3030,goji berry,5
+1386,banana,3
+1176,grapefruit,2
+2967,daikon,2
+3744,tubers,5
+1813,elderberry,5
+3458,spinach,5
+4311,avocado,3
+4379,date,5
+1649,damson,5
+2525,spaghetti squash,1
+271,tat soi,4
+4772,tat soi,3
+4308,cloudberry,5
+4883,radish,2
+1930,avocado,2
+2991,lentils,3
+3922,avocado,2
+3720,grapefruit,4
+1701,bilberry,3
+3194,tubers,2
+3178,goji berry,3
+477,apple,6
+4167,dragonfruit,1
+3479,fig,2
+1665,banana,2
+1870,cabbage,4
+2311,grapefruit,4
+1951,lentils,5
+3089,fig,2
+4316,cloudberry,2
+4331,blueberry,4
+2835,cloudberry,6
+3626,raisin,1
+658,tabasco pepper,2
+183,watercress,1
+406,radish,2
+876,radish,6
+3505,tat soi,5
+3711,spinach,6
+3385,date,5
+4313,cherry,5
+735,azuki bean,5
+1442,tabasco pepper,4
+1453,broccoflower,2
+4879,kale,6
+4031,grapefruit,1
+4506,radish,3
+2188,frisee,1
+921,broccoflower,2
+4085,spaghetti squash,4
+3687,goji berry,5
+244,daikon,1
+876,date,3
+3325,tubers,3
+3363,banana,5
+3205,black-eyed pea,3
+2470,cabbage,6
+448,goji berry,4
+2718,spaghetti squash,3
+2780,feijoa,2
+1859,radish,3
+265,patty pan,3
+4828,corn salad,3
+334,frisee,6
+1132,blueberry,1
+851,tabasco pepper,6
+1037,date,2
+2664,broccoflower,3
+253,date,1
+903,lentils,5
+2006,feijoa,5
+3662,grapefruit,1
+2382,cherimoya,1
+1446,broccoflower,5
+1347,coconut,6
+1360,tubers,3
+3306,currant,3
+4717,watercress,3
+4266,black-eyed pea,3
+2160,azuki bean,3
+3145,cherimoya,4
+3448,dragonfruit,2
+3154,frisee,4
+3079,apple,1
+4249,grapefruit,6
+3609,grapefruit,2
+2245,navy bean,5
+3197,apricot,5
+2093,apricot,3
+3131,tabasco pepper,4
+129,cloudberry,1
+326,banana,6
+792,white radish,6
+4116,tat soi,2
+832,blackberry,4
+3723,goji berry,1
+3029,apple,6
+827,black-eyed pea,3
+2535,cherimoya,6
+1223,bilberry,1
+132,apricot,1
+3580,lentils,5
+2182,goji berry,3
+533,apricot,3
+1695,watercress,1
+1651,apricot,2
+206,coconut,6
+2175,currant,1
+2801,blackberry,4
+2438,cabbage,2
+164,feijoa,6
+1387,currant,3
+536,feijoa,1
+3306,dragonfruit,5
+2524,tabasco pepper,4
+2589,kale,4
+31,patty pan,5
+2795,frisee,3
+1812,lentils,1
+4859,banana,6
+4958,black-eyed pea,4
+898,fig,2
+1920,raisin,5
+766,tabasco pepper,1
+3872,watercress,1
+1082,lentils,1
+4369,broad beans,6
+275,avocado,4
+2042,tubers,6
+3603,damson,4
+4875,black-eyed pea,6
+3636,blackcurrant,6
+3161,spinach,5
+1747,lentils,4
+2536,goji berry,6
+3209,fig,5
+4418,cherimoya,1
+435,dragonfruit,1
+1616,kale,1
+510,spaghetti squash,1
+2319,navy bean,3
+2985,blueberry,6
+2185,blackcurrant,3
+1520,broccoflower,6
+3096,black-eyed pea,1
+3267,coconut,1
+1364,kale,3
+1315,white radish,6
+4213,patty pan,1
+708,azuki bean,6
+3532,rosemary,4
+2529,grapefruit,6
+4906,blueberry,4
+3545,raisin,6
+2228,coconut,5
+892,mamey,6
+3945,grapefruit,6
+3762,currant,3
+3483,tabasco pepper,6
+1674,blackberry,3
+31,daikon,5
+39,basil,4
+1833,kale,2
+1749,black-eyed pea,2
+3171,apple,1
+3727,apple,3
+3753,watercress,6
+2201,apricot,3
+602,cherimoya,2
+299,avocado,2
+1636,daikon,4
+1414,frisee,4
+1694,apple,1
+1593,date,4
+2210,radish,5
+2850,broccoflower,5
+3876,currant,6
+1992,spaghetti squash,6
+3616,coconut,3
+1096,grapefruit,2
+315,tabasco pepper,4
+1234,navy bean,4
+1112,tubers,5
+4865,blackcurrant,4
+3916,tabasco pepper,2
+994,radish,2
+3060,navy bean,1
+1916,azuki bean,4
+1439,blackcurrant,4
+2448,cherimoya,2
+3331,cloudberry,5
+4518,navy bean,5
+2084,azuki bean,6
+3103,blackcurrant,3
+728,raisin,6
+3617,marjoram,3
+4999,tubers,2
+4300,damson,6
+4723,cabbage,5
+2078,marjoram,5
+3218,radish,1
+4049,damson,1
+1407,tabasco pepper,5
+3506,cabbage,2
+4952,avocado,5
+4918,cloudberry,4
+4540,raisin,5
+4831,blackberry,4
+3589,coconut,4
+351,banana,3
+4452,navy bean,2
+4316,damson,3
+2995,lentils,3
+3030,grapefruit,3
+4576,tat soi,4
+3784,white radish,5
+2312,navy bean,6
+3754,tubers,3
+4036,water chestnut,4
+452,daikon,5
+3419,azuki bean,4
+4947,black-eyed pea,1
+1311,white radish,6
+2534,navy bean,4
+3080,white radish,2
+1057,cabbage,1
+1984,lentils,3
+4119,white radish,6
+2372,elderberry,3
+1865,frisee,1
+4394,tat soi,4
+4800,patty pan,4
+2318,blackcurrant,6
+1570,watercress,3
+3328,raisin,1
+1561,cherimoya,5
+4869,daikon,1
+329,cherimoya,4
+1632,marjoram,3
+3749,squash,5
+243,fig,4
+110,daikon,5
+447,frisee,2
+3481,banana,4
+3044,grapefruit,6
+255,azuki bean,5
+2593,cherimoya,6
+1242,dragonfruit,3
+4771,watercress,6
+1216,broccoflower,3
+4365,watercress,6
+133,date,4
+1198,broccoflower,4
+2094,radish,5
+223,kohlrabi,5
+3752,goji berry,5
+3657,broccoflower,1
+1461,dragonfruit,2
+1341,onion,3
+4443,avocado,5
+3722,azuki bean,2
+3554,black-eyed pea,4
+1808,blackcurrant,6
+2850,navy bean,5
+2728,broccoflower,3
+4696,goji berry,5
+4270,bok choy,5
+3701,navy bean,5
+148,tat soi,3
+4364,coconut,4
+1270,daikon,2
+2176,tabasco pepper,4
+1236,bilberry,2
+1464,daikon,2
+367,grapefruit,1
+4477,blueberry,4
+3805,fig,3
+4445,patty pan,6
+4455,apricot,5
+1045,raisin,5
+52,currant,1
+3137,white radish,3
+3694,cloudberry,5
+3787,spinach,5
+3204,skirret,6
+1971,apple,2
+2347,grapefruit,3
+4855,daikon,3
+3816,watercress,2
+1787,patty pan,3
+3706,navy bean,1
+4620,spaghetti squash,1
+830,onion,2
+4792,coconut,5
+638,cherimoya,5
+1976,grapefruit,1
+4231,calabrese,2
+2008,lentils,4
+759,fig,6
+289,raisin,3
+1690,tat soi,6
+557,feijoa,6
+432,daikon,3
+1938,watercress,3
+3109,dragonfruit,3
+3533,coconut,5
+1320,fig,3
+440,patty pan,1
+1084,corn salad,4
+825,feijoa,5
+3582,tabasco pepper,1
+2997,blackcurrant,5
+3486,frisee,6
+2073,dragonfruit,2
+4274,broccoflower,5
+1411,goji berry,4
+2748,tabasco pepper,1
+1037,damson,6
+1030,corn salad,1
+2792,dragonfruit,4
+4640,currant,2
+3153,tabasco pepper,2
+3477,tat soi,1
+2917,damson,3
+2543,kale,5
+1880,broccoflower,1
+541,white radish,1
+3383,broad beans,6
+60,marjoram,3
+1049,frisee,5
+1709,watercress,3
+3810,frisee,1
+4619,dragonfruit,6
+965,aubergine,6
+2514,frisee,2
+249,tabasco pepper,1
+555,tubers,2
+4904,custard apple,3
+4584,frisee,1
+1091,patty pan,6
+3416,corn salad,3
+2734,currant,5
+2325,dragonfruit,1
+905,white radish,3
+414,dragonfruit,4
+2469,mustard green,2
+3124,black-eyed pea,5
+1655,dragonfruit,1
+2276,apricot,2
+3390,blackcurrant,2
+1346,damson,6
+1212,patty pan,1
+3918,watercress,5
+3097,apricot,4
+451,tubers,3
+4615,cloudberry,6
+807,black-eyed pea,6
+2348,frisee,4
+3775,fig,1
+2144,grapefruit,1
+4826,broccoflower,2
+522,white radish,2
+448,patty pan,3
+4519,spinach,6
+2070,coconut,5
+2411,currant,4
+3976,lemon grass,5
+1741,feijoa,5
+3333,tubers,4
+1348,tat soi,1
+1645,blackberry,5
+2017,wasabi,2
+214,blueberry,5
+1635,white radish,3
+660,coconut,3
+2141,radish,2
+2602,spaghetti squash,2
+1464,dragonfruit,2
+2155,spaghetti squash,6
+4866,blackberry,1
+4602,blackcurrant,1
+4211,cherimoya,1
+1589,broccoli,3
+4264,cherimoya,3
+3608,blackberry,5
+3020,frisee,6
+2943,blackcurrant,4
+3447,blackcurrant,4
+395,lettuce,6
+1636,broccoflower,2
+5,avocado,3
+336,currant,5
+3067,currant,3
+2011,raisin,2
+4323,bilberry,6
+3996,tat soi,3
+3777,grapefruit,3
+1242,cherimoya,2
+1371,tat soi,4
+759,black-eyed pea,1
+2515,radish,6
+2996,broccoflower,2
+1735,broccoflower,3
+101,goji berry,1
+4391,cabbage,3
+1337,white radish,3
+2302,apple,2
+612,tat soi,2
+1487,white radish,1
+1456,corn salad,6
+4068,banana,3
+272,fig,1
+2646,dragonfruit,2
+1537,banana,6
+28,blackberry,6
+980,azuki bean,1
+4126,frisee,3
+1578,bilberry,5
+2857,broccoflower,6
+590,bilberry,3
+597,chives,4
+283,patty pan,3
+4664,banana,3
+4,goji berry,4
+2057,frisee,6
+1372,grapefruit,6
+4344,kale,1
+1365,patty pan,5
+4991,cherimoya,1
+4100,frisee,2
+4088,nopale,6
+4515,lentils,5
+2133,radish,3
+4806,cloudberry,2
+3472,coconut,3
+343,cloudberry,6
+3718,jalapeno,2
+3298,cloudberry,1
+2255,daikon,4
+1223,white radish,6
+567,avocado,3
+1973,spaghetti squash,4
+3228,blackcurrant,5
+232,broccoflower,3
+3278,kale,6
+4394,cherimoya,3
+4706,avocado,3
+652,marjoram,1
+677,damson,3
+4479,tat soi,5
+32,azuki bean,3
+2519,cabbage,5
+3970,cherimoya,2
+2019,patty pan,2
+2673,banana,3
+3238,tabasco pepper,3
+4558,banana,3
+1456,feijoa,4
+2452,frisee,6
+1246,spaghetti squash,1
+963,apricot,1
+2433,currant,3
+4822,navy bean,5
+4788,tabasco pepper,5
+4378,broccoflower,3
+4584,coconut,1
+1125,frisee,4
+3290,lentils,2
+4050,azuki bean,6
+487,tubers,1
+2041,tubers,3
+1924,watercress,5
+4583,bilberry,6
+2825,apple,2
+1521,new zealand spinach,1
+2510,broccoflower,4
+637,daikon,3
+1881,fig,4
+4987,asparagus,6
+368,blackcurrant,1
+1730,kale,6
+2222,lentils,6
+4929,cabbage,3
+1639,celery,5
+3548,fig,1
+4249,daikon,1
+82,watercress,2
+4549,apple,4
+4448,broccoflower,5
+4517,cherimoya,3
+1963,fig,3
+2416,radish,5
+4915,navy bean,2
+1564,lentils,2
+3124,kale,3
+2938,cloudberry,2
+2768,date,3
+1698,coconut,1
+234,bilberry,4
+4638,blueberry,3
+836,watercress,6
+2801,dragonfruit,3
+2754,tubers,2
+226,patty pan,5
+2926,watercress,1
+1627,patty pan,1
+1177,lentils,6
+3674,grapefruit,1
+2304,watercress,1
+2698,black-eyed pea,4
+1657,azuki bean,1
+2679,durian,6
+3315,patty pan,2
+874,azuki bean,2
+2672,grapefruit,1
+836,black-eyed pea,1
+520,white radish,3
+2574,daikon,1
+3537,asparagus,2
+3326,kale,1
+2400,banana,4
+309,navy bean,3
+2792,chard,6
+2618,cloudberry,5
+2561,radish,6
+3674,corn salad,6
+3127,bilberry,2
+2592,bilberry,1
+4183,tat soi,5
+3181,spinach,1
+3870,dragonfruit,1
+1072,cherimoya,2
+4505,lentils,1
+3042,daikon,4
+4053,patty pan,6
+4730,patty pan,1
+2632,banana,1
+566,kale,5
+198,spaghetti squash,2
+439,azuki bean,1
+4168,feijoa,1
+249,feijoa,5
+4565,blueberry,5
+4979,damson,5
+3841,goji berry,3
+4616,bilberry,3
+3518,marjoram,5
+3568,feijoa,2
+1536,apricot,6
+2183,tabasco pepper,2
+1939,goji berry,2
+2761,date,5
+2707,daikon,6
+1337,spaghetti squash,4
+1411,broccoflower,4
+391,fig,5
+1731,grapefruit,2
+396,fig,3
+4989,feijoa,5
+419,cherimoya,3
+2296,coconut,4
+582,dragonfruit,1
+4337,feijoa,1
+2049,goji berry,4
+3666,banana,2
+4449,avocado,4
+2155,tubers,2
+1448,banana,4
+878,radish,4
+2474,avocado,3
+3924,patty pan,5
+1594,fig,6
+1973,spaghetti squash,1
+48,date,6
+4850,goji berry,2
+3414,patty pan,5
+1605,bilberry,5
+1979,radish,4
+3888,blueberry,2
+2934,grapefruit,3
+3569,apple,2
+2031,banana,4
+1795,blackberry,3
+2078,new zealand spinach,1
+1673,pea,4
+3180,marjoram,6
+3890,marjoram,3
+2503,patty pan,3
+4612,grapefruit,4
+2691,blackcurrant,1
+3011,apple,4
+2401,kale,2
+3164,navy bean,2
+1594,tubers,1
+3893,apple,1
+2575,black-eyed pea,2
+470,currant,6
+4093,tabasco pepper,1
+2657,azuki bean,3
+4212,tat soi,3
+4853,azuki bean,6
+2892,tabasco pepper,1
+1985,black-eyed pea,2
+3223,cabbage,4
+4753,date,4
+3239,spaghetti squash,2
+3546,raisin,3
+379,currant,5
+764,coconut,2
+3225,tat soi,4
+3250,corn salad,1
+4596,tat soi,6
+4219,bilberry,5
+3734,grapefruit,4
+1201,cloudberry,4
+3263,cabbage,5
+1262,cabbage,1
+1117,blackberry,3
+2084,spinach,6
+2647,fig,6
+2968,black-eyed pea,2
+2751,avocado,6
+600,frisee,3
+4304,patty pan,1
+2096,cabbage,2
+3104,lentils,2
+2761,tat soi,1
+953,cabbage,6
+3663,kale,1
+1258,amaranth,2
+2767,tubers,5
+2153,date,2
+120,tubers,3
+3194,dragonfruit,5
+396,cloudberry,3
+163,marjoram,1
+293,blackcurrant,3
+2476,fig,3
+1730,lentils,3
+687,white radish,2
+573,blackberry,2
+2174,goji berry,2
+4037,cloudberry,5
+2697,goji berry,2
+1363,daikon,2
+1688,patty pan,6
+640,navy bean,5
+3819,blackcurrant,2
+962,skirret,3
+3504,cloudberry,4
+571,wasabi,6
+4393,navy bean,1
+2700,fig,2
+2380,raisin,3
+2576,raisin,5
+2077,cherimoya,4
+2790,blueberry,6
+4220,dragonfruit,3
+4319,navy bean,6
+3257,avocado,1
+2809,apricot,5
+1171,apple,4
+1351,patty pan,5
+1053,patty pan,2
+674,spinach,4
+3943,fiddlehead,3
+1071,raisin,2
+3200,tubers,4
+2091,daikon,5
+2000,white radish,5
+3235,watercress,4
+2000,marjoram,4
+3593,spinach,2
+4030,currant,2
+323,banana,4
+4522,blackberry,6
+3675,damson,1
+4693,tat soi,4
+1660,marjoram,6
+1033,blackberry,4
+3280,kale,3
+3490,black-eyed pea,3
+2283,cabbage,2
+533,apricot,5
+2207,banana,4
+338,date,5
+4831,soy bean,1
+1604,watercress,3
+4352,lentils,6
+3666,raisin,4
+2613,patty pan,4
+537,blackcurrant,3
+1484,patty pan,4
+4998,avocado,4
+3227,frisee,2
+2642,damson,5
+3824,cabbage,2
+1741,guava,4
+3453,avocado,6
+4721,marjoram,5
+888,broccoflower,3
+2376,cabbage,6
+1445,blackberry,4
+4448,date,6
+1768,blackberry,3
+2947,dragonfruit,6
+2582,spaghetti squash,3
+4877,goji berry,1
+3555,spaghetti squash,3
+2592,date,2
+20,raisin,1
+2372,blackberry,3
+4145,spinach,1
+4416,cherimoya,2
+3457,white radish,1
+593,patty pan,1
+1696,watercress,6
+987,black-eyed pea,4
+399,tabasco pepper,1
+1502,damson,3
+2547,frisee,6
+3992,goji berry,3
+2715,daikon,4
+3136,avocado,1
+1303,currant,6
+1734,lentils,2
+3640,apricot,5
+671,black-eyed pea,2
+3052,azuki bean,3
+3133,cherimoya,6
+1949,tabasco pepper,2
+4252,blackcurrant,4
+3299,blackcurrant,6
+3889,navy bean,2
+280,daikon,1
+1202,blackcurrant,5
+1174,daikon,4
+2080,dragonfruit,1
+2210,tubers,2
+4217,spaghetti squash,6
+1216,lentils,3
+4174,banana,2
+4023,cherimoya,5
+3191,blueberry,1
+3301,navy bean,4
+4572,broccoflower,5
+2336,patty pan,2
+3504,broccoflower,5
+2265,coconut,3
+3045,cabbage,2
+1407,fig,3
+374,raisin,6
+1924,frisee,3
+2603,patty pan,3
+3521,blackcurrant,3
+1743,bilberry,6
+2710,kale,3
+1430,grapefruit,5
+2207,tubers,6
+1738,radish,1
+116,banana,5
+984,tabasco pepper,5
+2836,coconut,3
+2377,date,5
+159,tat soi,2
+2853,goji berry,6
+2628,coconut,2
+3129,bilberry,2
+488,tat soi,6
+561,spaghetti squash,3
+2737,cherimoya,1
+4460,tat soi,1
+4692,watercress,1
+4827,dragonfruit,1
+4523,date,2
+1087,blackberry,5
+3980,goji berry,3
+1848,dragonfruit,3
+3466,marjoram,6
+4643,goji berry,1
+1671,dragonfruit,1
+4804,date,4
+2926,banana,3
+839,goji berry,4
+1803,goji berry,2
+1164,watercress,6
+2095,blackcurrant,4
+3406,blueberry,1
+208,marjoram,5
+1634,fig,1
+4209,green bean,3
+3315,frisee,2
+4350,bilberry,3
+1950,tubers,1
+948,corn salad,4
+3818,goji berry,4
+4727,chives,3
+4259,marjoram,6
+4110,dragonfruit,4
+4860,navy bean,4
+4792,cabbage,4
+4556,watercress,6
+185,radish,3
+2677,fig,2
+3353,azuki bean,5
+1614,apricot,6
+1185,white radish,3
+1373,corn salad,2
+4375,fig,1
+2584,patty pan,6
+4322,currant,3
+373,damson,3
+3424,black-eyed pea,3
+3541,tat soi,3
+1644,apple,1
+43,coconut,1
+4285,spinach,1
+2812,broccoflower,1
+4051,wasabi,5
+4219,avocado,5
+3662,spinach,6
+2079,kale,5
+4200,corn salad,3
+1337,cloudberry,4
+1688,watercress,6
+4123,marjoram,2
+3545,daikon,2
+3251,raisin,1
+2081,spinach,3
+2481,tubers,1
+4240,tubers,5
+1830,collard green,2
+4382,broccoflower,3
+3999,apricot,1
+242,blackcurrant,1
+1833,goji berry,5
+2415,navy bean,3
+728,raisin,2
+4464,apricot,6
+4338,blackberry,1
+4713,cherimoya,4
+662,tubers,5
+3641,tubers,1
+1916,azuki bean,3
+3465,corn salad,5
+402,spaghetti squash,5
+3422,black-eyed pea,6
+25,tat soi,4
+2014,fig,3
+2695,frisee,6
+3156,damson,4
+2189,frisee,2
+2895,yam,6
+2950,damson,5
+922,radish,2
+3492,spinach,4
+3190,bilberry,1
+4189,fig,1
+581,banana,6
+3672,frisee,2
+2207,currant,1
+347,avocado,4
+1713,spaghetti squash,5
+4288,damson,5
+4727,coconut,2
+4988,tat soi,5
+4769,cloudberry,3
+4967,kale,4
+4468,broccoflower,5
+84,damson,2
+932,navy bean,6
+4755,frisee,4
+4464,cherimoya,5
+2684,corn salad,3
+1709,date,4
+2559,bilberry,6
+3897,tubers,6
+2108,raisin,1
+3151,coconut,3
+164,corn salad,5
+1776,cherimoya,3
+1105,fiddlehead,3
+2047,watercress,1
+736,watercress,1
+510,tat soi,2
+4163,navy bean,1
+2120,bok choy,4
+538,coconut,5
+4564,tubers,5
+1181,radish,3
+4280,avocado,3
+395,spinach,3
+1833,broccoli,5
+3004,spinach,3
+2745,raisin,6
+1493,coconut,4
+2343,apple,5
+3547,goji berry,6
+2780,fig,2
+3126,bilberry,3
+4033,bilberry,4
+1780,date,1
+3973,daikon,1
+4869,cherimoya,3
+2452,currant,4
+2338,dragonfruit,3
+108,cabbage,4
+4389,kale,3
+4570,currant,1
+1148,apricot,2
+4069,black-eyed pea,1
+3618,grapefruit,4
+2644,mushroom,4
+1984,patty pan,6
+4391,corn salad,4
+2916,avocado,5
+4438,fennel,6
+549,cherimoya,3
+3840,patty pan,3
+3500,cherimoya,5
+4785,corn salad,1
+186,tubers,6
+1339,blueberry,1
+220,tabasco pepper,6
+96,frisee,4
+198,frisee,1
+3108,apricot,4
+4487,frisee,4
+4794,marjoram,6
+4182,tat soi,2
+1266,feijoa,3
+4687,patty pan,3
+3427,watercress,1
+3735,blackcurrant,2
+3065,grapefruit,4
+3259,apricot,5
+457,apricot,2
+3699,tabasco pepper,5
+4420,daikon,3
+2609,spaghetti squash,4
+915,blackberry,3
+70,tat soi,2
+1959,white radish,3
+2720,blackberry,5
+145,apple,3
+1505,bilberry,3
+4412,damson,2
+4911,banana,5
+3534,broad beans,2
+4008,cherimoya,4
+2837,blackberry,6
+4616,raisin,6
+3729,broccoflower,2
+2629,apricot,2
+3150,watercress,3
+2934,kale,3
+1671,spinach,6
+366,avocado,6
+3807,feijoa,3
+3548,marjoram,2
+4885,blackberry,4
+3203,apricot,1
+4496,feijoa,5
+983,white radish,4
+737,goji berry,3
+1636,blackcurrant,3
+155,avocado,6
+2848,cloudberry,6
+2216,bilberry,4
+4720,watercress,5
+1555,cabbage,1
+1103,cherimoya,4
+2077,blueberry,6
+4810,avocado,5
+1653,spaghetti squash,5
+3221,pea,1
+2424,banana,6
+4575,lentils,5
+3317,fig,3
+4408,apple,5
+584,navy bean,2
+3791,damson,1
+2275,black-eyed pea,1
+108,damson,4
+4477,cabbage,2
+4945,tubers,3
+2296,broccoflower,4
+997,raisin,2
+3335,fig,6
+679,corn salad,1
+379,dragonfruit,5
+2917,cloudberry,6
+4625,tat soi,2
+3644,tat soi,2
+3678,spinach,1
+1903,blackcurrant,3
+1350,marjoram,6
+1710,banana,3
+2274,navy bean,2
+1533,raisin,3
+3803,watercress,3
+4708,bilberry,4
+400,date,5
+4468,lentils,5
+2493,kale,2
+156,coconut,3
+2085,dragonfruit,2
+451,mung bean,1
+3699,avocado,4
+3311,feijoa,3
+1379,tat soi,6
+2992,currant,4
+535,spinach,4
+4884,corn salad,1
+2372,cloudberry,1
+4675,lentils,3
+1636,white radish,5
+3181,grapefruit,3
+1933,radish,3
+2111,tabasco pepper,2
+1728,avocado,1
+2155,pumpkin,3
+1307,lentils,2
+3034,lentils,5
+1050,avocado,6
+1380,tabasco pepper,6
+204,avocado,4
+4421,fig,3
+256,date,2
+4811,grapefruit,2
+4552,kale,4
+599,cherimoya,4
+1315,raisin,6
+483,damson,4
+1327,grapefruit,5
+1757,borlotti bean,5
+2360,corn salad,4
+4054,tabasco pepper,6
+1760,kale,5
+3064,watercress,3
+578,goji berry,2
+4126,fig,6
+2557,skirret,5
+1983,goji berry,1
+854,water chestnut,2
+4898,tabasco pepper,3
+3669,radish,3
+603,apricot,3
+4200,blueberry,5
+512,azuki bean,1
+2820,tat soi,4
+1424,daikon,3
+608,radish,1
+2540,lentils,5
+390,white radish,2
+4281,kale,2
+4025,cherimoya,3
+4532,corn salad,4
+89,radish,3
+1117,coconut,5
+4735,marjoram,5
+4019,tubers,1
+4754,potato,6
+1899,radish,3
+38,cherimoya,6
+2525,radish,6
+2033,corn salad,5
+4719,date,2
+4258,chickpea,5
+3947,bilberry,3
+2749,banana,6
+1437,tubers,1
+2805,date,4
+1134,skirret,5
+2838,radish,3
+255,white radish,1
+2519,marjoram,1
+4409,broccoflower,2
+3251,parsley,6
+771,broccoli,1
+581,white radish,5
+2541,apple,2
+400,cabbage,3
+2687,radish,2
+2338,cloudberry,4
+3134,damson,6
+4336,watercress,2
+2543,watercress,2
+208,broccoflower,5
+1640,tubers,4
+3345,navy bean,5
+2548,navy bean,4
+16,banana,2
+1980,blackberry,1
+446,black-eyed pea,5
+4787,radish,3
+2135,cherimoya,6
+520,feijoa,3
+1686,marjoram,5
+4717,patty pan,2
+2856,blueberry,3
+2274,white radish,5
+4931,azuki bean,6
+3465,white radish,4
+4354,patty pan,6
+2306,navy bean,1
+2654,fig,6
+4646,radish,2
+4502,jalapeno,2
+267,marjoram,5
+613,avocado,4
+3977,coconut,3
+3285,cabbage,6
+2245,kale,1
+4446,daikon,6
+2422,tubers,6
+3154,azuki bean,6
+731,black-eyed pea,3
+1184,azuki bean,3
+3023,cloudberry,6
+4161,zucchini,3
+922,tubers,3
+2185,apricot,3
+1379,marjoram,4
+2121,fig,6
+651,fig,4
+1339,spinach,5
+429,date,5
+2906,blackberry,1
+1391,navy bean,4
+3482,lentils,4
+2864,patty pan,5
+4020,marjoram,1
+3572,coconut,3
+4697,radish,5
+251,watercress,2
+1874,avocado,5
+4866,apple,3
+2450,kale,5
+2814,dragonfruit,4
+2924,blackberry,2
+956,banana,2
+4547,coconut,6
+3754,apple,5
+3108,spaghetti squash,1
+554,tat soi,2
+354,cherimoya,4
+2114,navy bean,6
+4723,avocado,3
+4367,apple,1
+3007,lentils,5
+2464,tat soi,6
+3792,avocado,3
+1517,currant,2
+311,runner bean,2
+4614,frisee,1
+1123,coconut,6
+1015,blackcurrant,4
+3884,blackberry,5
+3606,spinach,3
+3181,kale,3
+2999,kale,3
+2178,goji berry,3
+4883,apple,6
+200,cabbage,3
+1257,banana,5
+918,fig,4
+2925,broccoflower,1
+1507,spinach,3
+3490,cherimoya,6
+1272,blackberry,3
+446,broccoflower,4
+858,blackberry,2
+438,patty pan,5
+2493,white radish,6
+4538,corn salad,6
+2366,dragonfruit,1
+2621,grapefruit,1
+2600,blueberry,4
+171,blueberry,1
+4227,banana,1
+1535,coconut,6
+3687,navy bean,5
+2760,navy bean,4
+3384,spaghetti squash,3
+2237,watercress,1
+865,broccoflower,4
+489,cloudberry,3
+2779,caraway,1
+816,tabasco pepper,3
+723,cabbage,4
+4104,damson,1
+2002,broccoflower,6
+2197,apricot,3
+2532,avocado,2
+3768,navy bean,4
+4979,blueberry,1
+13,cloudberry,5
+3980,apple,3
+1126,cloudberry,4
+1950,blackcurrant,4
+2043,coconut,6
+4380,tabasco pepper,5
+3750,cherimoya,1
+3346,broccoflower,1
+4410,coconut,3
+1383,currant,4
+358,white radish,2
+871,blackberry,4
+4101,cabbage,2
+497,radish,2
+4647,blackcurrant,1
+2294,azuki bean,2
+4772,cherimoya,2
+854,cabbage,2
+545,tat soi,6
+263,black-eyed pea,3
+768,frisee,1
+2493,tat soi,2
+747,coconut,6
+4697,white radish,5
+4409,blackberry,1
+3374,damson,5
+1539,lentils,3
+1587,tubers,6
+3136,cherimoya,4
+1821,tubers,3
+3323,apricot,2
+3256,lentils,4
+1339,daikon,2
+1230,blueberry,1
+1405,frisee,1
+2406,date,6
+2399,lavender,4
+128,coconut,6
+3466,blackberry,5
+2394,dragonfruit,1
+4919,apricot,3
+3638,avocado,2
+2917,lentils,5
+4728,fig,1
+3591,dragonfruit,5
+1053,cherimoya,5
+1828,spaghetti squash,3
+2057,damson,5
+3153,navy bean,3
+4210,feijoa,4
+1632,black-eyed pea,2
+1366,watercress,1
+1467,patty pan,4
+4455,blueberry,2
+175,frisee,6
+4339,raisin,5
+4642,kale,5
+2059,black-eyed pea,3
+1168,corn,2
+1052,beet,2
+4022,feijoa,3
+671,chickpea,3
+1310,avocado,1
+1410,blueberry,5
+4662,tabasco pepper,3
+4283,blueberry,5
+4285,blackberry,6
+4,blueberry,5
+2447,damson,4
+4145,bilberry,5
+1512,broccoflower,5
+1923,cherimoya,6
+3593,blackberry,5
+3785,patty pan,6
+496,kale,2
+2165,goji berry,5
+1781,broccoflower,1
+2871,blackcurrant,2
+4536,cherimoya,2
+4084,white radish,5
+70,bilberry,1
+1049,blueberry,4
+546,broccoflower,3
+2987,dragonfruit,2
+3579,feijoa,2
+3578,snap pea,1
+2073,damson,2
+258,azuki bean,4
+509,spinach,3
+4342,cabbage,5
+2329,navy bean,5
+3983,fiddlehead,5
+866,tubers,3
+3176,blackberry,3
+1385,kale,2
+378,bilberry,5
+4805,azuki bean,3
+25,damson,2
+1793,daikon,2
+1456,navy bean,2
+4918,avocado,2
+1769,tabasco pepper,5
+1209,blackberry,1
+90,navy bean,3
+2618,cloudberry,1
+3717,spaghetti squash,4
+1631,bilberry,2
+3089,black bean,2
+2277,coconut,3
+465,blackcurrant,3
+78,spinach,5
+4599,fig,3
+641,currant,2
+4192,corn salad,1
+2480,watercress,3
+1244,raisin,6
+9,tat soi,4
+4193,lentils,2
+4868,daikon,6
+1844,azuki bean,3
+2850,cabbage,1
+2777,fig,1
+2261,date,3
+4550,azuki bean,4
+4985,spinach,1
+1723,fig,4
+749,gooseberry,5
+759,navy bean,3
+2793,blackcurrant,5
+3497,feijoa,6
+1025,avocado,2
+4408,blueberry,6
+1444,white radish,1
+1987,bilberry,6
+1953,dragonfruit,6
+2562,damson,3
+4957,feijoa,1
+1571,grapefruit,3
+1495,cabbage,4
+1269,cherimoya,1
+4627,apricot,6
+1669,grapefruit,6
+2838,apple,3
+4482,marjoram,5
+600,date,6
+1892,goji berry,3
+3294,coconut,2
+3630,damson,5
+3185,raisin,5
+11,patty pan,5
+2892,marjoram,5
+1216,cherimoya,4
+320,spinach,3
+1137,mangetout,6
+3959,white radish,6
+440,corn salad,5
+3727,broccoflower,5
+4511,feijoa,1
+731,apricot,2
+2704,cloudberry,2
+892,corn salad,5
+3628,mung bean,5
+2997,blackcurrant,1
+3689,dragonfruit,4
+2795,runner bean,5
+1147,blueberry,3
+4148,white radish,6
+2150,cloudberry,6
+3193,damson,5
+3341,dragonfruit,6
+656,daikon,4
+3219,goji berry,6
+131,chayote,5
+1584,daikon,2
+3491,blackcurrant,3
+3259,avocado,4
+1360,goji berry,4
+1837,grapefruit,6
+431,white radish,3
+1127,grapefruit,4
+1054,tubers,3
+943,lentils,3
+2264,watercress,1
+1562,raisin,6
+3914,cherry,4
+580,dragonfruit,3
+4876,daikon,3
+4795,lettuce,5
+1445,damson,4
+1719,date,3
+3739,fig,5
+1525,daikon,6
+4433,damson,3
+415,radish,6
+1252,goji berry,6
+2903,tubers,6
+4166,spaghetti squash,3
+1495,apple,3
+4086,tabasco pepper,2
+4107,caraway,1
+1047,tubers,1
+1622,marjoram,1
+157,cloudberry,4
+3340,avocado,3
+4839,cherimoya,5
+1627,tat soi,6
+589,bilberry,5
+4182,broccoflower,5
+2883,date,5
+3505,black-eyed pea,5
+635,cabbage,3
+451,lemon grass,4
+4901,grapefruit,3
+4084,azuki bean,1
+905,frisee,3
+1057,boysenberry,1
+1836,snap pea,2
+3988,bilberry,6
+161,cabbage,2
+1755,grapefruit,3
+2058,patty pan,6
+588,raisin,1
+3458,corn salad,6
+3768,white radish,5
+2564,tat soi,3
+2859,cloudberry,3
+2719,damson,6
+2927,white radish,5
+2342,goji berry,1
+4123,cherimoya,1
+481,blackcurrant,4
+2607,tat soi,6
+3595,coconut,3
+1099,marjoram,3
+2776,white radish,4
+1775,cherimoya,6
+2566,radish,2
+4690,lentils,5
+742,currant,4
+4910,banana,5
+1795,watercress,2
+2608,date,3
+3168,black-eyed pea,3
+2483,coconut,2
+3587,avocado,5
+404,corn salad,4
+267,apple,3
+3268,bilberry,4
+1460,spaghetti squash,6
+3609,avocado,6
+2709,patty pan,5
+2785,grapefruit,5
+4798,damson,1
+4235,white radish,6
+2894,cabbage,2
+320,spaghetti squash,4
+1999,habanero,3
+2142,damson,6
+685,coconut,1
+3524,patty pan,6
+267,squash,2
+4331,currant,4
+1796,tubers,6
+1409,beet,2
+1971,apple,4
+3581,daikon,4
+4898,cloudberry,2
+4136,navy bean,4
+1433,blackcurrant,5
+1508,green pepper,6
+2609,azuki bean,2
+4014,white radish,4
+2571,elderberry,4
+4562,spinach,5
+2457,grapefruit,1
+1963,corn salad,1
+2016,patty pan,4
+1146,cabbage,2
+1573,bilberry,2
+344,raisin,4
+2539,daikon,2
+3644,tat soi,5
+3795,dragonfruit,1
+1371,daikon,3
+941,lentils,3
+1243,grapefruit,3
+625,goji berry,4
+2740,currant,2
+2343,bilberry,2
+4556,broccoflower,1
+2006,watercress,1
+3066,tabasco pepper,1
+3119,kale,6
+2903,blueberry,3
+1829,patty pan,4
+4491,tabasco pepper,2
+4380,navy bean,2
+3376,tabasco pepper,3
+4038,azuki bean,1
+3341,banana,1
+942,broccoflower,4
+2867,bilberry,6
+2683,blueberry,6
+4549,watercress,5
+3442,marjoram,2
+3779,tubers,5
+1645,daikon,3
+4343,date,2
+1278,blackberry,3
+2489,currant,1
+3703,broccoflower,1
+1182,bilberry,3
+906,fig,2
+1691,blackberry,5
+2366,blackcurrant,1
+545,date,3
+3217,kale,3
+4174,currant,1
+319,tat soi,4
+3394,radish,1
+60,coconut,1
+544,black-eyed pea,2
+3236,spaghetti squash,2
+2097,daikon,4
+3099,coconut,2
+173,cherimoya,4
+4907,cherimoya,6
+2626,dragonfruit,2
+355,broccoflower,3
+2903,damson,3
+3913,navy bean,1
+2194,blackberry,2
+1023,frisee,1
+1712,apple,4
+2430,broccoflower,5
+2587,date,5
+542,banana,1
+451,tubers,4
+4153,feijoa,4
+3222,tat soi,1
+4363,watercress,2
+2222,tat soi,4
+1417,lentils,2
+706,marjoram,1
+2299,white radish,4
+2112,navy bean,6
+3753,broccoflower,1
+3974,blackberry,6
+2014,cherimoya,6
+4577,blackberry,4
+3100,spinach,6
+1282,date,1
+1943,dragonfruit,2
+3344,kale,2
+2762,frisee,4
+1037,tubers,5
+623,navy bean,3
+2820,bilberry,5
+4616,spaghetti squash,6
+4506,currant,4
+1982,spaghetti squash,3
+4161,daikon,3
+3523,coconut,4
+3175,grapefruit,3
+4218,frisee,5
+4186,spaghetti squash,1
+3994,goji berry,2
+2011,lavender,5
+2604,coconut,5
+3060,coconut,2
+3513,kale,4
+3031,durian,2
+4625,blackcurrant,1
+816,apple,6
+4225,currant,4
+1818,coconut,5
+2779,marjoram,1
+1475,raisin,4
+4563,dragonfruit,3
+2173,cherimoya,1
+171,apple,3
+3609,apricot,4
+2988,spinach,3
+3530,goji berry,1
+282,marjoram,2
+1214,bilberry,6
+600,currant,2
+4265,apricot,5
+1979,corn salad,1
+3498,blackberry,6
+3841,azuki bean,1
+3592,blueberry,3
+3296,corn salad,5
+4842,damson,3
+4632,tabasco pepper,6
+3853,fig,1
+3347,daikon,5
+2234,tat soi,6
+3866,raisin,6
+2971,avocado,3
+2578,spaghetti squash,3
+4765,dragonfruit,4
+4340,navy bean,5
+824,raisin,6
+108,blackberry,2
+2155,frisee,1
+3270,broccoflower,6
+2265,frisee,2
+160,kale,6
+2493,feijoa,5
+3428,frisee,4
+4188,grapefruit,1
+2190,dragonfruit,3
+2245,bilberry,3
+400,raisin,5
+1049,apricot,6
+1803,goji berry,1
+4420,spaghetti squash,3
+1649,blackcurrant,2
+4029,damson,3
+1253,marjoram,3
+1503,patty pan,2
+4545,white radish,4
+4909,grapefruit,1
+1827,corn salad,2
+728,cloudberry,5
+1046,blackberry,6
+455,apple,2
+3638,black-eyed pea,2
+3488,banana,3
+816,kale,4
+14,feijoa,6
+4291,blackcurrant,5
+2881,tabasco pepper,6
+1426,white radish,5
+2634,dragonfruit,1
+477,navy bean,1
+1467,mung bean,1
+720,wasabi,3
+3567,marjoram,5
+2512,spinach,1
+1751,navy bean,4
+3577,corn salad,3
+4882,tubers,3
+1342,apple,3
+754,broccoflower,3
+2858,tubers,6
+4869,raisin,4
+3805,frisee,4
+2647,dragonfruit,2
+1072,tat soi,6
+4621,lentils,6
+1440,frisee,5
+3568,grapefruit,1
+1503,apricot,4
+1718,grapefruit,2
+2307,cabbage,1
+2283,cherimoya,2
+383,damson,2
+4279,lentils,3
+2333,navy bean,6
+3181,cabbage,4
+3058,blueberry,2
+2345,blackberry,1
+2244,lentils,1
+3165,black-eyed pea,2
+479,daikon,2
+161,white radish,3
+4694,tat soi,1
+3833,mung bean,5
+3281,corn salad,2
+2309,grapefruit,4
+1965,tubers,6
+321,cloudberry,4
+1357,radish,2
+568,spinach,1
+4099,dragonfruit,5
+2749,apple,2
+3452,kale,4
+3903,watercress,1
+1670,feijoa,1
+799,feijoa,6
+2388,fig,6
+1172,currant,3
+2898,grapefruit,2
+3304,tabasco pepper,2
+3689,bilberry,5
+1500,radish,4
+355,arugula,5
+4106,damson,2
+1607,corn salad,3
+1842,navy bean,5
+473,broccoflower,6
+3454,cloudberry,3
+1074,avocado,2
+74,fig,3
+2233,dragonfruit,2
+4756,apricot,4
+3803,grapefruit,1
+2979,apple,3
+1089,feijoa,5
+3736,broccoflower,2
+4432,dragonfruit,3
+2301,banana,6
+228,cabbage,5
+863,feijoa,5
+926,navy bean,3
+1960,corn salad,2
+1650,marjoram,4
+4673,blackcurrant,6
+903,feijoa,2
+2479,wasabi,6
+3498,spaghetti squash,6
+3847,tat soi,5
+4241,raisin,4
+1078,blackcurrant,1
+1813,tat soi,6
+1441,marjoram,3
+171,raisin,1
+63,white radish,5
+2266,blackcurrant,1
+2702,spaghetti squash,1
+1579,scallion,5
+1676,apple,3
+2478,dragonfruit,3
+3168,grapefruit,2
+1152,coconut,4
+162,apple,1
+3564,radish,6
+4152,lentils,2
+2780,cherimoya,1
+4401,banana,1
+3236,watercress,4
+4711,corn salad,2
+3776,white radish,1
+4844,dragonfruit,4
+645,raisin,3
+3669,blueberry,5
+3913,damson,6
+1413,grapefruit,4
+2749,radish,6
+4252,mangetout,3
+3215,frisee,4
+3705,marjoram,1
+3332,lentils,1
+3245,bilberry,6
+2622,dragonfruit,4
+3834,cilantro,2
+2537,patty pan,4
+3523,goji berry,1
+180,blueberry,4
+1106,white radish,2
+2885,spaghetti squash,5
+2942,frisee,4
+4580,feijoa,6
+1633,tubers,3
+3445,navy bean,2
+1380,lentils,3
+3853,raisin,6
+3663,raisin,1
+83,fig,2
+3898,date,4
+4473,avocado,3
+4097,cherimoya,4
+2930,damson,1
+256,radish,5
+759,navy bean,1
+1501,damson,4
+828,tabasco pepper,4
+1285,dragonfruit,3
+1300,spinach,1
+548,cherimoya,6
+4290,white radish,6
+2562,daikon,5
+4609,raisin,6
+63,marjoram,5
+3259,spaghetti squash,3
+3824,tat soi,4
+810,apricot,5
+2077,bilberry,3
+4637,cherimoya,6
+4772,avocado,5
+3732,coconut,4
+4643,corn salad,5
+2114,cabbage,2
+2706,azuki bean,4
+1371,corn salad,3
+3662,cloudberry,6
+3538,apricot,6
+922,lentils,2
+581,marjoram,5
+1433,blackberry,1
+3464,black-eyed pea,5
+1199,blackberry,1
+991,tabasco pepper,5
+32,frisee,3
+4824,blackberry,3
+2561,cabbage,1
+1187,banana,4
+3344,kale,2
+4947,tat soi,3
+1259,azuki bean,5
+4338,banana,4
+1941,avocado,6
+1347,marjoram,3
+643,blackcurrant,6
+3809,grapefruit,5
+3705,apple,5
+3926,grapefruit,5
+1272,broccoflower,2
+1993,black-eyed pea,4
+3112,blueberry,6
+3879,damson,2
+424,fig,6
+4408,zucchini,6
+3136,azuki bean,5
+3228,apricot,4
+1731,spinach,5
+286,goji berry,6
+2069,tabasco pepper,6
+4214,cherimoya,5
+87,patty pan,2
+2361,daikon,1
+2894,banana,5
+2591,tabasco pepper,1
+155,navy bean,4
+1289,tubers,2
+2242,avocado,2
+4071,date,3
+1265,black-eyed pea,4
+849,tabasco pepper,1
+2073,blueberry,6
+1746,cloudberry,3
+4840,apple,2
+1468,goji berry,1
+2306,kale,3
+1266,patty pan,5
+1091,feijoa,2
+1653,raisin,6
+4103,blackberry,6
+3327,coconut,1
+4078,lentils,5
+570,daikon,4
+2562,apple,6
+33,marjoram,3
+733,goji berry,5
+761,tubers,6
+2074,grapefruit,2
+2518,black-eyed pea,5
+1030,patty pan,1
+2630,avocado,5
+4716,date,6
+4906,patty pan,5
+777,currant,2
+4319,patty pan,5
+4721,kale,6
+2040,banana,4
+2603,blackcurrant,2
+2096,navy bean,4
+3995,cherimoya,1
+4883,grapefruit,3
+4564,broccoflower,2
+3782,tabasco pepper,6
+3474,tat soi,2
+3792,apple,4
+3885,blackberry,4
+2360,blackcurrant,3
+4832,white radish,3
+3883,broccoflower,1
+2314,tat soi,2
+965,navy bean,3
+3176,tabasco pepper,4
+3532,skirret,1
+3989,blackberry,6
+4099,blackberry,1
+1005,apricot,5
+1837,banana,1
+4684,damson,4
+3011,coconut,4
+2180,feijoa,3
+4334,fig,1
+22,marjoram,3
+227,cherimoya,4
+1363,banana,1
+2675,lentils,2
+239,blueberry,4
+4831,watercress,5
+2165,marjoram,3
+2169,patty pan,1
+3900,currant,2
+3311,feijoa,1
+2642,tubers,5
+2456,marjoram,3
+132,azuki bean,1
+3051,chives,1
+2672,navy bean,4
+4742,lentils,5
+744,tabasco pepper,2
+2917,currant,2
+4414,broccoflower,5
+3228,feijoa,6
+3892,fig,4
+1978,feijoa,2
+2385,navy bean,2
+607,black-eyed pea,3
+2790,cabbage,4
+2843,bilberry,2
+615,raisin,5
+2260,white radish,2
+2097,cloudberry,1
+2513,tubers,6
+2634,marjoram,5
+2110,black-eyed pea,4
+1524,fig,1
+2901,cloudberry,6
+1134,goji berry,4
+4051,frisee,6
+967,cloudberry,4
+3037,black-eyed pea,5
+3029,tabasco pepper,5
+1371,watercress,4
+2996,avocado,5
+3946,coconut,3
+4884,apricot,2
+4367,cherimoya,6
+78,marjoram,4
+630,radish,4
+1755,tabasco pepper,6
+3159,black-eyed pea,3
+2825,damson,4
+1943,navy bean,5
+3776,apricot,5
+1938,radish,4
+2156,white radish,5
+4835,raisin,4
+1626,lentils,1
+2961,dragonfruit,2
+1296,goji berry,2
+1073,cabbage,4
+3738,black-eyed pea,2
+2908,cherimoya,6
+459,white radish,3
+1692,tubers,6
+1062,chamomile,4
+3037,broccoflower,2
+3770,broccoflower,3
+3022,spinach,2
+2568,blackberry,5
+439,tat soi,3
+134,bilberry,4
+3944,marjoram,6
+3871,currant,4
+3456,dragonfruit,5
+391,blackberry,2
+1849,radish,1
+3385,raisin,6
+2382,currant,4
+2171,navy bean,4
+4317,date,6
+4715,watercress,2
+173,blackcurrant,6
+2436,coconut,5
+493,patty pan,2
+1176,banana,6
+2536,kale,6
+2946,blueberry,6
+1784,broccoflower,1
+870,lentils,2
+1034,potato,2
+1963,radish,5
+3224,navy bean,6
+4388,feijoa,3
+2569,marjoram,1
+2148,cloudberry,1
+827,raisin,5
+1183,azuki bean,2
+2490,cherimoya,1
+4744,mushroom,1
+1311,apricot,4
+2472,bilberry,5
+4410,damson,5
+615,tubers,6
+938,tabasco pepper,3
+297,tubers,6
+351,cloudberry,2
+546,marjoram,4
+3062,fig,6
+780,feijoa,2
+431,blackberry,3
+4442,spinach,6
+4393,tabasco pepper,6
+2496,tabasco pepper,4
+3713,cloudberry,3
+2186,apple,3
+3042,white radish,3
+369,patty pan,4
+3350,black-eyed pea,5
+1287,blueberry,1
+176,banana,2
+1499,cabbage,4
+3834,daikon,3
+4100,blueberry,2
+2197,blueberry,1
+4029,raisin,1
+18,marjoram,1
+4916,marjoram,4
+1482,frisee,3
+2602,lentils,6
+4825,blackberry,3
+917,bilberry,3
+1391,banana,5
+1073,lemon grass,2
+1194,patty pan,6
+1415,feijoa,6
+1966,black-eyed pea,3
+835,white radish,1
+2828,watercress,1
+768,radish,3
+219,spaghetti squash,3
+4650,patty pan,1
+208,tat soi,3
+3547,raisin,3
+2138,cherimoya,5
+1425,topinambur,1
+1987,daikon,4
+2912,apple,6
+3109,blackcurrant,4
+3775,date,6
+954,azuki bean,1
+4041,apricot,5
+3527,corn salad,3
+359,navy bean,2
+4784,radish,6
+1904,patty pan,4
+4479,corn salad,5
+3907,azuki bean,3
+1947,navy bean,5
+2322,dragonfruit,4
+3267,apple,1
+24,marjoram,6
+605,fig,5
+1242,blackberry,4
+1338,spaghetti squash,6
+4733,apricot,5
+1576,patty pan,1
+1888,blackcurrant,2
+311,date,3
+4800,spinach,1
+899,tat soi,5
+790,coconut,2
+4167,blackberry,5
+4350,frisee,6
+2840,apple,6
+3379,radish,2
+315,avocado,1
+4507,watercress,3
+2963,currant,5
+810,date,1
+4950,date,4
+2226,lentils,1
+2553,tabasco pepper,5
+2811,cloudberry,1
+2740,goji berry,6
+936,dragonfruit,3
+1423,tubers,3
+3874,lentils,1
+201,fennel,6
+1170,dragonfruit,2
+3146,currant,5
+1194,dragonfruit,2
+4537,date,3
+1324,currant,1
+1667,daikon,2
+2059,date,6
+3020,goji berry,6
+901,frisee,1
+2334,raisin,4
+1793,goji berry,4
+737,banana,2
+3059,avocado,5
+4602,watercress,3
+3951,black-eyed pea,4
+2690,tabasco pepper,6
+2860,navy bean,5
+4852,tubers,3
+4111,kale,3
+650,coconut,6
+107,raisin,5
+4437,radish,3
+1687,cabbage,2
+2561,spaghetti squash,4
+3170,fig,3
+1190,cabbage,6
+1210,apricot,5
+4755,green bean,1
+725,marjoram,1
+2996,daikon,2
+2677,feijoa,1
+2839,cabbage,1
+1345,feijoa,3
+4902,bilberry,2
+408,corn salad,1
+3101,tubers,4
+2688,navy bean,4
+3055,white radish,6
+1934,tubers,1
+2287,fig,1
+2412,bilberry,1
+1009,raisin,1
+1250,banana,6
+2901,banana,3
+2546,grapefruit,2
+3285,frisee,3
+1781,raisin,3
+2992,fig,3
+748,raisin,4
+3790,date,1
+1596,tubers,2
+4656,raisin,4
+2041,kale,5
+1970,date,2
+1840,cabbage,3
+3389,goji berry,5
+4427,blackcurrant,2
+4841,broccoflower,3
+2126,tabasco pepper,4
+2533,marjoram,4
+2231,blackberry,5
+4692,spinach,3
+1612,kale,2
+1541,kale,4
+1794,tabasco pepper,1
+459,acorn squash,5
+2219,banana,2
+4192,spaghetti squash,6
+2608,coconut,3
+3536,raisin,5
+703,cherimoya,4
+2736,pinto bean,6
+3980,currant,2
+444,spaghetti squash,6
+3443,damson,4
+4091,blackcurrant,5
+771,watercress,1
+1414,feijoa,1
+118,goji berry,1
+2345,patty pan,5
+754,bilberry,3
+2303,white radish,4
+1952,watercress,2
+609,apple,6
+3288,garlic,4
+4254,dragonfruit,2
+48,spinach,2
+2468,currant,4
+2547,apricot,1
+1368,coconut,4
+1953,tat soi,3
+1422,apricot,3
+1339,date,4
+4170,watercress,3
+854,blackcurrant,5
+4320,yam,6
+990,raisin,4
+2635,lentils,3
+667,banana,4
+4402,cherimoya,4
+1978,cherimoya,6
+4370,durian,4
+1531,goji berry,6
+3755,patty pan,2
+4644,cherimoya,3
+1531,apricot,2
+2174,tabasco pepper,5
+1225,raisin,1
+2494,apricot,2
+4808,daikon,1
+155,azuki bean,5
+1850,tat soi,2
+4629,cauliflower,1
+3259,blueberry,1
+32,damson,1
+3154,patty pan,5
+4842,azuki bean,6
+539,black-eyed pea,1
+4149,blueberry,5
+2071,frisee,3
+2332,broccoflower,3
+4774,apple,1
+1827,corn salad,1
+4133,blackcurrant,4
+4958,tubers,1
+4290,date,5
+583,avocado,5
+2036,navy bean,5
+4432,radish,5
+3517,azuki bean,6
+1563,white radish,4
+3939,dragonfruit,3
+4089,watercress,4
+30,radish,4
+1224,feijoa,2
+2136,damson,5
+3573,cloudberry,5
+523,dragonfruit,1
+3864,grapefruit,5
+4334,goji berry,2
+1334,apricot,1
+3433,dragonfruit,3
+3234,marjoram,6
+1134,navy bean,2
+1058,blueberry,3
+1401,cherimoya,3
+3720,blueberry,4
+4679,fig,6
+1982,raisin,5
+1458,white radish,1
+2965,spaghetti squash,1
+4557,black-eyed pea,2
+1585,black-eyed pea,2
+2914,broccoflower,1
+4745,radish,3
+2554,tubers,1
+652,tubers,5
+2685,spinach,3
+2148,kale,6
+2878,azuki bean,6
+964,cloudberry,1
+3319,kale,2
+4394,apricot,5
+4236,navy bean,5
+4059,white radish,5
+750,patty pan,3
+541,cranberry,6
+120,black-eyed pea,3
+923,marjoram,3
+3799,banana squash,1
+2686,spinach,2
+980,grapefruit,5
+1973,tubers,4
+3476,frisee,3
+3058,apricot,1
+2845,lentils,3
+4193,goji berry,2
+717,anise,2
+3040,radish,2
+1935,blackcurrant,1
+1988,radish,4
+803,coconut,6
+3687,apricot,1
+4524,date,6
+3551,fig,5
+3163,banana,1
+4951,banana,3
+3251,tabasco pepper,5
+4601,grapefruit,2
+843,dragonfruit,2
+3674,delicata,3
+1968,fig,2
+1308,cabbage,1
+2044,tubers,4
+302,apple,3
+2984,azuki bean,2
+2675,damson,5
+3979,cherimoya,4
+1679,broccoflower,5
+3788,cloudberry,3
+2199,corn salad,4
+2341,marjoram,1
+3949,grapefruit,5
+785,sage,3
+4956,blackberry,3
+3718,patty pan,3
+3773,bilberry,5
+4306,grapefruit,6
+3934,apricot,2
+549,spaghetti squash,2
+3672,patty pan,3
+877,apple,4
+3364,goji berry,2
+582,tat soi,2
+1839,broccoflower,6
+2495,broccoflower,5
+3087,goji berry,6
+3027,feijoa,1
+795,blackberry,4
+1861,spaghetti squash,3
+2088,damson,6
+2793,damson,1
+3429,watercress,4
+2707,dragonfruit,3
+809,fig,4
+3996,marjoram,4
+2674,navy bean,1
+2035,cabbage,3
+883,apricot,3
+453,grapefruit,6
+1437,corn salad,1
+2772,cherimoya,1
+238,navy bean,4
+4807,watercress,1
+1118,currant,6
+3729,daikon,3
+1153,goji berry,1
+2910,dragonfruit,5
+1846,spinach,4
+3971,date,3
+2330,taro,5
+4402,currant,6
+4755,radish,4
+756,cloudberry,1
+2161,avocado,3
+3955,daikon,5
+110,radish,6
+4938,bilberry,4
+4321,corn salad,2
+1396,tat soi,6
+2848,grapefruit,1
+3923,kale,5
+900,kale,3
+633,navy bean,1
+66,banana,2
+4702,currant,1
+4488,tubers,3
+2340,marjoram,3
+3540,collard green,2
+4280,feijoa,4
+95,watercress,6
+573,radish,3
+3070,patty pan,3
+3127,blackberry,1
+2197,cherimoya,1
+1041,currant,5
+2474,navy bean,6
+2612,lentils,6
+3777,kale,6
+1001,kale,3
+2980,corn salad,6
+1369,blackberry,4
+2538,garlic,2
+838,spinach,3
+155,cloudberry,2
+4677,coconut,1
+4518,navy bean,2
+3528,cabbage,4
+72,date,2
+2542,watercress,1
+4604,white radish,4
+672,patty pan,4
+728,bilberry,4
+2855,daikon,2
+746,bilberry,2
+4981,corn salad,2
+3078,broccoflower,5
+3525,marjoram,4
+1563,black-eyed pea,5
+679,frisee,4
+3506,blackcurrant,2
+2111,cabbage,1
+2847,radish,5
+913,damson,5
+569,marjoram,6
+1219,tabasco pepper,1
+2867,spinach,5
+3984,tabasco pepper,3
+1677,corn salad,1
+3349,apple,6
+4260,grapefruit,5
+2390,blackcurrant,1
+1410,kale,3
+564,azuki bean,6
+3086,kale,1
+4702,cherimoya,6
+1632,bilberry,3
+1022,raisin,5
+2456,coconut,1
+3747,fig,5
+4761,lentils,2
+1164,tubers,4
+1623,watercress,4
+862,radish,6
+2156,azuki bean,5
+4473,blackcurrant,4
+378,blackberry,5
+4062,feijoa,3
+814,cherimoya,1
+4187,lentils,2
+364,date,5
+4030,apricot,2
+526,lentils,4
+1938,white radish,6
+4012,watercress,5
+1164,rosemary,2
+4134,frisee,6
+3843,avocado,6
+1009,mung bean,1
+1327,raisin,3
+1563,broccoflower,1
+1346,damson,6
+2529,cherimoya,3
+3654,raisin,3
+2670,broccoflower,5
+1809,navy bean,4
+4519,tat soi,3
+1503,spinach,1
+2124,blueberry,5
+3259,cabbage,5
+1613,blackberry,3
+4644,tubers,4
+3685,corn salad,2
+3865,blueberry,2
+2148,watercress,2
+4010,blackberry,2
+992,spinach,1
+382,cloudberry,3
+2734,spaghetti squash,4
+2466,dragonfruit,3
+2919,coconut,6
+1120,coconut,6
+4346,fig,2
+4519,cherimoya,2
+697,black-eyed pea,2
+2544,spaghetti squash,2
+1118,apricot,6
+3617,banana,6
+2537,mangetout,5
+3159,tat soi,6
+4242,azuki bean,2
+2433,currant,1
+3651,grapefruit,4
+3679,daikon,2
+2889,spinach,4
+2960,corn salad,3
+4212,apricot,2
+4464,apple,6
+4338,patty pan,2
+1055,damson,1
+1006,lentils,2
+2322,tat soi,4
+2080,gem squash,3
+290,cloudberry,1
+3609,azuki bean,5
+4563,tat soi,4
+2588,cabbage,6
+1296,runner bean,1
+722,corn salad,4
+527,azuki bean,6
+1602,cabbage,6
+2050,broccoflower,3
+1030,delicata,6
+4736,broccoflower,4
+1587,marjoram,2
+3153,daikon,5
+2811,white radish,5
+1439,lentils,5
+1479,feijoa,4
+2724,date,4
+176,spaghetti squash,4
+2053,frisee,4
+558,kale,1
+4963,dragonfruit,6
+2017,black-eyed pea,1
+2447,white radish,5
+4988,spaghetti squash,4
+1768,spinach,3
+1518,fig,6
+3756,fig,3
+2017,tubers,3
+763,cloudberry,4
+1692,white radish,2
+1400,kale,3
+1069,apricot,6
+3410,currant,2
+2778,fig,3
+3475,tubers,1
+2488,coconut,5
+2419,tat soi,1
+3094,cloudberry,3
+1515,navy bean,2
+238,frisee,2
+1641,black-eyed pea,5
+1667,grapefruit,3
+1676,marjoram,1
+2632,marjoram,6
+4890,raisin,1
+739,apricot,2
+450,azuki bean,2
+2639,banana,6
+4245,coconut,6
+1186,cloudberry,5
+1123,date,3
+4957,goji berry,3
+258,azuki bean,6
+3375,apricot,3
+2584,fig,3
+354,blackcurrant,6
+4877,bean sprout,3
+3366,goji berry,6
+692,marjoram,3
+2155,white radish,1
+3720,blackcurrant,5
+4320,currant,4
+3590,currant,1
+4051,blackcurrant,2
+915,tubers,4
+3047,navy bean,2
+3647,radish,4
+1751,fig,2
+3725,black-eyed pea,3
+4642,date,2
+2244,date,4
+962,marjoram,3
+2370,white radish,3
+2207,spinach,4
+5000,banana,6
+3242,fig,1
+2688,banana,5
+4189,lentils,5
+4303,banana,2
+4702,black-eyed pea,6
+3779,apricot,6
+2476,damson,1
+163,spaghetti squash,3
+2637,dragonfruit,5
+4145,tat soi,4
+328,kale,6
+5000,tabasco pepper,5
+20,broccoflower,3
+1964,dragonfruit,3
+396,avocado,2
+2287,kale,6
+1380,grapefruit,5
+4921,fig,6
+1309,avocado,4
+660,blackberry,6
+1959,spinach,4
+3716,currant,3
+3216,blueberry,5
+717,bilberry,6
+3330,dragonfruit,6
+4372,cabbage,3
+3630,radish,4
+4968,frisee,2
+2077,apple,3
+3502,dragonfruit,1
+4843,feijoa,4
+4,white radish,1
+4319,grapefruit,3
+3150,azuki bean,3
+2115,guava,3
+2693,feijoa,3
+4357,radish,5
+472,corn salad,6
+3295,cloudberry,2
+275,blueberry,2
+2465,spinach,5
+1156,grapefruit,6
+1599,watercress,1
+1875,radish,3
+1154,grapefruit,3
+185,lentils,1
+2733,bilberry,3
+12,marjoram,3
+1206,anise,5
+2299,frisee,4
+1627,currant,5
+1990,coconut,4
+1606,currant,5
+4086,blueberry,2
+2923,marjoram,4
+1134,azuki bean,4
+2069,grapefruit,2
+3929,blueberry,6
+1781,cabbage,1
+4019,grapefruit,2
+1847,avocado,1
+3220,grapefruit,3
+4380,lentils,4
+1206,cloudberry,5
+528,patty pan,3
+1627,fig,1
+4494,watercress,6
+3635,damson,4
+1302,spinach,3
+2485,banana squash,6
+3893,aubergine,4
+480,tubers,3
+4695,cabbage,5
+2719,lentils,2
+1112,frisee,3
+1124,tat soi,2
+1935,white radish,1
+2188,marjoram,2
+4832,black-eyed pea,5
+3427,grapefruit,1
+2250,marjoram,6
+108,cabbage,5
+1422,navy bean,1
+1492,spaghetti squash,1
+1190,white radish,6
+4963,watercress,1
+4550,daikon,1
+685,fig,5
+2559,cherimoya,2
+943,frisee,5
+1710,dragonfruit,2
+2014,frisee,5
+3279,cloudberry,4
+251,coconut,3
+3850,tat soi,5
+424,tabasco pepper,4
+3959,blueberry,5
+532,broccoflower,6
+2335,date,4
+3215,damson,5
+365,patty pan,2
+3582,dragonfruit,3
+3904,fig,3
+518,apricot,6
+4545,tabasco pepper,4
+4947,tabasco pepper,2
+4980,marjoram,6
+2937,cabbage,1
+4029,pumpkin,4
+142,raisin,3
+1388,cloudberry,2
+1975,date,2
+975,feijoa,6
+284,spaghetti squash,2
+4206,cabbage,5
+499,coconut,5
+652,azuki bean,2
+3897,blackberry,4
+937,apricot,1
+163,banana,2
+2082,tabasco pepper,6
+2114,banana,2
+3127,grapefruit,3
+762,black-eyed pea,4
+517,spaghetti squash,6
+4701,kale,5
+687,cabbage,2
+2941,lentils,5
+2605,dragonfruit,4
+1412,blackcurrant,4
+2859,apple,5
+2063,fig,5
+4077,bilberry,2
+91,coconut,3
+4872,goji berry,4
+1670,cherimoya,6
+2053,goji berry,3
+612,damson,2
+4638,marjoram,6
+1135,broccoflower,2
+587,blackberry,2
+2227,blackberry,4
+2872,daikon,2
+478,frisee,2
+986,blueberry,4
+4325,radish,4
+3798,date,6
+3590,date,5
+290,cherimoya,5
+4019,tat soi,3
+2054,currant,3
+3022,banana,3
+928,feijoa,3
+870,corn salad,4
+3724,chamomile,6
+3978,spaghetti squash,5
+2428,patty pan,5
+3867,navy bean,3
+3301,grapefruit,4
+903,tabasco pepper,1
+1594,apricot,4
+226,broccoflower,2
+2822,cherimoya,1
+2830,date,3
+3546,dragonfruit,1
+2113,blackcurrant,4
+853,corn salad,2
+1775,avocado,4
+762,tat soi,3
+1021,hubbard squash,6
+3202,corn salad,4
+176,black-eyed pea,2
+3349,daikon,3
+2793,black-eyed pea,3
+111,lentils,5
+1279,lentils,3
+4564,banana,4
+607,radish,5
+3716,spinach,6
+3153,date,1
+442,black-eyed pea,6
+4791,tat soi,4
+4520,tabasco pepper,3
+1836,apple,5
+964,broccoflower,4
+1863,watercress,1
+2845,banana,4
+2642,apple,3
+3408,spinach,6
+2178,cloudberry,4
+2561,grapefruit,6
+1579,navy bean,4
+1181,spaghetti squash,6
+1723,blackberry,4
+4767,bilberry,4
+2054,blackberry,5
+1740,corn salad,4
+2029,apricot,1
+2818,frisee,2
+3421,spinach,3
+4223,feijoa,1
+4550,cloudberry,6
+4671,hubbard squash,1
+4190,apple,4
+1400,coconut,2
+1814,tubers,6
+4307,radish,3
+2926,damson,2
+2473,patty pan,1
+1847,watercress,2
+555,spaghetti squash,5
+3079,blackcurrant,4
+3823,watercress,4
+99,radish,2
+3539,black-eyed pea,1
+771,cabbage,3
+3188,date,2
+4002,black-eyed pea,3
+3523,tat soi,4
+1980,bilberry,4
+1573,date,6
+1708,corn salad,3
+3730,bilberry,3
+1409,tubers,5
+4834,blueberry,4
+1532,date,4
+1842,apple,1
+2675,navy bean,1
+359,blueberry,4
+201,spaghetti squash,5
+2639,apple,5
+2548,kale,5
+1726,coconut,5
+3943,lentils,1
+3899,tabasco pepper,2
+1048,azuki bean,2
+1247,kale,3
+4875,dragonfruit,3
+4763,tubers,4
+2228,banana,1
+4001,kale,6
+395,white radish,1
+1378,tat soi,5
+1458,cherimoya,3
+2741,corn salad,3
+4933,leek ,3
+1269,spinach,5
+4881,avocado,3
+634,corn salad,3
+1941,apple,4
+2225,daikon,5
+3331,patty pan,5
+1061,spaghetti squash,2
+1777,radish,3
+2589,avocado,3
+521,azuki bean,1
+1803,cherimoya,1
+3160,apple,2
+2282,blackberry,4
+1862,blackcurrant,6
+1555,avocado,4
+2922,anise,2
+3346,black-eyed pea,6
+2163,marjoram,5
+2995,white radish,6
+1938,cabbage,1
+631,white radish,4
+3771,dragonfruit,3
+1116,black-eyed pea,6
+4004,daikon,3
+896,fig,4
+4948,patty pan,6
+829,azuki bean,1
+681,basil,4
+282,avocado,5
+2302,cayenne pepper,6
+1655,patty pan,3
+4357,tubers,6
+3125,banana,3
+4154,blueberry,1
+1885,corn salad,5
+2954,grapefruit,1
+3326,fig,6
+2678,watercress,1
+4906,apricot,5
+584,currant,3
+4483,apricot,1
+4127,cherimoya,4
+1545,black-eyed pea,1
+582,blackberry,5
+3164,banana,5
+3112,spinach,2
+1963,blackberry,2
+3855,tat soi,2
+1489,fiddlehead,4
+3443,cloudberry,5
+268,cherimoya,1
+2931,avocado,1
+2001,green bean,3
+3648,patty pan,2
+2332,tabasco pepper,2
+3078,cabbage,5
+3564,cherimoya,5
+2010,white radish,6
+4294,tabasco pepper,5
+3237,cloudberry,1
+4904,feijoa,1
+1705,banana,2
+2604,watercress,2
+1317,cloudberry,5
+4409,frisee,3
+2936,radish,2
+2320,radish,1
+3806,broccoflower,1
+4605,date,3
+2141,delicata,6
+1109,raisin,2
+1825,corn salad,1
+4176,apple,4
+4128,blackberry,1
+1351,lentils,6
+3101,broccoflower,1
+1734,navy bean,6
+3061,azuki bean,2
+2363,apricot,3
+3028,spinach,1
+4687,damson,5
+484,damson,5
+269,guava,4
+138,patty pan,6
+3627,azuki bean,4
+3684,daikon,3
+1623,tabasco pepper,3
+534,grapefruit,4
+394,grapefruit,5
+4654,lentils,4
+4133,tubers,6
+4682,white radish,1
+3269,cloudberry,3
+884,bilberry,2
+2166,navy bean,2
+4963,daikon,5
+3340,radish,4
+900,watercress,6
+2726,date,3
+797,tubers,1
+4585,coconut,6
+2487,banana,1
+1858,tat soi,6
+1544,butternut squash,3
+4470,spinach,5
+2573,grapefruit,4
+1808,spinach,5
+2143,spinach,1
+1234,blackberry,5
+2030,chayote,4
+714,tubers,6
+1552,feijoa,3
+809,spaghetti squash,1
+1839,tat soi,4
+4672,cabbage,3
+4296,currant,4
+711,goji berry,6
+2291,white radish,6
+1891,goji berry,5
+3479,currant,5
+1152,currant,5
+324,patty pan,1
+4330,blackcurrant,6
+1536,blueberry,2
+4419,avocado,5
+3892,damson,5
+485,damson,2
+3610,white radish,1
+4769,lentils,1
+2810,apple,6
+2253,radish,4
+4681,cayenne pepper,3
+64,date,6
+1061,tat soi,2
+4134,radish,2
+775,basil,6
+1996,goji berry,4
+1697,broccoflower,1
+177,marjoram,5
+1173,kale,3
+1853,tat soi,2
+3813,goji berry,5
+2290,bilberry,2
+4644,sweet potato,1
+1596,lentils,2
+4900,blueberry,6
+1610,black-eyed pea,6
+42,spaghetti squash,3
+2038,tabasco pepper,4
+3909,corn salad,5
+2584,chives,2
+179,damson,2
+3275,cloudberry,3
+2167,feijoa,3
+3776,black-eyed pea,6
+3271,kale,3
+1643,cilantro,6
+1975,kale,6
+4083,cabbage,1
+873,kale,6
+4176,coconut,4
+332,new zealand spinach,3
+2951,white radish,6
+3618,corn salad,3
+2648,radish,1
+2096,feijoa,1
+1857,frisee,4
+1308,daikon,2
+4033,chickpea,5
+4326,raisin,1
+4763,azuki bean,3
+4192,eggplant,1
+867,fig,2
+3705,tubers,2
+2114,fig,4
+1275,tabasco pepper,1
+3887,fig,5
+4542,goji berry,4
+3632,borlotti bean,6
+4179,blackcurrant,6
+4329,tubers,4
+2120,feijoa,5
+3015,watercress,2
+1538,feijoa,6
+3904,grapefruit,2
+2938,cabbage,3
+237,cabbage,2
+4430,radish,3
+1694,broccoflower,6
+2744,marjoram,2
+3275,spaghetti squash,5
+3349,spinach,6
+2752,goji berry,6
+4026,apricot,3
+772,caraway,4
+3451,tat soi,1
+353,currant,6
+3797,currant,1
+2068,daikon,3
+2700,white radish,5
+440,damson,4
+4227,frisee,3
+4116,cherimoya,4
+2832,goji berry,3
+4233,banana,1
+3527,raisin,6
+4778,kale,1
+164,watercress,1
+3405,aubergine,5
+4837,banana,4
+3766,blueberry,1
+2005,apricot,5
+1782,radish,2
+3130,currant,4
+3874,tat soi,1
+1725,radish,2
+2587,frisee,6
+2459,azuki bean,5
+2516,bilberry,1
+2893,grapefruit,1
+1202,navy bean,1
+2987,grapefruit,5
+831,kale,3
+3166,blueberry,4
+3355,tabasco pepper,3
+2652,azuki bean,2
+333,dill,2
+1762,guava,6
+623,frisee,3
+3832,lentils,3
+4986,damson,5
+377,fig,5
+3543,blueberry,6
+1909,corn salad,5
+2770,patty pan,3
+4848,currant,6
+1956,cherimoya,5
+3401,kale,6
+1326,marjoram,1
+4171,feijoa,2
+953,blueberry,1
+4473,daikon,6
+4448,broccoflower,4
+3106,azuki bean,6
+4696,dragonfruit,3
+1932,grapefruit,2
+717,watercress,2
+4531,dragonfruit,6
+3617,white radish,3
+1083,grapefruit,4
+992,white radish,3
+2188,tubers,1
+4361,apple,6
+3203,damson,4
+1491,cloudberry,2
+3994,blueberry,4
+988,date,6
+3043,patty pan,5
+367,spinach,3
+3600,black-eyed pea,2
+1094,daikon,1
+2646,patty pan,5
+795,raisin,3
+2573,daikon,1
+1470,marjoram,4
+641,broccoflower,6
+2005,radish,6
+187,lentils,5
+4168,corn salad,4
+1258,date,5
+3241,tabasco pepper,2
+1415,spaghetti squash,1
+1363,white radish,3
+1538,tubers,1
+4342,avocado,3
+3968,navy bean,1
+1185,white radish,2
+4761,date,5
+2925,feijoa,3
+1022,endive,5
+1446,tubers,6
+2295,azuki bean,6
+1368,apple,3
+2863,navy bean,1
+2257,dragonfruit,5
+4657,tabasco pepper,3
+253,blackcurrant,5
+4797,coconut,2
+2463,date,4
+3465,dragonfruit,5
+1522,cherimoya,3
+1924,navy bean,6
+3821,fig,1
+3316,blackberry,3
+2579,lentils,6
+2623,cherimoya,1
+3451,navy bean,4
+3879,coconut,2
+3355,apple,5
+2816,marjoram,5
+4783,dragonfruit,2
+1005,watercress,3
+4521,currant,2
+982,kale,3
+4189,blackcurrant,3
+68,date,6
+2972,spinach,6
+4517,avocado,4
+3780,spaghetti squash,1
+2407,blackberry,4
+1634,damson,3
+2393,damson,6
+3987,avocado,2
+1169,lentils,2
+972,lentils,6
+4811,feijoa,6
+3986,blueberry,1
+3018,azuki bean,1
+1968,avocado,2
+2169,blackcurrant,5
+4867,radish,2
+1106,blackberry,4
+281,dragonfruit,5
+4675,apple,3
+1035,damson,3
+498,dragonfruit,5
+3575,lentils,4
+2350,fig,5
+2076,banana,2
+1760,cherimoya,3
+426,raisin,1
+3489,cherimoya,5
+2760,damson,4
+3781,apple,1
+2052,avocado,6
+3450,tat soi,2
+4699,raisin,5
+3114,white radish,4
+2459,avocado,2
+1469,white radish,4
+1632,blueberry,3
+985,feijoa,6
+2577,dragonfruit,6
+1415,apple,1
+1818,azuki bean,5
+787,bilberry,6
+359,tubers,4
+3522,tat soi,4
+4666,mung bean,6
+3204,raisin,2
+4761,cloudberry,6
+221,blueberry,3
+4890,tabasco pepper,4
+27,white radish,3
+2295,date,2
+3336,white radish,5
+4738,fig,4
+2121,blackcurrant,4
+922,marjoram,5
+1321,apricot,3
+2016,tubers,1
+2403,lentils,3
+4165,grapefruit,6
+4408,kale,4
+3329,banana,2
+4669,cabbage,4
+3243,feijoa,1
+3582,dragonfruit,1
+1952,cherimoya,4
+4729,feijoa,4
+2013,blackberry,4
+26,cabbage,5
+4966,patty pan,6
+2142,lettuce,3
+3171,damson,6
+633,tubers,2
+3511,feijoa,2
+1688,fig,2
+3693,brussels sprout,5
+2598,banana,6
+2778,tubers,1
+3093,blackcurrant,2
+2161,apricot,2
+2448,black-eyed pea,6
+1306,spaghetti squash,5
+4420,currant,3
+1163,frisee,3
+12,white radish,5
+2558,marjoram,3
+2295,goji berry,1
+575,spaghetti squash,6
+1269,spaghetti squash,1
+2675,cabbage,6
+3427,tat soi,1
+591,raisin,5
+4847,blueberry,1
+4534,damson,5
+1861,blackberry,4
+2587,kidney bean,5
+3215,radish,3
+2908,daikon,5
+2319,date,3
+1773,corn salad,4
+3304,dragonfruit,1
+1277,spaghetti squash,5
+143,frisee,3
+1333,white radish,4
+4163,navy bean,2
+1921,fig,2
+55,watercress,3
+4591,banana,3
+274,feijoa,3
+220,goji berry,6
+1499,cloudberry,3
+4467,broccoli,4
+1872,currant,1
+2105,feijoa,1
+2104,corn salad,1
+3940,daikon,1
+4360,blackberry,1
+2734,cherimoya,1
+2179,navy bean,2
+1228,bilberry,5
+4362,raisin,4
+1294,goji berry,1
+1246,spinach,1
+2347,avocado,4
+2927,blackberry,1
+3191,spaghetti squash,6
+661,fig,4
+1665,raisin,1
+69,marjoram,4
+193,tat soi,1
+3242,blackcurrant,4
+1540,watercress,2
+3729,tubers,3
+620,watercress,5
+2316,fennel,5
+191,goji berry,2
+49,blackberry,4
+4573,cloudberry,5
+3596,corn salad,4
+2975,raisin,4
+4894,cloudberry,1
+2839,avocado,2
+4834,patty pan,3
+2613,frisee,3
+1640,apricot,4
+3633,banana,6
+1125,apricot,1
+1695,azuki bean,3
+2499,banana,5
+2106,daikon,2
+2452,beet,4
+1351,date,6
+2888,radish,6
+1136,radish,4
+1897,white radish,2
+4481,broccoflower,5
+3560,avocado,1
+2783,damson,4
+1173,azuki bean,3
+4835,apricot,5
+2276,cauliflower,6
+742,azuki bean,4
+2740,blackcurrant,2
+1186,cloudberry,4
+590,marjoram,3
+1993,feijoa,2
+4213,patty pan,3
+2981,navy bean,4
+3177,pinto bean,5
+477,cayenne pepper,1
+1474,grapefruit,6
+1293,blackcurrant,2
+1451,blueberry,6
+3769,frisee,6
+542,daikon,6
+34,banana,1
+2315,broccoflower,4
+4271,raisin,6
+987,patty pan,6
+1641,watercress,3
+366,feijoa,1
+4865,navy bean,2
+2073,date,3
+2959,currant,1
+756,raisin,2
+3730,bilberry,6
+3862,watercress,2
+676,cloudberry,3
+776,frisee,5
+1870,azuki bean,6
+1706,azuki bean,6
+3227,cherimoya,1
+3681,frisee,2
+4127,date,3
+3425,frisee,2
+410,black-eyed pea,6
+2474,feijoa,2
+1104,lentils,5
+183,coconut,3
+2905,bilberry,4
+2792,date,5
+3169,tubers,6
+4856,radish,3
+3119,blueberry,3
+212,apricot,5
+2485,navy bean,3
+4165,lentils,2
+2733,date,4
+786,tat soi,1
+1009,daikon,4
+4291,cabbage,1
+4106,broccoflower,2
+1646,fig,4
+4361,custard apple,5
+3408,onion,5
+2677,damson,3
+1836,blueberry,5
+4784,bilberry,2
+2476,azuki bean,6
+4434,daikon,6
+2040,dragonfruit,5
+4868,damson,5
+4599,tat soi,4
+2581,cabbage,3
+94,tubers,4
+4268,tubers,4
+228,apple,6
+3731,black-eyed pea,6
+3811,raisin,2
+1225,tabasco pepper,1
+1487,blackberry,5
+3647,patty pan,4
+1982,spaghetti squash,1
+2544,watercress,4
+3256,coconut,2
+396,currant,3
+1679,dragonfruit,2
+2165,white radish,3
+2726,kale,1
+4145,damson,5
+4007,patty pan,5
+3281,banana,3
+875,daikon,1
+2979,spaghetti squash,3
+2963,feijoa,3
+4068,grapefruit,2
+1534,daikon,2
+1654,azuki bean,4
+3717,navy bean,1
+1373,cabbage,6
+2551,azuki bean,5
+1645,tabasco pepper,3
+2988,feijoa,2
+1294,taro,5
+4199,radish,5
+377,cabbage,3
+2467,tabasco pepper,3
+1086,spaghetti squash,2
+3875,cherimoya,1
+4050,spaghetti squash,1
+1457,navy bean,3
+2452,cherimoya,4
+4209,raisin,2
+3776,fig,3
+1367,white radish,2
+2395,dragonfruit,5
+537,watercress,6
+2535,lentils,4
+3188,apricot,3
+3586,damson,4
+2068,apricot,3
+2595,daikon,5
+2756,blackberry,1
+1823,navy bean,4
+4332,grapefruit,4
+1014,black-eyed pea,3
+495,navy bean,3
+2180,tabasco pepper,6
+4121,coconut,2
+4560,cloudberry,5
+2021,feijoa,6
+1041,apricot,5
+3606,blueberry,4
+680,snap pea,4
+3808,fig,4
+3716,cherimoya,6
+4409,avocado,1
+1927,grapefruit,4
+2713,marjoram,3
+2075,currant,5
+4616,blackberry,5
+2471,blueberry,1
+205,marjoram,2
+3021,corn salad,1
+380,grapefruit,3
+2376,tat soi,1
+1029,spinach,2
+1667,patty pan,1
+4425,spinach,2
+3545,damson,4
+3151,apple,3
+4130,tabasco pepper,4
+3378,frisee,6
+3136,raisin,2
+3067,cherimoya,3
+3978,damson,5
+2203,tabasco pepper,2
+2040,watercress,3
+2483,apple,2
+473,chamomile,6
+1140,spinach,6
+489,tubers,4
+4009,watercress,3
+2334,damson,5
+1988,fig,4
+1918,kale,4
+509,apricot,4
+3686,cherimoya,2
+2015,tabasco pepper,1
+4561,marjoram,3
+386,daikon,1
+1278,goji berry,3
+3471,tubers,2
+2455,tabasco pepper,3
+2099,daikon,3
+4934,blackcurrant,1
+71,apricot,3
+3649,spinach,5
+4453,apricot,3
+4337,watercress,2
+301,damson,3
+4009,water chestnut,6
+3011,cloudberry,1
+1577,currant,1
+271,cherimoya,2
+3056,watercress,4
+4657,cloudberry,2
+3453,blueberry,1
+461,apple,3
+445,black-eyed pea,3
+1782,tat soi,5
+4929,azuki bean,4
+949,corn salad,6
+178,cabbage,4
+4559,blackberry,5
+4395,currant,2
+1884,black-eyed pea,6
+2536,coconut,6
+2479,tat soi,4
+4816,black-eyed pea,1
+1641,date,5
+2568,marjoram,4
+3198,tubers,1
+2328,daikon,5
+3296,tubers,5
+1053,currant,1
+408,kale,1
+429,watercress,4
+470,patty pan,5
+1100,marjoram,2
+2769,tubers,2
+4790,marjoram,2
+4548,lentils,3
+667,tubers,6
+1378,azuki bean,6
+1937,cherimoya,6
+1520,jicama,2
+2460,radish,2
+2841,spaghetti squash,5
+1696,kale,6
+584,corn salad,6
+3511,corn salad,1
+4795,tabasco pepper,5
+280,banana,5
+2509,tubers,4
+3356,spinach,5
+566,apricot,4
+3031,marjoram,3
+561,feijoa,2
+2984,spinach,6
+609,corn salad,3
+4559,raisin,3
+1190,banana,4
+1100,alfalfa sprout,4
+4274,cabbage,5
+1610,corn salad,1
+1659,tubers,2
+781,tat soi,1
+1041,bilberry,5
+977,dragonfruit,6
+4497,broccoflower,3
+1514,date,2
+4939,marjoram,2
+2130,lentils,1
+3466,spinach,2
+1953,raisin,2
+4437,broccoflower,1
+896,coconut,3
+2226,frisee,5
+1831,banana,5
+1585,kale,4
+3617,coconut,5
+4693,goji berry,1
+418,jicama,3
+4273,frisee,5
+2507,watercress,1
+102,grapefruit,4
+1761,navy bean,5
+1428,frisee,3
+1448,apricot,3
+468,tat soi,2
+4223,broccoflower,6
+4152,dragonfruit,2
+1517,feijoa,2
+1754,radish,3
+2408,spaghetti squash,3
+2662,navy bean,3
+1145,amaranth,4
+3696,blueberry,6
+1213,apple,4
+1230,blackcurrant,6
+3868,feijoa,2
+4254,radish,1
+3403,cabbage,4
+2376,blueberry,2
+647,broccoflower,5
+3591,blackberry,3
+4770,blackcurrant,4
+4417,lentils,5
+3807,frisee,4
+912,broccoflower,5
+135,damson,2
+2789,blackberry,5
+4605,corn salad,3
+4602,spinach,5
+2709,navy bean,4
+3926,damson,4
+1773,lentils,4
+407,banana,4
+2878,goji berry,5
+2757,topinambur,5
+3347,black-eyed pea,1
+3022,banana,3
+3895,lentils,5
+606,white radish,2
+3267,kale,6
+2131,currant,2
+2932,daikon,6
+3329,blueberry,2
+1196,dragonfruit,6
+4366,cabbage,5
+151,broccoflower,3
+2064,avocado,6
+304,corn salad,2
+4329,grapefruit,3
+3762,patty pan,1
+2253,blackberry,1
+3074,coconut,4
+2046,navy bean,3
+1672,broccoflower,6
+1981,custard apple,5
+3145,date,5
+1595,cabbage,6
+3693,feijoa,3
+174,patty pan,3
+4339,marjoram,5
+1921,spinach,1
+3653,okra,4
+1779,blackberry,5
+259,white radish,2
+756,fig,3
+4936,grapefruit,2
+2070,cloudberry,5
+4747,cabbage,1
+3979,banana,6
+2788,bilberry,3
+906,broccoflower,2
+1735,chayote,6
+2574,dragonfruit,4
+1956,blackcurrant,5
+2659,fig,4
+4778,raisin,2
+1785,cabbage,2
+1900,goji berry,4
+978,snap pea,6
+713,cherimoya,3
+279,date,5
+4708,cloudberry,5
+2111,avocado,3
+2968,blackberry,4
+3759,tabasco pepper,5
+1246,spaghetti squash,1
+4146,kale,6
+3696,damson,4
+1014,tat soi,3
+3697,white radish,4
+1346,corn salad,1
+931,avocado,3
+3756,fig,4
+102,marjoram,6
+522,currant,5
+1002,blackcurrant,1
+1498,cherimoya,3
+1172,apple,5
+3060,blackberry,5
+2551,blackberry,6
+3171,apricot,5
+1970,grapefruit,4
+3257,fig,5
+2377,marjoram,6
+1381,white radish,5
+3473,fig,5
+4299,avocado,5
+1869,daikon,6
+2181,corn salad,1
+3608,radish,5
+68,feijoa,6
+2038,azuki bean,6
+4167,daikon,3
+3380,dragonfruit,6
+1805,frisee,1
+4067,daikon,3
+1084,coconut,2
+577,marjoram,3
+2293,kale,1
+3713,spinach,6
+2360,cherimoya,6
+2824,coconut,2
+1653,bilberry,5
+2100,black-eyed pea,3
+1541,banana,3
+463,spinach,2
+352,azuki bean,1
+4929,grapefruit,3
+1905,azuki bean,1
+3571,lentils,6
+865,daikon,5
+1566,fig,1
+1921,tabasco pepper,6
+121,blueberry,1
+2072,jalapeno,4
+1015,blackberry,1
+281,lavender,3
+2032,goji berry,4
+4786,radish,5
+219,azuki bean,4
+348,broccoflower,4
+302,cabbage,6
+3964,patty pan,2
+1848,coconut,1
+95,tabasco pepper,6
+3911,daikon,3
+1260,blackcurrant,1
+493,coconut,3
+3853,watercress,2
+4736,tat soi,4
+1081,apple,6
+3027,fig,1
+729,kale,1
+2120,black-eyed pea,4
+660,damson,5
+1502,apricot,2
+2233,dragonfruit,1
+1372,date,4
+1163,kale,6
+4262,tat soi,2
+1931,cabbage,3
+3885,apple,4
+3288,bilberry,6
+3356,broccoflower,3
+3936,lentils,3
+954,spinach,1
+4269,cherimoya,3
+864,spaghetti squash,5
+3442,tabasco pepper,1
+3095,blackberry,6
+1707,lentils,2
+3674,apple,6
+4063,white radish,6
+308,blackcurrant,1
+2164,blackberry,1
+2545,fig,2
+3978,grapefruit,6
+3759,blackberry,1
+182,marjoram,2
+1985,marjoram,5
+2312,goji berry,4
+3892,daikon,6
+182,chard,4
+4554,damson,3
+3780,frisee,5
+3136,broccoflower,5
+478,navy bean,3
+388,tat soi,6
+828,corn salad,3
+4792,apple,1
+1369,apricot,3
+1426,frisee,3
+4831,goji berry,1
+2630,watercress,3
+2911,lentils,3
+2518,tabasco pepper,6
+3283,black-eyed pea,6
+1771,blackcurrant,2
+2570,black-eyed pea,1
+4770,avocado,5
+1813,goji berry,1
+3815,radish,1
+3728,blackcurrant,4
+3652,gooseberry,2
+1996,broccoflower,6
+2601,cloudberry,6
+1112,blackberry,3
+1512,raisin,4
+1059,apricot,6
+3849,cabbage,1
+3725,bilberry,3
+323,apple,5
+1155,azuki bean,4
+497,azuki bean,4
+3708,azuki bean,4
+1526,broccoflower,6
+1130,dragonfruit,2
+2155,tubers,6
+2347,tat soi,3
+3869,tabasco pepper,3
+3412,cabbage,6
+2973,dragonfruit,5
+2512,broccoflower,5
+187,cherimoya,2
+1280,damson,1
+2039,spinach,5
+3887,goji berry,4
+4504,spaghetti squash,4
+3527,cherimoya,4
+146,lentils,4
+1368,grapefruit,1
+1279,bilberry,2
+1924,patty pan,1
+2366,black-eyed pea,5
+2871,tubers,3
+2678,daikon,6
+2107,azuki bean,5
+3020,new zealand spinach,1
+4812,tabasco pepper,5
+1460,coconut,6
+1068,currant,2
+3320,apple,2
+47,dragonfruit,4
+2472,radish,1
+1846,apple,2
+772,avocado,3
+2213,marjoram,4
+3254,watercress,6
+4942,damson,5
+4385,banana,1
+3109,cabbage,3
+1723,blueberry,1
+2576,black-eyed pea,1
+2769,feijoa,6
+1273,feijoa,6
+3200,bilberry,1
+1599,marjoram,1
+1016,blueberry,1
+459,patty pan,4
+1335,aubergine,1
+4642,currant,3
+3703,tat soi,6
+3724,spaghetti squash,4
+395,goji berry,1
+2396,spaghetti squash,6
+836,marjoram,3
+1793,radish,5
+3681,fig,6
+4164,goji berry,6
+4261,damson,6
+707,watercress,2
+3217,navy bean,5
+4994,black-eyed pea,6
+4069,bok choy,3
+353,feijoa,1
+1362,coconut,1
+3572,navy bean,4
+984,spaghetti squash,2
+4858,banana,5
+3790,tubers,6
+528,frisee,2
+3108,marjoram,3
+20,cherimoya,2
+2452,cherimoya,5
+4971,raisin,2
+1005,apricot,3
+3775,apple,6
+2332,lentils,4
+515,currant,3
+130,avocado,2
+4665,damson,5
+1549,azuki bean,2
+2971,currant,6
+1812,anise,4
+1196,tubers,4
+1877,spinach,1
+713,white radish,1
+4115,tubers,2
+2017,date,3
+629,feijoa,4
+4995,cabbage,4
+4321,bilberry,2
+4399,fig,3
+46,goji berry,3
+1796,patty pan,4
+3543,cabbage,1
+3543,kale,6
+2974,date,3
+237,lentils,2
+2317,black-eyed pea,4
+4170,daikon,1
+4153,white radish,5
+2559,tabasco pepper,5
+1135,patty pan,3
+3279,blueberry,4
+4047,lentils,4
+828,fig,5
+3522,fig,6
+818,date,6
+4326,lentils,3
+4910,navy bean,6
+2498,currant,4
+1571,damson,3
+3299,corn salad,1
+1728,goji berry,5
+2572,radish,4
+2840,blackcurrant,5
+150,date,2
+1072,frisee,4
+1989,cloudberry,1
+387,blueberry,3
+3703,banana,2
+4999,radish,4
+2310,broccoflower,6
+1329,patty pan,5
+947,blackcurrant,6
+239,broccoli,6
+4093,lentils,1
+3798,oregano,1
+4846,spinach,3
+676,coconut,2
+1467,dragonfruit,4
+3625,watercress,2
+1363,black-eyed pea,6
+1835,spaghetti squash,6
+1510,blackcurrant,6
+4589,watercress,1
+2169,daikon,5
+4670,cabbage,5
+3569,kale,5
+48,tubers,5
+2174,tabasco pepper,1
+249,banana squash,2
+4090,kale,2
+1756,azuki bean,2
+2955,black-eyed pea,3
+4695,avocado,4
+74,tat soi,3
+2249,feijoa,3
+1208,blueberry,1
+1549,grapefruit,1
+4574,spaghetti squash,5
+412,apricot,1
+2013,tubers,6
+1001,blackcurrant,5
+3553,marjoram,5
+1830,green pepper,4
+2175,spaghetti squash,5
+4616,corn salad,5
+585,dragonfruit,5
+4224,coconut,1
+3713,blackcurrant,6
+4208,watercress,3
+4451,coconut,4
+131,elderberry,1
+3525,daikon,4
+1101,banana,4
+4564,lentils,6
+1167,coconut,4
+1408,coconut,4
+599,kale,6
+4131,chard,6
+968,blackberry,5
+2154,blackcurrant,1
+4585,grapefruit,6
+1181,blueberry,3
+4587,broccoflower,3
+3869,dragonfruit,1
+822,corn salad,3
+97,blackcurrant,3
+1450,marjoram,3
+4290,blueberry,4
+553,cherimoya,1
+1739,cherimoya,4
+3999,elderberry,3
+308,fig,2
+369,spaghetti squash,4
+2829,grapefruit,3
+238,cloudberry,2
+465,date,1
+1170,patty pan,5
+1391,blueberry,5
+1479,cilantro,2
+1110,dragonfruit,5
+2845,frisee,4
+1854,kale,3
+340,corn salad,3
+3658,blueberry,5
+3872,tat soi,3
+3541,black-eyed pea,2
+4997,lentils,6
+4161,dragonfruit,1
+4735,frisee,1
+2707,blackcurrant,5
+3816,spaghetti squash,6
+1798,coconut,3
+3854,blueberry,4
+4285,blackberry,2
+3792,cherimoya,4
+3235,grapefruit,6
+1682,corn salad,5
+785,grapefruit,4
+2735,date,1
+969,blueberry,2
+3018,lentils,5
+250,blueberry,4
+3875,grapefruit,5
+1886,black-eyed pea,2
+2252,avocado,1
+158,coconut,6
+4249,blackcurrant,2
+1169,spinach,6
+984,raisin,4
+2697,spinach,6
+1320,marjoram,3
+1152,watercress,6
+1123,blackberry,6
+1737,damson,3
+3629,cloudberry,6
+4517,tat soi,2
+3064,tat soi,2
+443,coconut,5
+4108,spinach,6
+248,lentils,2
+451,banana,6
+3255,black-eyed pea,4
+3385,black-eyed pea,6
+4793,spinach,1
+4862,damson,6
+1999,white radish,2
+3852,currant,2
+2920,frisee,5
+2358,currant,4
+4031,guava,5
+1212,damson,4
+1310,lentils,4
+4982,blackberry,6
+668,grapefruit,5
+1254,coconut,4
+2361,frisee,3
+3015,white radish,1
+1151,marjoram,1
+2218,currant,6
+2251,cherimoya,4
+1204,marjoram,6
+1120,blackberry,6
+4946,white radish,6
+3279,currant,4
+3663,apricot,1
+3020,feijoa,6
+2100,avocado,3
+2557,grapefruit,4
+4378,cloudberry,3
+2092,tubers,5
+638,banana,2
+1050,apple,2
+3955,date,5
+4389,kale,1
+3349,marjoram,5
+337,bilberry,6
+451,patty pan,5
+4170,frisee,3
+257,daikon,3
+1422,date,4
+1996,raisin,2
+892,cherimoya,6
+1870,blueberry,1
+4679,white radish,4
+3416,apple,3
+3944,banana,3
+936,navy bean,5
+4896,apple,5
+1591,tabasco pepper,6
+2467,sage,2
+4153,garlic,6
+890,navy bean,6
+4195,radish,6
+193,cherimoya,1
+1493,raisin,2
+2382,apple,3
+4813,blueberry,3
+1207,dragonfruit,3
+1436,watercress,2
+1649,spinach,2
+3024,frisee,1
+456,grapefruit,3
+4152,blueberry,3
+1753,fig,6
+736,currant,5
+318,cloudberry,4
+135,tubers,3
+2962,cabbage,2
+177,goji berry,4
+4357,coconut,4
+2761,damson,4
+797,spaghetti squash,2
+1874,lentils,4
+275,tabasco pepper,4
+1030,spaghetti squash,2
+2029,avocado,5
+2395,elderberry,6
+3186,lentils,2
+371,blackberry,2
+4646,damson,4
+1603,raisin,1
+117,goji berry,6
+1835,banana,4
+1617,spinach,3
+3017,cherimoya,5
+4189,azuki bean,2
+3422,blackberry,2
+3684,lentils,4
+1802,watercress,6
+3943,tat soi,2
+2940,goji berry,6
+1066,frisee,2
+3257,blackberry,1
+4331,cherimoya,6
+4120,white radish,6
+2007,currant,3
+2274,coconut,5
+3927,cherimoya,3
+4125,corn salad,1
+2641,fig,1
+2073,date,5
+2167,watercress,2
+4591,feijoa,3
+1114,cabbage,3
+4964,avocado,3
+1982,frisee,1
+4070,lentils,3
+3702,avocado,3
+2457,broccoflower,5
+2458,mamey,6
+2054,dragonfruit,1
+2303,goji berry,4
+777,marjoram,1
+3523,date,3
+3099,watercress,4
+599,tat soi,3
+548,date,2
+2281,banana,1
+1834,watercress,5
+1658,bilberry,3
+4603,watercress,2
+1806,damson,4
+4415,dragonfruit,5
+2365,dragonfruit,1
+3825,corn salad,2
+1278,damson,1
+384,blackberry,3
+4670,lentils,1
+1013,tabasco pepper,5
+2836,azuki bean,2
+4334,patty pan,2
+3664,tat soi,3
+456,bilberry,1
+4863,currant,4
+2243,tubers,6
+2161,date,4
+1370,fig,6
+994,coconut,6
+4658,goji berry,6
+2479,spaghetti squash,1
+1132,tabasco pepper,3
+1616,tabasco pepper,2
+3948,spaghetti squash,1
+797,fig,1
+3074,damson,1
+4244,tat soi,6
+1592,navy bean,2
+3894,watercress,4
+597,radish,6
+524,tat soi,6
+4424,cabbage,3
+3536,radish,4
+81,navy bean,5
+4171,apricot,6
+1654,dragonfruit,4
+4049,kale,5
+4867,coconut,4
+2453,daikon,5
+2798,blackcurrant,1
+1592,navy bean,6
+4981,navy bean,1
+4782,lentils,6
+1083,kale,5
+452,dragonfruit,6
+4370,frisee,3
+3342,radish,6
+3184,raisin,6
+4937,corn salad,6
+2089,frisee,6
+3878,fig,2
+4289,currant,2
+1014,apricot,3
+2222,broccoflower,5
+1958,feijoa,5
+3130,damson,2
+3291,black-eyed pea,1
+3292,currant,4
+4196,patty pan,6
+841,bilberry,6
+3355,spinach,2
+4801,goji berry,5
+688,kale,4
+2070,frisee,1
+987,white radish,1
+185,kale,6
+246,tabasco pepper,6
+573,spaghetti squash,5
+892,grapefruit,2
+3498,tabasco pepper,3
+2730,cabbage,6
+2161,coconut,5
+4343,navy bean,4
+2894,frisee,6
+1753,currant,5
+3494,radish,2
+680,banana,5
+1963,blueberry,5
+4800,apple,3
+3425,hubbard squash,2
+991,damson,3
+2971,lentils,5
+4875,fig,5
+895,lentils,2
+2862,frisee,4
+1835,asparagus,6
+490,spaghetti squash,3
+412,fig,5
+4347,apricot,2
+3296,bilberry,5
+1100,damson,3
+1109,raisin,2
+2191,cloudberry,5
+2033,marjoram,3
+2855,bilberry,2
+335,blackcurrant,6
+4076,spinach,6
+4215,blueberry,4
+139,goji berry,5
+304,cilantro,6
+853,dragonfruit,6
+2310,black-eyed pea,5
+4405,spaghetti squash,4
+3645,grapefruit,1
+3216,coconut,2
+1281,cloudberry,1
+1615,tat soi,2
+176,tubers,2
+4224,azuki bean,6
+3719,grapefruit,1
+4404,goji berry,5
+1942,damson,1
+3017,patty pan,3
+3268,bilberry,5
+4811,oregano,1
+3350,goji berry,4
+3708,patty pan,1
+1221,cherimoya,4
+3666,broccoflower,4
+4885,fig,5
+3879,chives,6
+3963,lentils,3
+3620,tubers,4
+3784,raisin,6
+590,avocado,2
+1640,azuki bean,2
+231,marjoram,6
+2296,corn salad,4
+2804,navy bean,5
+4028,goji berry,5
+1301,kohlrabi,4
+1177,avocado,2
+1121,raisin,5
+3017,cherimoya,4
+4933,white radish,3
+1991,grapefruit,4
+4576,cloudberry,4
+3219,lentils,2
+628,dragonfruit,1
+1,cloudberry,2
+1898,grapefruit,3
+3065,grapefruit,6
+1178,avocado,6
+311,spinach,1
+3246,spaghetti squash,2
+952,bilberry,2
+1829,fig,3
+4821,daikon,6
+4265,navy bean,5
+492,custard apple,1
+1007,blackcurrant,3
+1710,currant,2
+3044,skirret,3
+3651,goji berry,6
+4344,coconut,3
+4406,grapefruit,3
+258,black-eyed pea,6
+1746,blackcurrant,5
+1909,spinach,4
+1054,dragonfruit,5
+3110,apple,4
+3572,date,2
+490,patty pan,6
+2975,tat soi,2
+3661,coconut,1
+4685,cloudberry,4
+4587,tat soi,2
+525,kale,3
+2018,daikon,4
+3061,apple,6
+2504,blackcurrant,6
+3167,navy bean,4
+919,blackcurrant,6
+162,kale,2
+97,coconut,5
+2224,navy bean,4
+2902,daikon,2
+4247,apricot,2
+2887,grapefruit,5
+3970,goji berry,3
+569,white radish,3
+2891,dragonfruit,6
+271,apricot,5
+2842,blackberry,5
+3647,broccoflower,3
+1701,cherimoya,1
+4303,lentils,1
+2581,azuki bean,6
+1401,blueberry,2
+4865,navy bean,6
+905,celeriac,5
+201,banana,6
+921,broccoflower,1
+4,radish,5
+3768,blueberry,5
+2502,tat soi,4
+4903,spaghetti squash,1
+1675,daikon,1
+1361,patty pan,5
+802,okra,1
+2801,radish,4
+2096,apricot,5
+2397,white radish,1
+2408,cloudberry,2
+2411,cucumber,2
+3575,raisin,4
+1495,navy bean,3
+2070,spaghetti squash,2
+4473,fig,4
+3597,cloudberry,6
+2149,date,5
+3161,dragonfruit,4
+3968,black-eyed pea,4
+1506,feijoa,1
+4280,damson,3
+4966,damson,4
+4677,tubers,6
+3965,banana,6
+4612,cloudberry,6
+4287,avocado,1
+4093,frisee,5
+2861,blackberry,5
+3511,corn salad,5
+4665,cabbage,4
+4428,radish,1
+2025,avocado,2
+3575,blackberry,3
+495,cherimoya,1
+1086,goji berry,2
+3137,black-eyed pea,2
+712,raisin,6
+3793,daikon,6
+2386,cherimoya,6
+803,feijoa,6
+3470,cabbage,3
+1294,grapefruit,2
+418,borlotti bean,4
+343,tubers,1
+1467,broccoflower,4
+435,tat soi,6
+1832,carrot,5
+631,herbs and spice,6
+2363,tabasco pepper,1
+91,azuki bean,4
+2313,corn salad,6
+2781,cloudberry,4
+3937,goji berry,1
+1831,grapefruit,4
+2693,cabbage,5
+3136,grapefruit,6
+3468,marjoram,3
+2910,apricot,1
+1460,cherimoya,5
+4970,navy bean,4
+1799,watercress,3
+4633,marjoram,5
+1991,damson,5
+3709,apple,5
+4142,tat soi,5
+2855,cabbage,4
+2010,marjoram,3
+3737,avocado,2
+458,black bean,4
+2475,spaghetti squash,1
+2635,corn salad,1
+4565,apple,4
+1540,cranberry,4
+3638,currant,5
+1589,mushroom,3
+1610,dragonfruit,2
+1804,apricot,1
+652,cloudberry,4
+3910,lentils,2
+1961,lentils,2
+4918,coconut,2
+3126,radish,2
+2723,coconut,1
+4371,apple,1
+4578,kale,6
+4517,watercress,3
+2568,watercress,2
+3929,tat soi,1
+4513,raisin,5
+4918,raisin,4
+2001,goji berry,6
+3173,fig,6
+1272,tubers,5
+4888,navy bean,1
+3944,cabbage,3
+1119,radish,5
+2867,fig,4
+3137,navy bean,1
+2204,coconut,6
+3330,corn salad,2
+1494,dragonfruit,5
+1588,date,6
+1481,cabbage,5
+1994,bilberry,4
+4583,blackcurrant,5
+2676,marjoram,3
+3016,cherimoya,5
+2395,dragonfruit,6
+4529,marjoram,3
+285,goji berry,4
+812,blueberry,6
+4142,frisee,4
+2275,damson,2
+3067,blueberry,5
+4464,corn salad,6
+4417,currant,4
+810,frisee,6
+3389,currant,2
+4526,cabbage,2
+3278,grapefruit,6
+1420,dragonfruit,5
+3162,frisee,6
+223,watercress,1
+481,black-eyed pea,5
+3179,tat soi,3
+1109,frisee,6
+2902,azuki bean,6
+3995,azuki bean,1
+4003,tat soi,2
+2848,patty pan,4
+959,bilberry,1
+2890,fig,4
+3130,daikon,1
+4713,daikon,6
+4239,spaghetti squash,5
+976,daikon,4
+1888,apple,1
+860,grapefruit,4
+4409,fig,5
+1719,patty pan,6
+1778,currant,4
+3746,fig,1
+3048,tat soi,3
+3836,goji berry,1
+1118,kale,2
+949,goji berry,6
+2689,bilberry,5
+3328,apple,4
+4353,date,1
+2067,cabbage,3
+946,feijoa,1
+4446,date,1
+2701,raisin,1
+3172,yam,2
+3092,avocado,1
+4272,lentils,1
+469,broccoflower,5
+32,cloudberry,5
+748,oregano,1
+911,daikon,4
+4997,watercress,3
+2948,dragonfruit,3
+812,frisee,6
+2951,lentils,2
+2215,blackberry,2
+1767,broccoflower,4
+271,corn salad,1
+365,cherimoya,5
+2393,cabbage,2
+3316,dragonfruit,5
+2909,watercress,1
+2807,date,5
+1114,lentils,2
+4813,frisee,2
+564,cloudberry,2
+3227,tabasco pepper,1
+3195,blackberry,2
+184,watercress,2
+2684,kale,2
+1052,kale,4
+3346,radish,5
+2734,feijoa,3
+3271,parsnip,6
+2950,azuki bean,1
+825,navy bean,6
+648,date,6
+3548,radish,3
+3110,date,5
+746,tabasco pepper,4
+2433,raisin,5
+1969,blackberry,4
+3756,black bean,5
+2603,chayote,2
+687,goji berry,5
+1235,daikon,5
+4804,black-eyed pea,4
+1959,currant,4
+526,spinach,5
+3546,azuki bean,1
+3525,apricot,1
+2916,bilberry,1
+2443,fig,2
+1856,date,1
+3793,fig,1
+2091,cloudberry,3
+3037,spinach,4
+3652,anise,2
+3874,tabasco pepper,3
+1194,lentils,4
+3624,watercress,4
+184,date,2
+24,corn salad,2
+4973,blackberry,1
+4328,alfalfa sprout,3
+4576,raisin,4
+2535,cloudberry,1
+1549,navy bean,6
+4597,blackberry,3
+3686,apple,4
+4570,lentils,6
+1371,spaghetti squash,4
+1404,tubers,5
+1133,bilberry,5
+2129,tat soi,6
+721,dragonfruit,5
+329,navy bean,1
+2664,raisin,6
+957,dill,1
+4663,apricot,5
+292,white radish,4
+4671,cherimoya,3
+1880,tat soi,1
+4471,fig,5
+3786,tabasco pepper,3
+4459,daikon,6
+2913,marjoram,6
+1671,corn salad,6
+81,banana,6
+1058,navy bean,1
+1007,azuki bean,5
+1580,goji berry,2
+499,blackberry,5
+3963,blackcurrant,6
+3692,daikon,5
+1289,cloudberry,5
+1085,azuki bean,4
+4352,banana,5
+4502,bilberry,4
+3043,watercress,2
+1427,kale,6
+2354,raisin,4
+670,avocado,3
+234,dragonfruit,1
+4316,cloudberry,2
+375,avocado,3
+3529,broccoflower,1
+3931,patty pan,3
+4107,radish,6
+1237,feijoa,3
+3652,bilberry,5
+3678,goji berry,3
+3103,black-eyed pea,2
+2000,delicata,4
+788,black-eyed pea,2
+422,goji berry,5
+3356,grapefruit,4
+4480,goji berry,1
+1234,white radish,4
+2739,navy bean,6
+4568,coconut,1
+2473,date,5
+817,tabasco pepper,3
+1633,bilberry,1
+1074,goji berry,1
+1771,azuki bean,4
+152,apple,2
+714,lentils,6
+1698,feijoa,5
+2040,cabbage,1
+1287,patty pan,5
+2018,raisin,6
+3750,daikon,6
+686,apricot,2
+1582,goji berry,3
+2907,snap pea,6
+3898,fig,6
+4907,coconut,2
+1596,tabasco pepper,3
+2823,cloudberry,3
+988,cherimoya,3
+4288,tabasco pepper,2
+3024,spaghetti squash,6
+1256,feijoa,6
+2188,apricot,3
+956,navy bean,6
+1138,raisin,3
+1946,navy bean,6
+4016,tabasco pepper,4
+4024,apricot,6
+1931,radish,4
+1471,goji berry,3
+195,lentils,2
+2731,avocado,4
+4268,radish,5
+454,damson,2
+3891,blueberry,2
+3149,radish,2
+3998,apple,4
+1910,dragonfruit,1
+3193,kale,6
+4473,raisin,1
+4027,white radish,2
+4945,radish,6
+398,cayenne pepper,4
+2878,banana,3
+2011,alfalfa sprout,6
+901,spaghetti squash,2
+4419,azuki bean,4
+4589,white radish,5
+4321,navy bean,3
+4428,tat soi,6
+418,apple,4
+1524,apple,1
+128,tabasco pepper,6
+3257,bilberry,4
+4083,tubers,6
+1302,blueberry,3
+2163,spaghetti squash,2
+3606,broccoflower,1
+3024,coconut,5
+2322,black-eyed pea,3
+2876,goji berry,5
+867,cherimoya,5
+883,marjoram,1
+3398,blueberry,5
+1773,avocado,3
+1581,apricot,1
+2355,azuki bean,2
+1005,patty pan,1
+3880,watercress,4
+4237,avocado,3
+2495,feijoa,2
+3813,dragonfruit,2
+4143,frisee,6
+3941,lentils,4
+2886,tabasco pepper,2
+3403,bilberry,6
+618,radicchio,3
+1443,apple,2
+1223,corn salad,1
+923,broccoflower,5
+1029,blueberry,1
+3340,raisin,3
+3481,banana,4
+811,apple,1
+1237,goji berry,2
+1960,radish,5
+2399,dragonfruit,5
+4300,white radish,5
+3034,watercress,3
+2789,raisin,5
+4315,damson,2
+3657,apple,6
+2092,apple,1
+2344,kale,3
+3507,blackberry,6
+3052,apple,3
+843,cranberry,6
+2140,tubers,5
+250,watercress,3
+482,raisin,2
+2856,navy bean,2
+831,blackcurrant,5
+2596,corn salad,5
+4632,white radish,4
+262,radish,3
+1600,watercress,5
+2128,watercress,3
+1065,cabbage,4
+3862,broccoflower,6
+1121,blackberry,2
+4651,goji berry,1
+1393,azuki bean,3
+347,avocado,1
+4877,bilberry,5
+2961,spinach,3
+2774,frisee,1
+1663,banana,1
+1640,okra,4
+1969,grapefruit,4
+1529,fig,6
+446,azuki bean,5
+2213,dragonfruit,4
+41,corn salad,4
+1647,avocado,1
+1035,cherimoya,2
+263,damson,5
+223,watercress,5
+685,spinach,6
+4442,spaghetti squash,2
+4521,coconut,3
+4674,white radish,4
+3967,grapefruit,5
+112,broccoflower,6
+129,blueberry,3
+4994,goji berry,2
+3482,apricot,2
+3122,black-eyed pea,5
+2946,dragonfruit,5
+4462,marjoram,3
+4887,blueberry,5
+3017,tabasco pepper,4
+3986,broccoflower,2
+1732,apricot,6
+4686,blackcurrant,3
+257,feijoa,4
+2718,fig,4
+1489,broccoflower,2
+24,radish,6
+1090,radish,3
+2763,frisee,3
+2315,corn salad,1
+2936,patty pan,2
+764,cloudberry,1
+1306,cherimoya,1
+1378,blueberry,4
+4883,tat soi,6
+4896,feijoa,5
+2249,grapefruit,6
+461,garlic,1
+1915,fig,1
+3672,watercress,1
+1912,watercress,5
+4551,raisin,5
+1908,tat soi,2
+2849,bilberry,2
+4179,corn salad,4
+1905,blackberry,1
+4537,black-eyed pea,1
+1609,butternut squash,2
+2774,black-eyed pea,1
+3427,damson,2
+4888,frisee,1
+4391,currant,3
+25,apricot,3
+193,currant,1
+2684,currant,2
+3863,black-eyed pea,3
+3630,radish,2
+2173,spinach,6
+3520,coconut,5
+2639,kale,2
+3586,tat soi,5
+4538,cloudberry,1
+418,tat soi,4
+212,lentils,1
+3842,azuki bean,6
+1437,broccoflower,2
+3994,fig,2
+726,spinach,3
+4549,banana,1
+1640,tubers,5
+2178,alfalfa sprout,1
+578,azuki bean,2
+4846,avocado,1
+4332,daikon,1
+2652,spinach,5
+3344,corn salad,5
+4086,tat soi,2
+3390,radish,2
+1002,spinach,1
+2176,asparagus,6
+3544,apricot,6
+3393,spinach,4
+1055,tubers,2
+4502,spinach,4
+4212,grapefruit,5
+2357,bilberry,4
+1423,bilberry,1
+3915,avocado,5
+757,black-eyed pea,4
+1551,tat soi,6
+4057,apple,2
+4734,damson,3
+4835,daikon,6
+1917,marjoram,4
+2795,radish,3
+1670,tubers,1
+4033,apricot,6
+2212,patty pan,1
+3935,currant,4
+1100,blackcurrant,2
+4889,frisee,1
+2720,yam,1
+2260,blackcurrant,3
+315,spaghetti squash,3
+4407,fig,6
+815,frisee,6
+2318,daikon,6
+663,tubers,5
+1196,raisin,1
+4139,cloudberry,2
+3925,daikon,6
+3472,tubers,3
+4241,watercress,4
+4547,fig,6
+4635,fig,4
+2315,goji berry,3
+4941,cherimoya,6
+3480,damson,6
+4879,bilberry,2
+4619,lentils,4
+3758,tat soi,2
+2229,marjoram,3
+578,tubers,6
+3457,marjoram,5
+1914,bilberry,2
+2048,azuki bean,4
+4006,raisin,6
+3807,goji berry,2
+1560,daikon,3
+3035,goji berry,6
+3934,date,6
+4920,spaghetti squash,4
+960,fig,2
+759,white radish,5
+2716,cauliflower,5
+578,goji berry,3
+871,apricot,2
+3821,currant,5
+2715,corn salad,5
+139,white radish,5
+3206,bilberry,6
+4951,spinach,5
+812,alfalfa sprout,6
+2433,azuki bean,6
+4495,banana,2
+550,date,1
+4965,lentils,4
+4768,corn salad,4
+482,apple,2
+1584,daikon,4
+4969,tat soi,1
+989,daikon,3
+158,currant,2
+4568,white radish,2
+196,bilberry,1
+494,tabasco pepper,3
+2793,watercress,4
+3313,potato,5
+2281,black-eyed pea,1
+4128,black-eyed pea,4
+1425,coconut,1
+3783,grapefruit,2
+2492,patty pan,2
+1850,cloudberry,4
+4319,azuki bean,5
+1148,goji berry,3
+2654,bilberry,2
+3716,avocado,1
+2670,frisee,1
+4235,broccoflower,1
+982,patty pan,1
+144,avocado,6
+2473,spaghetti squash,1
+2716,kale,1
+2449,blueberry,6
+1900,date,1
+1241,corn salad,2
+1363,feijoa,2
+764,lentils,5
+130,apple,2
+2351,topinambur,3
+2186,azuki bean,3
+2591,apricot,4
+1261,navy bean,4
+4935,coconut,6
+689,corn salad,2
+3970,cloudberry,5
+4829,dragonfruit,6
+3288,cloudberry,2
+2822,patty pan,6
+2094,white radish,1
+3796,currant,4
+4264,daikon,4
+1813,daikon,4
+425,azuki bean,6
+3711,cherimoya,3
+2028,black-eyed pea,1
+4369,coconut,1
+2882,apricot,2
+368,frisee,4
+2131,bilberry,6
+98,cabbage,2
+1680,frisee,5
+1637,cloudberry,4
+2552,apple,5
+3158,tabasco pepper,3
+1212,frisee,2
+1608,currant,6
+314,tat soi,3
+548,apple,5
+1526,currant,4
+4986,corn salad,5
+2537,daikon,3
+502,daikon,1
+1235,white radish,5
+1009,currant,3
+3001,black-eyed pea,1
+2416,frisee,5
+2213,watercress,3
+1369,tat soi,1
+3543,spinach,4
+3917,daikon,5
+287,patty pan,2
+2724,cloudberry,2
+521,blackberry,4
+3639,navy bean,3
+871,dragonfruit,5
+1206,spinach,6
+3660,feijoa,6
+3520,currant,3
+216,fig,1
+4751,tubers,1
+152,patty pan,5
+586,banana,3
+4972,broccoflower,1
+3912,fig,2
+1634,spinach,5
+1137,dragonfruit,6
+1864,cherimoya,1
+4569,apricot,2
+3268,tabasco pepper,2
+1594,butternut squash,2
+643,radish,4
+632,grapefruit,1
+3025,black-eyed pea,1
+3862,patty pan,3
+4023,blackcurrant,2
+1085,damson,1
+101,date,4
+419,azuki bean,4
+2936,avocado,1
+2598,broccoflower,3
+4079,grapefruit,4
+56,blackberry,3
+1230,tabasco pepper,4
+1524,bilberry,2
+997,daikon,4
+1424,goji berry,1
+1965,kale,2
+3600,blackcurrant,3
+1461,blueberry,6
+4996,cherimoya,6
+1738,radish,6
+323,raisin,2
+751,tat soi,4
+2750,goji berry,2
+3418,watercress,4
+3885,tubers,5
+3724,feijoa,2
+4993,cabbage,3
+2771,goji berry,4
+729,apricot,5
+596,spaghetti squash,1
+1396,black-eyed pea,1
+1143,navy bean,6
+3754,blackcurrant,6
+4166,banana,2
+1508,blackberry,3
+4038,feijoa,1
+4768,daikon,2
+1414,goji berry,6
+4079,blueberry,1
+4318,coconut,4
+185,blackcurrant,5
+4352,cabbage,1
+4528,lentils,4
+1284,spinach,4
+2228,navy bean,2
+2273,blackberry,4
+213,corn salad,2
+3551,dragonfruit,1
+221,bilberry,5
+2303,avocado,4
+893,blackcurrant,5
+2530,fig,2
+4769,spinach,6
+1927,navy bean,1
+4592,spaghetti squash,3
+3433,fig,6
+575,apple,6
+1104,frisee,5
+2703,raisin,1
+3093,spinach,5
+2202,marjoram,2
+2161,blackberry,4
+4198,azuki bean,2
+2900,patty pan,5
+4250,azuki bean,3
+4060,fig,2
+1554,tubers,3
+3885,frisee,2
+2703,date,5
+4380,tubers,6
+4676,fig,2
+665,cloudberry,3
+4245,blueberry,5
+4737,cauliflower,3
+3090,tabasco pepper,1
+3480,tat soi,4
+2361,broccoflower,5
+980,banana,1
+1791,feijoa,5
+29,blackcurrant,3
+849,marjoram,2
+4937,date,1
+569,goji berry,6
+2724,feijoa,1
+4115,blackcurrant,6
+3896,blueberry,1
+2212,tubers,4
+1089,frisee,5
+3566,apple,6
+2791,daikon,5
+2345,date,3
+2410,broccoflower,3
+1156,apple,2
+4785,cabbage,4
+3457,feijoa,6
+2010,apricot,5
+3781,azuki bean,6
+3921,kale,1
+858,turnip,6
+4045,dragonfruit,1
+314,date,4
+1268,blackcurrant,1
+804,damson,1
+923,cherimoya,1
+3289,apricot,6
+1453,cloudberry,4
+4854,blackcurrant,6
+4907,feijoa,6
+2156,cabbage,3
+4173,grapefruit,5
+1738,frisee,3
+3522,patty pan,5
+4688,daikon,4
+224,broccoflower,6
+3577,raisin,2
+2847,bilberry,3
+454,coconut,2
+1082,feijoa,1
+1137,corn salad,5
+4285,blackcurrant,2
+2217,spinach,2
+906,dragonfruit,6
+1341,corn salad,2
+4166,dragonfruit,3
+1031,acorn squash,6
+3391,tabasco pepper,6
+2232,broccoflower,3
+3574,currant,2
+3198,raisin,6
+138,marjoram,5
+2216,kale,3
+1545,taro,6
+2880,broccoflower,5
+3374,blackcurrant,5
+3814,bilberry,5
+1934,kale,3
+2149,white radish,5
+3764,rutabaga,1
+1325,fig,2
+3032,apple,5
+1882,patty pan,3
+503,daikon,1
+2258,date,4
+2289,azuki bean,2
+4932,daikon,6
+361,spaghetti squash,4
+2640,frisee,6
+1197,date,6
+752,watercress,5
+2882,fig,3
+891,corn salad,1
+2116,banana,2
+1983,kale,3
+4664,black-eyed pea,2
+3270,cherimoya,3
+2071,apple,3
+2519,damson,2
+4769,tubers,1
+2724,damson,5
+1454,broccoflower,3
+2482,corn salad,5
+4403,white radish,5
+3947,navy bean,4
+1154,tubers,4
+1736,tabasco pepper,5
+741,dragonfruit,5
+1768,lavender,5
+3295,navy bean,4
+2638,celery,3
+3693,kale,2
+3481,frisee,3
+349,lentils,2
+1003,spaghetti squash,5
+2484,black-eyed pea,5
+1408,date,2
+1514,lentils,2
+2069,blueberry,2
+4687,apple,1
+3820,currant,4
+423,corn salad,2
+4190,patty pan,1
+468,avocado,1
+2930,tubers,4
+4351,bilberry,4
+4286,bilberry,5
+4438,cloudberry,1
+1657,cherimoya,1
+1402,currant,1
+2740,tat soi,4
+2123,daikon,1
+1229,currant,1
+4477,white radish,2
+3964,white radish,5
+3436,kale,6
+4287,frisee,5
+1804,apricot,1
+46,apricot,6
+463,cherimoya,4
+1880,coconut,4
+126,blackcurrant,4
+534,damson,1
+2381,currant,6
+2733,spaghetti squash,5
+4557,patty pan,5
+1647,apricot,1
+4899,banana,1
+3323,blackberry,3
+2886,cherimoya,1
+1506,bilberry,2
+3430,broccoflower,5
+1833,tubers,5
+1931,watercress,2
+326,patty pan,4
+424,grapefruit,5
+759,tubers,4
+869,bilberry,5
+103,tabasco pepper,6
+1138,cherimoya,1
+2796,tat soi,3
+248,kale,3
+2670,broad beans,3
+3011,coconut,3
+2602,tabasco pepper,4
+1349,date,1
+1665,fig,4
+1926,lentils,1
+2714,radish,1
+4087,broccoflower,6
+3770,kale,4
+4750,daikon,1
+2049,bilberry,2
+1680,black-eyed pea,3
+4234,azuki bean,3
+4914,patty pan,1
+4767,radicchio,4
+4964,spinach,4
+1140,broccoflower,1
+3078,lentils,3
+3611,feijoa,2
+323,watercress,5
+4553,apricot,6
+1833,banana,5
+2194,feijoa,6
+581,radish,3
+2117,watercress,5
+4047,fig,2
+4408,blackcurrant,4
+1086,apricot,4
+4163,daikon,5
+3497,navy bean,5
+439,coconut,5
+4882,radish,4
+1187,date,5
+2683,cabbage,3
+2431,marjoram,3
+2426,chickpea,1
+805,daikon,2
+3449,blackberry,2
+1537,marjoram,6
+1057,date,2
+2728,coconut,1
+2236,black-eyed pea,3
+2321,cloudberry,1
+3157,banana,5
+3425,coconut,6
+4026,banana,2
+977,navy bean,2
+4660,cloudberry,4
+1810,frisee,5
+2856,dragonfruit,4
+3633,damson,2
+1155,goji berry,4
+904,cabbage,5
+3156,lentils,6
+2422,broccoflower,5
+3264,tat soi,2
+372,currant,1
+2250,spinach,6
+4467,blueberry,4
+1436,avocado,5
+4700,bilberry,1
+4274,spinach,6
+3187,tabasco pepper,2
+2166,tubers,2
+1425,grapefruit,1
+3369,date,4
+3608,kale,6
+3964,coconut,1
+4771,raisin,2
+4481,kale,2
+4675,white radish,6
+4855,raisin,3
+1404,feijoa,3
+4212,ginger,5
+4053,blackberry,4
+4044,frisee,5
+936,delicata,4
+4523,tubers,4
+1429,collard green,1
+4542,spaghetti squash,3
+1359,cherimoya,4
+4476,spaghetti squash,6
+3460,tubers,3
+481,banana,5
+1135,patty pan,6
+3876,white radish,6
+1736,apple,4
+124,raisin,1
+4971,lentils,6
+3235,azuki bean,1
+4583,kale,5
+603,corn salad,4
+3167,mangetout,2
+3796,apple,3
+814,frisee,2
+2009,frisee,3
+559,cherimoya,1
+2327,tat soi,5
+2801,avocado,2
+3970,daikon,5
+1505,black-eyed pea,4
+4763,tubers,2
+1512,broccoflower,5
+86,blueberry,5
+1517,yam,6
+2422,frisee,4
+3032,cabbage,6
+2241,tat soi,4
+2686,apple,1
+2226,spinach,1
+4327,chamomile,5
+4302,blackcurrant,4
+1335,tabasco pepper,6
+3769,kale,6
+2497,feijoa,3
+4404,apple,1
+1449,date,1
+4351,azuki bean,4
+2482,feijoa,3
+1968,navy bean,5
+3036,lentils,3
+1095,lentils,3
+3132,date,6
+1032,blackcurrant,2
+597,white radish,6
+3682,tabasco pepper,3
+1629,dragonfruit,1
+1801,coconut,5
+28,mustard green,2
+1320,kale,5
+3436,currant,5
+3438,raisin,1
+3765,goji berry,6
+193,spaghetti squash,6
+732,apricot,1
+2805,fig,2
+1571,bilberry,1
+2008,goji berry,5
+3904,blackberry,5
+4042,blackcurrant,5
+3199,cloudberry,4
+3411,feijoa,2
+3708,kale,5
+3338,banana,2
+3157,boysenberry,6
+2475,cloudberry,4
+539,tabasco pepper,5
+3677,cabbage,1
+3738,avocado,5
+37,spinach,2
+416,blueberry,2
+991,apricot,3
+4742,goji berry,3
+2262,azuki bean,4
+981,fig,6
+3332,watercress,6
+4417,damson,2
+3919,dragonfruit,4
+3189,radish,4
+4732,spaghetti squash,5
+2786,bilberry,1
+748,navy bean,5
+2605,cabbage,2
+2761,navy bean,4
+4569,cloudberry,5
+3889,tubers,6
+661,black-eyed pea,5
+4939,blueberry,1
+574,bilberry,3
+4373,corn salad,3
+4683,apple,3
+640,raisin,2
+3583,marjoram,6
+1164,apple,3
+4583,blueberry,4
+1345,radish,5
+1730,feijoa,3
+1516,cabbage,2
+4209,bilberry,3
+209,blackcurrant,1
+1318,fig,2
+2121,kale,4
+3197,broccoflower,5
+4255,bilberry,5
+2898,date,3
+4283,navy bean,3
+621,lima bean,4
+1907,spinach,5
+3651,feijoa,5
+1305,fig,6
+4933,blackcurrant,4
+3923,feijoa,4
+2887,lentils,3
+2906,blackberry,1
+1415,tubers,5
+3842,lemon grass,3
+2086,brussels sprout,2
+4099,corn salad,4
+1959,navy bean,1
+930,currant,5
+3482,spinach,4
+4844,spaghetti squash,4
+1019,cherimoya,6
+1249,spaghetti squash,1
+3980,white radish,1
+2737,feijoa,1
+4554,goji berry,2
+1550,frisee,6
+1001,grapefruit,2
+572,avocado,4
+3552,navy bean,5
+2206,fig,4
+4138,fig,2
+2020,bilberry,6
+644,black-eyed pea,1
+3828,patty pan,3
+3635,spaghetti squash,4
+157,apple,5
+3807,azuki bean,3
+3762,apple,5
+2559,watercress,3
+3776,cherimoya,5
+4973,apple,4
+4678,dragonfruit,1
+283,grapefruit,4
+1737,white radish,6
+2374,bilberry,3
+4432,broccoflower,5
+2044,banana,5
+2778,cloudberry,4
+730,cabbage,2
+1445,grapefruit,3
+1025,black-eyed pea,5
+3518,broccoflower,3
+3438,coconut,5
+466,dragonfruit,1
+1336,blueberry,5
+3020,spinach,3
+3912,cabbage,3
+4182,date,5
+1786,basil,2
+268,blackcurrant,6
+2372,apple,1
+3614,cherimoya,5
+1956,kale,6
+2495,avocado,3
+4760,white radish,5
+1157,apple,5
+160,lentils,2
+4475,radish,5
+4583,green pepper,2
+385,date,4
+3830,spinach,4
+1029,tat soi,1
+4868,apricot,1
+3376,apple,4
+2269,sweet potato,4
+965,kale,5
+2474,navy bean,3
+3207,cabbage,6
+2356,cherimoya,3
+1241,apricot,5
+3074,fig,1
+1129,jerusalem artichoke,4
+446,chickpea,6
+2842,tabasco pepper,5
+3558,arugula,6
+18,dragonfruit,1
+4110,broccoflower,5
+3327,navy bean,2
+4840,navy bean,2
+1793,apricot,1
+2804,fig,2
+3476,kale,3
+1801,avocado,3
+4314,fig,4
+4669,cherimoya,2
+852,tabasco pepper,2
+865,broccoflower,4
+2490,broccoflower,3
+3890,avocado,6
+804,blackcurrant,2
+526,apricot,4
+657,watercress,6
+4421,blackberry,3
+873,banana,2
+2371,spaghetti squash,5
+4284,grapefruit,2
+3066,dragonfruit,1
+866,corn,3
+2889,navy bean,2
+3037,daikon,5
+2865,kale,4
+127,currant,6
+865,bilberry,3
+3253,banana,4
+61,broccoflower,5
+4241,navy bean,4
+1426,damson,3
+4760,damson,5
+3851,radish,2
+4022,blueberry,6
+3590,broccoflower,4
+2799,spinach,4
+1473,tabasco pepper,2
+472,dragonfruit,4
+2169,white radish,3
+4746,frisee,5
+3685,mamey,1
+1885,navy bean,3
+3877,kale,3
+193,avocado,4
+2849,fig,6
+799,cloudberry,5
+4421,celeriac,6
+4564,broccoflower,2
+3587,tat soi,6
+2923,blackberry,1
+173,blackcurrant,1
+3716,patty pan,3
+337,cherimoya,4
+1316,feijoa,3
+2553,raisin,1
+3641,marjoram,6
+157,grapefruit,1
+687,black-eyed pea,1
+625,scallion,3
+4974,frisee,3
+2426,cabbage,1
+1215,carrot,2
+4457,avocado,4
+3999,banana,5
+3727,cabbage,6
+2603,cherimoya,6
+4484,daikon,2
+4584,bilberry,1
+3141,spinach,6
+4699,goji berry,1
+3988,cabbage,1
+75,apple,6
+2114,apricot,5
+213,raisin,5
+597,broccoflower,1
+3579,grapefruit,4
+2139,apple,3
+2628,feijoa,6
+2073,blackberry,3
+3525,bilberry,2
+1138,lentils,3
+1023,raisin,2
+1990,habanero,6
+278,damson,6
+713,spaghetti squash,4
+1115,tubers,5
+2092,patty pan,3
+2320,corn salad,6
+4909,coconut,5
+1080,kale,3
+3522,kale,6
+1762,corn salad,6
+3600,bilberry,1
+3402,watercress,1
+3186,azuki bean,3
+3229,cloudberry,2
+4105,blackberry,4
+4884,azuki bean,3
+1290,navy bean,4
+319,cherimoya,3
+2357,patty pan,6
+2039,blueberry,3
+4345,radish,1
+3629,watercress,1
+1604,white radish,2
+3019,damson,6
+909,apple,4
+4952,coconut,1
+54,spaghetti squash,4
+3668,coconut,2
+1248,bilberry,6
+3654,spinach,6
+543,grapefruit,6
+553,radish,2
+1398,blackberry,4
+3782,navy bean,4
+3088,lentils,1
+1232,tabasco pepper,2
+824,apple,2
+3899,sage,2
+2816,blueberry,4
+4457,patty pan,2
+4769,tat soi,3
+290,bilberry,4
+4669,bilberry,5
+1847,avocado,3
+1138,lentils,1
+2969,spinach,1
+4448,tubers,3
+3577,tat soi,1
+4527,fig,1
+3984,frisee,1
+227,avocado,4
+3030,azuki bean,1
+3902,radish,3
+3193,lentils,3
+3523,blueberry,5
+2101,cloudberry,1
+2030,damson,5
+4368,grapefruit,5
+4716,cabbage,4
+759,watercress,3
+4611,navy bean,3
+2468,marjoram,3
+3544,feijoa,2
+707,blackcurrant,4
+3459,cloudberry,6
+2942,patty pan,4
+1516,watercress,6
+4579,banana,1
+737,marjoram,5
+450,coconut,3
+1001,azuki bean,2
+4945,dill,3
+2754,broccoflower,6
+1321,fig,6
+1862,tubers,6
+2817,coconut,5
+518,yam,2
+2037,cabbage,6
+1740,tat soi,2
+1165,marjoram,4
+817,goji berry,3
+2324,spaghetti squash,3
+619,blueberry,6
+4181,marjoram,4
+4116,black-eyed pea,4
+253,radish,1
+2731,apricot,2
+1977,watercress,6
+2919,blueberry,3
+1015,grapefruit,4
+1891,cranberry,2
+4964,tat soi,4
+4923,navy bean,1
+4818,damson,6
+2365,eggplant,3
+4327,black-eyed pea,4
+504,dragonfruit,4
+2686,date,6
+450,blackcurrant,4
+1654,tubers,2
+1822,azuki bean,6
+1913,cranberry,6
+2985,corn salad,5
+1444,tat soi,2
+4315,damson,4
+3901,frisee,2
+4642,spinach,3
+4426,tabasco pepper,4
+1603,broccoflower,5
+1869,feijoa,6
+255,dragonfruit,2
+2630,currant,2
+1995,cabbage,5
+1481,feijoa,3
+1070,blueberry,3
+4273,cloudberry,3
+2404,spinach,4
+1408,goji berry,1
+3469,lentils,2
+1290,tubers,6
+1162,currant,1
+4531,acorn squash,3
+445,patty pan,4
+42,dragonfruit,2
+785,blueberry,3
+1088,currant,5
+3897,date,3
+1325,fig,2
+3335,watercress,5
+2184,apple,6
+2726,navy bean,1
+4718,tubers,4
+2718,radish,2
+1887,black-eyed pea,5
+1357,radish,5
+3313,cherimoya,1
+2469,corn salad,6
+1615,watercress,5
+2703,tubers,5
+4806,broccoflower,5
+555,azuki bean,1
+2970,broccoflower,4
+1510,bilberry,4
+938,kale,5
+773,watercress,3
+4085,avocado,5
+2921,daikon,5
+2262,tabasco pepper,5
+1471,ginger,5
+2530,currant,1
+3077,cabbage,5
+3621,goji berry,2
+3761,white radish,5
+2201,radish,6
+100,coconut,4
+1133,apple,4
+4632,navy bean,4
+834,damson,5
+4373,dragonfruit,2
+1326,bilberry,3
+1324,blackcurrant,1
+1393,goji berry,6
+4789,daikon,3
+1547,damson,1
+3062,black-eyed pea,2
+2717,cloudberry,3
+4307,cherimoya,3
+3455,azuki bean,2
+3757,currant,1
+655,tabasco pepper,1
+4688,corn salad,4
+2652,tat soi,4
+156,kale,3
+1501,blueberry,4
+1965,navy bean,2
+969,grapefruit,3
+4800,date,5
+1597,tat soi,1
+3308,navy bean,1
+4535,grapefruit,4
+2501,apricot,1
+4200,tat soi,3
+1060,endive,6
+3286,patty pan,1
+1076,cherimoya,4
+3190,damson,3
+1759,fig,2
+4929,tubers,3
+361,feijoa,1
+621,goji berry,5
+4262,azuki bean,4
+537,cabbage,1
+3153,fig,6
+4541,kale,5
+3584,daikon,5
+4,banana,6
+1116,avocado,3
+1037,cloudberry,5
+569,date,6
+963,spinach,4
+3245,tubers,5
+1509,coconut,2
+3313,grapefruit,6
+1325,spaghetti squash,2
+4989,currant,1
+1516,spaghetti squash,2
+710,cucumber,5
+1429,corn salad,3
+2198,cherimoya,4
+3220,blackcurrant,2
+2018,daikon,6
+1047,raisin,2
+716,sweet potato,5
+4495,patty pan,4
+1986,patty pan,2
+3833,blueberry,4
+2353,frisee,6
+4175,azuki bean,2
+3831,tabasco pepper,2
+4428,apricot,6
+4287,marjoram,1
+4727,apricot,2
+2816,blackcurrant,3
+4402,raisin,4
+1077,blackberry,6
+1156,avocado,4
+4037,blackcurrant,1
+4499,avocado,6
+875,lentils,2
+1849,bilberry,1
+1514,damson,3
+3321,white radish,4
+1053,navy bean,3
+1728,bilberry,2
+1428,dragonfruit,3
+3598,white radish,3
+2387,raisin,1
+1631,raisin,3
+629,date,2
+1621,kale,3
+3396,blackberry,2
+4477,apricot,5
+2596,grapefruit,6
+791,blackberry,6
+3031,blackcurrant,2
+202,black-eyed pea,5
+4584,banana,2
+4485,tat soi,2
+964,radish,6
+960,damson,6
+2655,tat soi,1
+1870,corn salad,1
+3352,watercress,2
+3998,goji berry,5
+3964,feijoa,5
+4255,corn salad,4
+1070,cloudberry,2
+940,damson,2
+3340,raisin,5
+4020,radish,6
+898,watercress,6
+2360,corn salad,1
+2629,goji berry,3
+3525,cloudberry,3
+4172,date,1
+4824,kale,6
+2178,spaghetti squash,3
+4904,dragonfruit,4
+743,lentils,3
+3695,apricot,4
+3932,marjoram,5
+3362,dragonfruit,5
+1981,black-eyed pea,5
+1793,daikon,5
+4433,blackcurrant,3
+4416,apple,1
+3258,daikon,2
+2353,navy bean,5
+4300,dragonfruit,5
+4482,azuki bean,6
+865,tubers,6
+1910,navy bean,4
+39,frisee,2
+4137,cherimoya,5
+2861,raisin,6
+4352,bilberry,1
+2890,blackcurrant,6
+4547,spaghetti squash,1
+816,spaghetti squash,1
+1916,cherimoya,4
+596,goji berry,4
+3667,bilberry,2
+1401,fig,3
+2399,broccoflower,3
+1505,corn salad,5
+4723,radish,6
+3059,tubers,4
+2816,broccoflower,2
+3396,cabbage,3
+2262,apricot,3
+1284,bilberry,2
+3271,navy bean,1
+161,blackberry,2
+2239,navy bean,5
+4604,azuki bean,6
+1348,damson,4
+971,azuki bean,3
+99,daikon,4
+3051,lentils,6
+1458,dragonfruit,3
+1956,tabasco pepper,6
+2829,jicama,4
+4229,cabbage,1
+3076,bilberry,5
+1056,azuki bean,5
+1206,white radish,2
+3127,spaghetti squash,5
+2995,frisee,6
+4298,navy bean,4
+2,apple,2
+1054,currant,2
+2174,avocado,5
+3444,apricot,4
+2609,grapefruit,2
+1868,avocado,1
+1337,endive,6
+4940,dragonfruit,2
+2364,bilberry,3
+3972,tabasco pepper,6
+3503,apple,4
+2904,marjoram,5
+365,black-eyed pea,4
+1951,coconut,4
+4225,lentils,3
+4464,tat soi,6
+3971,blackcurrant,4
+1366,rutabaga,6
+2112,daikon,2
+1763,cabbage,5
+3264,blackberry,5
+2600,frisee,6
+1073,jalapeno,6
+304,date,6
+1266,radish,3
+499,broccoflower,5
+3634,tat soi,1
+2112,azuki bean,5
+4365,endive,6
+1107,spinach,4
+364,banana,3
+570,tubers,1
+3481,apricot,6
+1723,tabasco pepper,3
+4696,bilberry,4
+1900,feijoa,1
+1268,date,4
+2440,blackcurrant,5
+4896,fig,1
+814,blackcurrant,2
+4126,apricot,5
+1629,cherimoya,1
+2515,cabbage,6
+589,banana,3
+4412,black-eyed pea,6
+2765,currant,3
+1219,currant,5
+4358,dragonfruit,3
+3285,blackberry,1
+1032,navy bean,5
+1418,dragonfruit,6
+4987,goji berry,2
+4641,avocado,1
+3928,currant,3
+4134,damson,1
+3050,black-eyed pea,3
+2304,azuki bean,2
+4170,fig,1
+1567,currant,2
+4420,patty pan,3
+2212,radish,6
+1138,damson,6
+4107,grapefruit,2
+3168,goji berry,4
+1157,date,3
+987,grapefruit,3
+2615,cherimoya,4
+3548,coconut,2
+4550,frisee,2
+4369,azuki bean,2
+4928,raisin,2
+1891,tabasco pepper,1
+1846,spaghetti squash,6
+2826,apricot,1
+938,raisin,4
+4016,damson,5
+4050,apple,4
+2044,radish,2
+3645,apple,4
+1377,kale,1
+4124,blackberry,2
+3208,white radish,5
+2496,goji berry,6
+437,coconut,1
+1591,currant,2
+2576,lentils,3
+2450,coconut,2
+1357,date,3
+3661,corn salad,1
+3826,white radish,4
+1579,watercress,2
+4054,courgette,5
+1013,goji berry,2
+2962,apricot,2
+4741,dragonfruit,1
+665,radish,3
+4363,spaghetti squash,4
+872,banana,6
+669,blueberry,2
+306,daikon,2
+3917,banana,5
+1256,daikon,5
+1223,fig,6
+2462,corn salad,4
+1150,marjoram,4
+2762,marjoram,2
+4823,daikon,1
+815,cloudberry,1
+28,blackcurrant,2
+4210,apple,1
+4691,tubers,6
+609,cloudberry,5
+4312,tabasco pepper,1
+3963,tubers,1
+1072,kidney bean,5
+1910,azuki bean,5
+137,kale,2
+1638,dragonfruit,1
+2599,parsnip,2
+2024,blueberry,6
+3241,apricot,6
+2219,apple,6
+1115,marjoram,2
+3769,cabbage,4
+4369,spinach,1
+354,coconut,6
+4459,feijoa,5
+4471,alfalfa sprout,6
+2791,tabasco pepper,6
+1039,dragonfruit,2
+4757,bilberry,2
+3515,lentils,2
+3143,dragonfruit,3
+3745,lentils,2
+2829,damson,6
+3575,grapefruit,4
+3648,goji berry,6
+1558,cloudberry,5
+3789,blueberry,4
+4124,fig,1
+3896,marjoram,1
+2176,kale,1
+4334,cabbage,3
+3082,navy bean,1
+158,dragonfruit,6
+4990,banana,6
+2275,coconut,4
+793,blueberry,1
+3226,damson,2
+3608,corn salad,6
+4448,bilberry,4
+4443,tubers,5
+4203,blueberry,6
+3656,goji berry,5
+446,patty pan,5
+4681,cabbage,3
+3812,frisee,5
+3738,watercress,2
+3115,spinach,4
+50,scallion,3
+2189,cherimoya,3
+4237,cloudberry,1
+1343,grapefruit,3
+69,banana,5
+2826,acorn squash,2
+3304,grapefruit,6
+3805,kale,1
+2441,apricot,2
+2012,paprika,5
+4082,broccoflower,6
+135,white radish,6
+3248,currant,1
+3801,blackcurrant,4
+2631,coconut,6
+4231,banana,1
+3264,kale,2
+1563,borlotti bean,2
+1690,dragonfruit,6
+3831,kale,1
+2970,spinach,6
+3625,raisin,3
+2534,marjoram,2
+3012,frisee,3
+136,apple,3
+4895,frisee,1
+2961,patty pan,1
+3294,tat soi,4
+4530,fig,6
+798,black-eyed pea,3
+1535,cabbage,4
+2322,azuki bean,5
+2975,apple,6
+3566,lentils,2
+3791,blackberry,4
+2974,corn salad,3
+4523,tubers,3
+919,frisee,5
+1880,kale,2
+403,banana,6
+2769,navy bean,4
+4962,navy bean,3
+424,white radish,4
+1667,navy bean,4
+2926,lentils,1
+3953,spaghetti squash,3
+4355,corn salad,6
+4962,radish,3
+3446,lentils,2
+652,avocado,4
+4116,azuki bean,2
+4398,spinach,4
+1341,coconut,6
+3935,grapefruit,4
+3452,tabasco pepper,4
+16,raisin,6
+2101,patty pan,2
+3472,spinach,2
+442,bilberry,2
+2096,cherimoya,2
+828,apricot,3
+348,spinach,1
+204,currant,2
+4344,radish,1
+2220,black-eyed pea,4
+2883,tubers,1
+4670,cherimoya,3
+1808,tabasco pepper,4
+3220,corn salad,6
+4777,corn salad,4
+4046,daikon,4
+913,watercress,5
+4208,blueberry,1
+1818,dragonfruit,2
+4617,goji berry,4
+203,raisin,5
+4698,blueberry,1
+4526,daikon,5
+1492,frisee,4
+727,bilberry,6
+3449,lentils,6
+3798,blackcurrant,1
+3138,currant,6
+2785,kale,1
+381,cherimoya,4
+1740,bilberry,6
+3333,damson,5
+1066,apple,2
+1505,fig,2
+1629,radish,2
+2461,blackberry,1
+608,radish,6
+3780,fig,2
+2761,blueberry,3
+115,bilberry,2
+3979,date,2
+1085,blackcurrant,4
+1171,blackcurrant,3
+3596,fig,1
+1544,avocado,1
+3236,damson,4
+1164,dragonfruit,2
+673,apple,4
+2091,apple,4
+1293,fig,6
+457,blackberry,5
+3348,daikon,6
+2797,lentils,1
+3154,blackberry,5
+3900,black-eyed pea,3
+2950,blueberry,6
+2489,tat soi,6
+2404,tabasco pepper,1
+1951,bilberry,3
+1368,azuki bean,4
+4437,spinach,1
+1241,frisee,5
+187,radish,3
+3343,raisin,6
+869,spaghetti squash,3
+2785,grapefruit,1
+4712,cabbage,3
+4779,feijoa,5
+1879,spinach,3
+2338,navy bean,2
+4854,feijoa,5
+2329,date,1
+2746,banana,6
+37,black-eyed pea,6
+2274,banana,6
+3168,spaghetti squash,3
+855,raisin,4
+3127,watercress,3
+4305,coconut,6
+4793,daikon,2
+2759,coconut,2
+1023,kale,5
+1782,corn salad,2
+3787,blackberry,2
+1885,date,1
+4997,cloudberry,4
+4162,black-eyed pea,1
+394,broccoflower,2
+2052,raisin,3
+3717,currant,4
+4524,cabbage,1
+4998,avocado,5
+2611,daikon,6
+4362,feijoa,4
+1404,navy bean,6
+1445,grapefruit,5
+2274,fig,6
+4487,feijoa,2
+1087,fig,4
+3485,blueberry,5
+1088,patty pan,2
+257,grapefruit,4
+3193,corn salad,5
+4401,apricot,1
+3517,lentils,1
+3279,tabasco pepper,6
+2284,azuki bean,6
+663,grapefruit,4
+723,frisee,4
+705,coconut,3
+4624,feijoa,2
+1420,white radish,5
+581,apricot,2
+4820,kale,5
+4483,feijoa,1
+3771,black-eyed pea,1
+774,date,5
+1111,raisin,6
+786,azuki bean,6
+4119,blackberry,1
+4635,blackberry,5
+3679,white radish,2
+3627,apple,6
+319,kale,4
+9,feijoa,2
+4016,fig,1
+2955,lentils,2
+4275,frisee,2
+2051,dragonfruit,1
+4465,black-eyed pea,3
+4719,black-eyed pea,2
+751,navy bean,4
+4549,date,1
+1766,tubers,1
+4614,cherimoya,1
+141,tabasco pepper,3
+4095,oregano,6
+902,daikon,2
+3648,tubers,6
+623,azuki bean,4
+2028,feijoa,6
+2099,blackberry,6
+4797,spaghetti squash,1
+157,cabbage,2
+2787,grapefruit,4
+3765,avocado,6
+4512,daikon,5
+2783,tubers,5
+4889,spaghetti squash,6
+3420,black-eyed pea,2
+2176,corn salad,6
+4606,tubers,5
+4989,cloudberry,6
+1671,banana,1
+3098,fig,5
+2085,tat soi,5
+4367,azuki bean,1
+1021,spaghetti squash,4
+414,cilantro,5
+4955,blueberry,3
+2350,tat soi,6
+4462,tabasco pepper,3
+4203,herbs and spice,2
+4101,damson,4
+2879,avocado,1
+2735,lentils,2
+4897,dragonfruit,5
+705,corn salad,3
+1694,radish,5
+752,black-eyed pea,6
+4004,cloudberry,2
+4956,marjoram,2
+4560,azuki bean,5
+930,cherimoya,5
+4977,kale,2
+563,kale,3
+591,radish,2
+4877,blueberry,2
+3157,date,2
+3771,fiddlehead,2
+2787,potato,4
+4998,coconut,6
+4759,navy bean,4
+4021,blackcurrant,3
+1122,tubers,1
+2194,blackberry,2
+2618,blueberry,1
+574,corn salad,6
+1810,feijoa,5
+1211,corn salad,5
+825,blueberry,3
+3100,currant,2
+3194,wasabi,4
+1096,apple,5
+2054,white radish,6
+1609,grapefruit,6
+3935,spaghetti squash,1
+2192,black-eyed pea,5
+2109,azuki bean,3
+3144,cabbage,6
+4861,blackberry,2
+1,feijoa,6
+3998,patty pan,2
+1257,cherimoya,3
+1440,currant,1
+796,blueberry,1
+2855,legume,5
+1647,spaghetti squash,6
+3461,blackcurrant,2
+4270,bilberry,4
+3353,apple,3
+1729,raisin,4
+786,date,3
+1457,kidney bean,6
+4999,tabasco pepper,2
+2005,blackberry,4
+453,damson,4
+1428,apricot,3
+4001,date,2
+1795,daikon,4
+3459,patty pan,4
+2294,feijoa,2
+2988,marjoram,5
+2181,white radish,1
+1007,white radish,1
+3467,kale,6
+2616,spinach,6
+4987,feijoa,6
+4209,tat soi,2
+4760,black-eyed pea,2
+868,lentils,6
+433,lentils,1
+3752,avocado,6
+2283,broccoflower,2
+4794,blackcurrant,5
+1847,tat soi,6
+1707,spaghetti squash,5
+1410,grapefruit,3
+3304,daikon,1
+4868,daikon,3
+978,avocado,6
+4053,broccoflower,3
+3613,banana,1
+4989,grapefruit,1
+727,date,1
+3924,banana,2
+3941,currant,4
+4225,durian,3
+1502,blueberry,6
+4461,broccoflower,6
+511,azuki bean,4
+3285,lentils,4
+3569,radish,2
+3430,goji berry,5
+1194,daikon,2
+2290,blackberry,1
+4369,damson,3
+933,blueberry,6
+4080,corn salad,3
+4228,spinach,2
+2928,damson,5
+609,fig,2
+4830,lentils,5
+3810,damson,3
+1275,cloudberry,2
+3788,corn salad,2
+4550,azuki bean,4
+342,avocado,3
+1493,raisin,3
+4839,broccoflower,5
+4591,blueberry,1
+69,black-eyed pea,6
+1541,tat soi,3
+3180,grapefruit,4
+2892,cloudberry,5
+4478,feijoa,6
+2697,calabrese,2
+2185,tat soi,2
+4740,spinach,5
+975,daikon,3
+4764,patty pan,4
+1488,damson,4
+4964,blueberry,5
+3883,marjoram,1
+2998,blackcurrant,6
+249,fig,1
+1496,broccoflower,2
+3720,banana,3
+2096,apricot,5
+1224,blackcurrant,1
+321,feijoa,5
+2264,frisee,1
+1413,raisin,1
+768,apricot,6
+206,daikon,4
+4279,currant,3
+207,azuki bean,3
+31,cloudberry,4
+338,apricot,3
+1096,kale,3
+4550,cherimoya,6
+1971,blueberry,6
+1241,patty pan,6
+1389,fig,6
+3377,radish,1
+1763,fig,3
+3959,lentils,2
+2429,tat soi,5
+1806,daikon,1
+3087,watercress,1
+3519,spinach,6
+899,corn salad,3
+1585,corn salad,1
+196,banana squash,2
+1878,dragonfruit,6
+1274,kale,1
+1895,corn salad,2
+1644,frisee,3
+2854,dragonfruit,2
+3637,apricot,2
+30,marjoram,4
+1090,raisin,5
+1236,goji berry,2
+1677,blueberry,6
+822,blackcurrant,3
+3267,black-eyed pea,3
+1377,broccoflower,1
+355,frisee,5
+2356,white radish,6
+162,marjoram,2
+2377,raisin,3
+558,radish,6
+3419,navy bean,4
+4771,apricot,4
+1575,tat soi,2
+2554,white radish,3
+2898,currant,1
+276,apricot,4
+2724,feijoa,5
+4324,grapefruit,6
+4943,grapefruit,3
+1261,spaghetti squash,2
+458,white radish,2
+4040,apple,1
+4203,tubers,3
+3506,grapefruit,6
+953,daikon,1
+605,radish,3
+1592,cloudberry,6
+2533,currant,5
+1368,black-eyed pea,6
+4738,watercress,1
+4771,apple,4
+1703,tat soi,4
+2733,tat soi,1
+4672,raisin,4
+1358,blackberry,1
+1331,tabasco pepper,2
+3854,lentils,2
+4717,apricot,5
+4019,spinach,6
+3534,turnip,1
+4053,goji berry,5
+2779,bilberry,6
+1334,bilberry,5
+4815,black-eyed pea,3
+4936,raisin,3
+974,white radish,6
+653,patty pan,5
+1278,lentils,4
+3475,cherimoya,2
+4941,radish,4
+1120,damson,3
+4151,parsley,4
+3860,navy bean,3
+1275,goji berry,1
+860,coconut,3
+4883,black-eyed pea,3
+3048,grapefruit,2
+2840,blackberry,4
+384,blackberry,3
+3425,apricot,1
+4081,tubers,3
+1394,lentils,1
+33,dragonfruit,2
+416,spinach,2
+3219,blueberry,6
+2955,grapefruit,5
+3872,apple,6
+3762,banana,5
+1066,raisin,1
+152,damson,4
+2133,azuki bean,5
+2075,zucchini,1
+3334,tubers,2
+4786,damson,5
+1135,azuki bean,1
+4348,apple,3
+2898,azuki bean,2
+776,tat soi,5
+1863,spinach,4
+2911,date,4
+3094,patty pan,2
+3416,marjoram,6
+338,blueberry,1
+462,frisee,4
+375,avocado,5
+1711,cloudberry,1
+4942,blueberry,4
+2382,goji berry,2
+1487,goji berry,3
+381,radish,3
+4763,daikon,4
+3462,blackcurrant,1
+2622,apple,5
+2142,fig,1
+2234,broccoflower,2
+1319,date,3
+3203,black-eyed pea,5
+4960,corn salad,2
+3850,currant,1
+333,spaghetti squash,4
+2302,bilberry,5
+602,fig,6
+2294,cherimoya,2
+3461,corn salad,5
+4725,white radish,6
+3275,cherimoya,5
+2073,fig,2
+4349,black-eyed pea,2
+4506,tubers,1
+3071,grapefruit,5
+1552,goji berry,3
+678,watercress,3
+4034,patty pan,2
+1174,apple,4
+1526,parsley,2
+1863,raisin,4
+1218,azuki bean,6
+2356,avocado,3
+3758,tabasco pepper,6
+4288,garlic,6
+233,tabasco pepper,5
+2617,cherimoya,6
+3244,tubers,4
+2815,feijoa,5
+1220,cloudberry,2
+878,date,5
+778,dragonfruit,2
+2652,blackcurrant,1
+831,goji berry,5
+2935,watercress,3
+1230,bilberry,2
+1233,date,5
+1836,blackcurrant,2
+2199,spaghetti squash,1
+4223,corn salad,5
+3559,blueberry,1
+1321,blueberry,4
+4351,black-eyed pea,2
+3414,fig,3
+2319,cherimoya,6
+4388,apple,6
+3919,broccoflower,6
+949,marjoram,1
+1744,banana,3
+2185,broccoflower,1
+3078,patty pan,2
+584,cabbage,6
+414,blackcurrant,6
+603,grapefruit,1
+1121,tubers,4
+552,apricot,5
+2686,date,4
+3628,frisee,2
+2442,frisee,3
+4241,lentils,6
+1906,broccoflower,2
+4027,coconut,5
+3212,white radish,6
+3333,fig,6
+2355,black-eyed pea,1
+4178,bilberry,6
+210,damson,1
+4692,apple,2
+212,apricot,3
+490,blackberry,1
+4949,frisee,4
+655,black-eyed pea,4
+3126,dragonfruit,6
+1920,feijoa,5
+2643,blackcurrant,2
+2875,banana,5
+322,spaghetti squash,5
+3449,fig,4
+2156,currant,2
+836,cloudberry,4
+3026,goji berry,3
+4819,coconut,3
+1518,black-eyed pea,3
+2451,marjoram,2
+4615,banana,1
+2949,taro,6
+4272,blackcurrant,3
+2603,spaghetti squash,3
+1302,tat soi,6
+3967,azuki bean,5
+407,dragonfruit,3
+4572,azuki bean,3
+2651,alfalfa sprout,6
+328,apricot,5
+592,frisee,2
+1018,broccoflower,4
+3126,blackcurrant,5
+1458,apricot,6
+4710,blueberry,3
+153,cloudberry,6
+4724,collard green,1
+3194,broccoflower,6
+4003,tat soi,5
+4113,marjoram,4
+4881,frisee,2
+3755,fig,4
+4712,goji berry,1
+1565,kale,5
+833,damson,6
+3093,coconut,3
+3058,avocado,3
+4668,date,3
+3551,navy bean,2
+4396,dragonfruit,3
+3784,banana,3
+95,lentils,6
+4450,cloudberry,2
+4897,cherimoya,1
+2999,daikon,6
+1133,tubers,1
+1689,banana,6
+4546,fig,3
+3715,nopale,2
+101,radish,2
+467,frisee,4
+24,blackcurrant,4
+4923,goji berry,6
+1689,feijoa,4
+1823,navy bean,3
+2846,raisin,1
+3968,artichoke,4
+2885,avocado,4
+3959,tat soi,4
+841,coconut,4
+3902,apricot,4
+2563,daikon,2
+2104,watercress,1
+3621,blackberry,5
+2976,cabbage,1
+4439,currant,2
+4006,goji berry,1
+1342,grapefruit,5
+3510,cabbage,2
+140,corn salad,2
+2711,frisee,6
+3702,azuki bean,4
+4124,navy bean,6
+204,marjoram,5
+886,lentils,1
+3289,banana,1
+3106,fig,4
+1648,cherimoya,2
+3272,avocado,2
+1414,fig,1
+111,spaghetti squash,1
+1817,feijoa,2
+2722,apricot,5
+228,blueberry,2
+3148,watercress,3
+1681,corn salad,1
+1131,grapefruit,6
+4903,tubers,3
+3500,black-eyed pea,6
+1525,blackberry,5
+117,banana,2
+2411,spaghetti squash,6
+3611,cherimoya,6
+2134,banana,5
+2061,white radish,3
+538,fig,5
+4109,fig,1
+3427,blackcurrant,1
+3296,blueberry,1
+4702,coconut,4
+4873,raisin,3
+2455,patty pan,1
+2360,cherimoya,5
+2747,feijoa,4
+4334,broccoflower,6
+2410,date,4
+4027,kale,2
+2328,feijoa,1
+2449,apricot,1
+2306,frisee,4
+2333,black-eyed pea,1
+2134,raisin,4
+3037,grapefruit,4
+1048,goji berry,2
+4262,caraway,2
+4209,blackcurrant,5
+4761,patty pan,1
+4932,white radish,4
+4792,patty pan,4
+3359,banana,5
+4944,radish,4
+819,tat soi,3
+3657,spinach,1
+2679,patty pan,1
+3618,coconut,3
+1056,bilberry,4
+4639,tabasco pepper,5
+4335,grapefruit,2
+69,frisee,5
+1592,cloudberry,6
+3854,broccoflower,6
+851,lima bean,5
+616,tubers,1
+3176,currant,5
+1275,bilberry,3
+2736,broccoflower,4
+1273,broccoflower,2
+650,blueberry,2
+4255,apricot,1
+1259,marjoram,5
+3186,apple,2
+2628,tubers,5
+3977,banana,5
+2694,cabbage,3
+2258,feijoa,3
+1798,broccoflower,2
+1784,cabbage,6
+3887,corn salad,2
+120,cherimoya,1
+3602,spaghetti squash,5
+1073,feijoa,1
+4526,marjoram,5
+3484,bilberry,3
+1597,watercress,4
+4473,tabasco pepper,5
+2517,cherimoya,1
+3825,apricot,1
+3448,white radish,3
+3295,dragonfruit,3
+840,cloudberry,5
+2206,radish,3
+3160,azuki bean,1
+4738,feijoa,2
+698,apricot,2
+1598,kale,5
+3796,corn salad,2
+2853,cabbage,4
+2731,blackberry,1
+4144,white radish,1
+4384,dragonfruit,2
+4996,date,5
+3272,blackcurrant,1
+348,damson,6
+4121,frisee,5
+4756,frisee,3
+1174,patty pan,2
+3496,apple,3
+227,apricot,6
+1618,daikon,1
+2110,date,6
+607,cloudberry,3
+4607,spinach,4
+4545,tubers,3
+4976,watercress,3
+417,cherimoya,2
+4106,tat soi,3
+1378,raisin,6
+2305,daikon,6
+3460,apple,1
+137,bilberry,5
+2988,raisin,3
+4503,frisee,3
+3003,apricot,1
+538,spaghetti squash,6
+3374,avocado,4
+4068,raisin,5
+2226,broccoflower,2
+2913,broccoflower,3
+30,damson,1
+1605,tubers,4
+2268,banana,1
+1298,lentils,2
+1470,azuki bean,6
+2479,navy bean,6
+935,broccoflower,5
+1250,corn salad,6
+2886,blueberry,3
+1489,azuki bean,1
+736,damson,5
+1788,blackcurrant,4
+4893,celery,4
+1921,grapefruit,2
+3925,watercress,6
+970,herbs and spice,6
+305,spinach,6
+3645,banana,5
+685,bilberry,2
+257,damson,2
+4001,dragonfruit,3
+4543,lentils,6
+2060,feijoa,6
+4253,azuki bean,6
+4611,lentils,6
+3506,azuki bean,2
+4376,radish,4
+3506,blueberry,1
+3516,tat soi,1
+666,avocado,6
+2049,watercress,6
+2084,banana squash,5
+4052,tubers,6
+3078,frisee,6
+3917,frisee,1
+130,cherimoya,4
+748,kale,2
+4053,damson,4
+2558,daikon,1
+3903,white radish,1
+3172,broccoli,4
+790,blackberry,3
+4011,tubers,3
+3509,kale,1
+1380,broccoflower,2
+4994,navy bean,2
+1296,black-eyed pea,5
+1493,fiddlehead,5
+4011,tat soi,1
+911,watercress,1
+1215,raisin,6
+2275,feijoa,5
+2813,damson,3
+4052,cabbage,3
+4925,apple,5
+1453,guava,1
+362,feijoa,6
+1125,broccoflower,6
+1842,raisin,2
+363,cherimoya,3
+2830,blackberry,5
+4119,corn salad,5
+280,spinach,3
+4661,dragonfruit,5
+805,marjoram,5
+4859,feijoa,3
+3158,cloudberry,5
+4334,goji berry,1
+4748,cloudberry,2
+4114,cherimoya,1
+3335,blueberry,6
+3662,skirret,5
+4332,watercress,2
+275,raisin,5
+336,raisin,3
+3593,lentils,4
+4025,fig,1
+456,mushroom,3
+3875,currant,1
+610,damson,6
+374,fig,1
+494,bilberry,2
+417,patty pan,3
+1358,horseradish,2
+6,blackcurrant,3
+4074,white radish,2
+1898,corn salad,6
+4106,tubers,6
+3869,damson,6
+2772,cranberry,5
+1351,raisin,4
+3548,feijoa,3
+726,raisin,3
+1005,banana,1
+4907,cherimoya,1
+2552,broccoflower,3
+4815,corn salad,6
+2531,spinach,5
+4446,fig,1
+2177,broccoflower,1
+1374,apricot,1
+1782,spinach,4
+293,patty pan,4
+2946,grapefruit,2
+2598,apple,6
+2099,daikon,6
+1089,radish,6
+207,kale,5
+4838,coconut,6
+436,currant,2
+1550,banana,2
+3432,watercress,3
+4231,radish,4
+4926,watercress,2
+4724,cloudberry,1
+77,blackcurrant,1
+980,cherimoya,2
+4466,navy bean,6
+2458,spinach,4
+207,radish,5
+1087,marjoram,3
+1018,tubers,3
+4039,azuki bean,6
+764,corn salad,2
+2082,grapefruit,2
+4668,radish,6
+2633,azuki bean,3
+2969,avocado,6
+2056,feijoa,4
+2775,lentils,5
+3451,cloudberry,5
+219,coconut,1
+1467,banana,3
+3623,feijoa,1
+1397,grapefruit,2
+4479,avocado,6
+2524,feijoa,4
+1842,apricot,2
+598,cherimoya,4
+4817,dragonfruit,1
+827,tat soi,1
+3806,bilberry,3
+4523,watercress,3
+3909,navy bean,5
+4897,apple,3
+1073,grapefruit,4
+3585,spaghetti squash,5
+2597,bean sprout,5
+975,tabasco pepper,6
+3421,black-eyed pea,1
+3886,radish,1
+692,avocado,1
+1631,radish,2
+493,patty pan,6
+674,marjoram,2
+1539,patty pan,1
+3113,date,3
+3097,cabbage,2
+268,feijoa,3
+430,raisin,3
+2248,frisee,5
+4058,apricot,6
+2146,radicchio,6
+1208,blackcurrant,2
+4408,frisee,2
+3815,blackcurrant,4
+3882,feijoa,1
+405,tat soi,1
+330,damson,4
+246,damson,3
+4284,apple,3
+4882,blackcurrant,1
+1978,raisin,4
+1488,broccoflower,3
+742,lima bean,6
+2715,feijoa,5
+526,black-eyed pea,6
+3061,date,5
+2950,apple,1
+4453,avocado,2
+375,daikon,6
+1813,grapefruit,2
+4880,tubers,6
+250,banana,6
+1510,patty pan,4
+3576,cherimoya,2
+2882,cherimoya,2
+3940,avocado,3
+2996,spaghetti squash,6
+2092,paprika,3
+4206,cabbage,6
+2806,feijoa,2
+2197,jerusalem artichoke,4
+2919,radish,2
+2281,spaghetti squash,3
+4173,lentils,4
+580,banana,4
+983,cloudberry,5
+178,navy bean,6
+646,spinach,1
+435,lentils,2
+4928,blackcurrant,5
+1219,apricot,5
+1821,eggplant,2
+2386,cloudberry,4
+1423,banana,5
+3327,spinach,5
+2644,grapefruit,3
+4291,apple,4
+4140,corn salad,3
+4955,herbs and spice,5
+1076,feijoa,5
+4335,daikon,5
+2764,marjoram,3
+3716,feijoa,1
+150,blackcurrant,1
+3841,cloudberry,2
+2663,spinach,2
+1830,blackcurrant,3
+3410,cherimoya,2
+1965,banana,1
+3000,navy bean,6
+3456,apricot,1
+3131,raisin,1
+1305,spinach,6
+281,damson,2
+1550,lettuce,4
+3956,black-eyed pea,5
+4298,bilberry,5
+432,cherimoya,2
+3169,corn salad,2
+626,apricot,5
+832,frisee,6
+1531,azuki bean,3
+4867,tubers,2
+435,corn salad,5
+4517,damson,2
+3849,eggplant,6
+4887,anise,3
+1662,currant,6
+1877,black-eyed pea,4
+4470,feijoa,5
+1085,tubers,6
+1151,kale,3
+4935,daikon,6
+4198,coconut,5
+3857,raisin,4
+985,apricot,1
+535,goji berry,3
+1404,grapefruit,5
+3434,azuki bean,4
+923,goji berry,3
+676,feijoa,1
+4586,spaghetti squash,5
+46,tabasco pepper,2
+3830,spinach,6
+2326,black-eyed pea,5
+615,lentils,1
+1771,avocado,1
+632,white radish,4
+522,broccoflower,6
+2434,avocado,5
+2155,black-eyed pea,5
+1849,coconut,6
+2407,patty pan,5
+1185,raisin,1
+825,blackcurrant,6
+392,cherimoya,6
+4689,coconut,6
+3999,dragonfruit,6
+1640,tubers,2
+3372,cherimoya,3
+3400,blueberry,2
+4823,avocado,3
+2115,date,4
+4544,chayote,2
+2801,currant,6
+2824,date,6
+3011,cherimoya,4
+83,chamomile,2
+3138,dragonfruit,1
+4479,spaghetti squash,2
+4299,marjoram,5
+903,tat soi,6
+363,fig,4
+3840,cloudberry,6
+1690,frisee,1
+1042,radish,2
+3815,fig,2
+350,bilberry,3
+1408,cucumber,5
+1417,spinach,4
+2252,fig,4
+3834,corn salad,3
+3424,cloudberry,3
+1997,radish,4
+711,feijoa,5
+961,raisin,1
+140,tubers,3
+160,kale,4
+3236,fig,6
+3563,broccoflower,5
+4833,avocado,3
+2768,black-eyed pea,2
+1523,navy bean,2
+3018,damson,4
+2684,feijoa,5
+3978,apricot,5
+4630,spinach,4
+725,cherimoya,6
+2499,radish,4
+1367,tabasco pepper,2
+3652,broccoflower,6
+1446,kale,3
+3941,grapefruit,4
+2015,broccoflower,5
+1133,apricot,4
+1483,fig,3
+3741,tabasco pepper,3
+979,cherimoya,3
+2802,coconut,1
+397,frisee,6
+2670,blueberry,1
+2771,avocado,6
+4382,kale,6
+1378,avocado,4
+3805,kale,2
+4509,black-eyed pea,4
+1540,blackberry,3
+1657,blackberry,6
+1140,apricot,2
+210,blueberry,6
+3794,grapefruit,3
+2817,grapefruit,6
+2771,date,5
+4780,date,4
+294,goji berry,2
+1013,navy bean,5
+4485,watercress,4
+937,spinach,1
+4074,apple,1
+544,apricot,1
+762,banana,3
+1727,frisee,3
+1798,date,3
+4418,banana,1
+2768,daikon,4
+4828,cloudberry,6
+4450,cabbage,1
+810,fiddlehead,3
+3518,tabasco pepper,5
+4095,dragonfruit,4
+3532,caraway,5
+307,watercress,6
+2181,daikon,3
+4671,azuki bean,2
+4112,cabbage,5
+3043,radish,5
+4230,wasabi,6
+4463,white radish,1
+71,spaghetti squash,6
+4393,cabbage,3
+694,blackberry,3
+2552,spinach,1
+4434,frisee,2
+4537,corn salad,3
+4633,blackberry,5
+292,apple,6
+2548,cabbage,1
+4424,cherimoya,1
+3817,broccoflower,3
+1931,blueberry,3
+4576,patty pan,4
+4558,raisin,1
+658,grapefruit,2
+4073,raisin,5
+4035,lentils,3
+820,bilberry,4
+1429,radish,2
+303,date,5
+3470,watercress,4
+1210,patty pan,5
+1612,blackcurrant,1
+4368,date,2
+2948,corn salad,3
+4867,tubers,6
+4633,tat soi,1
+775,daikon,6
+3324,black-eyed pea,3
+1983,broccoflower,1
+4057,tubers,6
+4556,black-eyed pea,2
+4642,currant,1
+858,damson,3
+3110,spinach,3
+2495,brussels sprout,1
+1154,raisin,3
+3817,tabasco pepper,1
+118,radish,6
+2794,broccoflower,2
+4784,navy bean,6
+1808,blackberry,2
+2098,radish,5
+2342,goji berry,2
+226,corn salad,1
+840,dragonfruit,2
+2895,tabasco pepper,4
+920,frisee,6
+4228,raisin,3
+2903,kale,3
+4765,navy bean,1
+2452,tabasco pepper,4
+1902,cherimoya,1
+2215,blackcurrant,6
+108,corn salad,2
+2539,blackcurrant,5
+3606,damson,5
+219,blackcurrant,4
+557,white radish,6
+2563,calabrese,2
+4665,spinach,5
+4057,navy bean,2
+2417,blackberry,1
+168,marjoram,1
+4025,tubers,1
+1867,marjoram,6
+2102,frisee,6
+764,frisee,3
+1936,blackcurrant,6
+3508,lentils,6
+3447,goji berry,6
+3919,broccoflower,4
+998,apple,5
+3146,avocado,4
+622,grapefruit,6
+404,cabbage,6
+4645,patty pan,4
+3268,blueberry,2
+2648,azuki bean,5
+1162,blackcurrant,1
+1475,blackberry,1
+4011,azuki bean,4
+2833,cherimoya,4
+3071,apricot,6
+3588,tat soi,4
+672,lentils,6
+3641,cloudberry,4
+2018,avocado,6
+4430,blueberry,5
+1118,spinach,6
+306,patty pan,4
+520,spaghetti squash,3
+2851,tat soi,2
+3972,arugula,5
+1203,fig,5
+2028,daikon,4
+123,apple,5
+903,raisin,6
+1589,spaghetti squash,4
+396,white radish,1
+160,goji berry,4
+1584,feijoa,2
+1063,lentils,3
+3169,daikon,3
+2641,apple,1
+3228,navy bean,6
+466,blackcurrant,5
+3086,spaghetti squash,5
+1557,lentils,1
+4807,cherimoya,2
+4674,grapefruit,4
+3805,tubers,5
+4128,blueberry,2
+4520,topinambur,6
+426,corn salad,2
+4935,raisin,4
+4140,broccoflower,2
+2513,cabbage,2
+1973,apricot,5
+4647,lemon grass,3
+4324,spaghetti squash,6
+4532,date,1
+1215,raisin,5
+3015,spaghetti squash,6
+297,blueberry,1
+2119,bilberry,5
+2207,spaghetti squash,6
+2056,dragonfruit,1
+1191,apricot,4
+355,thyme,4
+1901,azuki bean,4
+783,marjoram,6
+3229,goji berry,2
+2199,kale,5
+381,grapefruit,4
+4460,blueberry,5
+4339,kale,1
+3342,azuki bean,6
+3591,cloudberry,3
+2843,apricot,1
+2130,broccoflower,4
+3392,apple,2
+2307,dragonfruit,1
+232,dragonfruit,2
+915,apple,2
+4990,watercress,4
+814,fig,6
+471,coconut,2
+423,cabbage,2
+3519,kale,2
+3195,tubers,6
+2089,cherimoya,6
+1967,daikon,5
+974,navy bean,1
+1203,skirret,1
+2414,white radish,6
+3482,patty pan,6
+2566,carrot,6
+3637,cabbage,1
+4080,feijoa,4
+4774,damson,1
+3044,tat soi,2
+1607,patty pan,4
+1535,marjoram,6
+1959,avocado,5
+4576,patty pan,3
+787,apple,1
+42,marjoram,6
+2588,cherimoya,4
+686,cabbage,6
+3940,daikon,1
+2725,frisee,2
+1206,raisin,3
+3261,fig,6
+1557,bilberry,6
+885,date,5
+2288,avocado,4
+43,white radish,1
+376,cherimoya,6
+3141,daikon,5
+714,bilberry,3
+2011,cherimoya,1
+3968,watercress,3
+68,currant,2
+968,date,5
+2558,blackberry,5
+1754,apple,2
+1008,damson,6
+1502,date,1
+569,currant,6
+3783,kale,5
+4367,fig,1
+4370,goji berry,2
+1641,banana,2
+4118,kale,6
+3643,tubers,1
+808,grapefruit,3
+3403,cloudberry,1
+302,black-eyed pea,3
+2954,cabbage,2
+3545,banana,6
+3856,blackcurrant,1
+965,corn salad,3
+4536,corn salad,4
+4969,tabasco pepper,6
+3920,fig,5
+1999,blackcurrant,4
+4965,bilberry,1
+1821,azuki bean,2
+2287,kale,4
+2925,spinach,1
+1051,currant,3
+2784,dragonfruit,3
+674,feijoa,4
+248,azuki bean,1
+3275,patty pan,2
+3028,patty pan,4
+2322,currant,1
+3461,feijoa,1
+678,scallion,1
+4225,daikon,6
+2889,spaghetti squash,1
+3707,grapefruit,5
+917,spinach,2
+1240,watercress,3
+2356,kale,3
+573,blueberry,5
+4738,blackberry,3
+4674,watercress,2
+61,raisin,1
+79,date,2
+430,date,3
+148,white radish,6
+3088,avocado,5
+4267,white radish,4
+205,watercress,5
+890,dragonfruit,4
+908,raisin,3
+515,tabasco pepper,5
+4537,apple,6
+1400,frisee,3
+3382,white radish,6
+4997,tubers,3
+4985,azuki bean,3
+3268,black-eyed pea,2
+2181,white radish,4
+641,cabbage,2
+1551,azuki bean,6
+2460,coconut,2
+2495,goji berry,5
+3906,currant,4
+2225,broccoflower,1
+604,patty pan,1
+507,marjoram,3
+2017,watercress,4
+1156,blackberry,1
+977,bilberry,1
+3214,avocado,2
+70,blueberry,3
+3099,fig,5
+1444,daikon,2
+746,marjoram,2
+705,daikon,3
+3888,banana,5
+1859,frisee,4
+51,bilberry,1
+2922,daikon,3
+1944,coconut,5
+4050,raisin,1
+4603,banana,5
+2352,daikon,5
+3090,frisee,5
+3573,blackcurrant,3
+4902,date,5
+4232,broccoflower,6
+799,cloudberry,6
+1668,blackberry,6
+4526,goji berry,5
+4497,radish,2
+4079,daikon,1
+4036,goji berry,1
+1694,cloudberry,6
+4588,banana,5
+3021,apricot,4
+3048,marjoram,1
+4431,feijoa,1
+1138,marjoram,2
+2384,broccoflower,4
+2571,raisin,2
+1072,bilberry,5
+3705,navy bean,4
+4838,white radish,4
+1546,feijoa,4
+4201,date,5
+2147,mushroom,5
+1533,blackcurrant,4
+3951,fig,4
+3958,blackcurrant,2
+4762,avocado,3
+4089,fig,6
+1827,cloudberry,4
+3692,black-eyed pea,5
+2913,cherimoya,3
+3882,avocado,3
+623,patty pan,3
+2758,currant,5
+102,azuki bean,5
+2123,blueberry,3
+3465,cabbage,5
+4687,bilberry,2
+556,coconut,2
+798,patty pan,4
+1924,frisee,3
+102,spinach,5
+354,pinto bean,6
+3326,cabbage,2
+2102,cloudberry,4
+1967,kale,6
+1856,radish,1
+1785,date,2
+3645,spinach,1
+1201,daikon,2
+2381,damson,5
+4944,goji berry,2
+3962,patty pan,4
+1390,apricot,5
+4353,goji berry,5
+2424,coconut,3
+3407,feijoa,3
+1827,apple,1
+1766,banana,4
+3374,raisin,6
+4488,tabasco pepper,3
+162,spaghetti squash,4
+2700,marjoram,3
+881,broccoflower,4
+1789,spaghetti squash,5
+4698,black-eyed pea,6
+1930,fig,4
+1347,patty pan,4
+3332,damson,2
+4421,rhubarb,6
+2522,daikon,5
+1625,blackberry,1
+2398,currant,5
+2809,blackcurrant,2
+4786,fig,5
+1505,azuki bean,5
+4615,patty pan,4
+3715,white radish,6
+1854,blueberry,5
+2749,coconut,6
+1910,blackberry,3
+730,coconut,5
+1489,azuki bean,5
+2851,grapefruit,1
+2646,currant,3
+1348,blueberry,4
+4125,frisee,4
+601,marjoram,1
+1871,blackcurrant,3
+1426,apricot,2
+2567,cabbage,2
+3146,apple,4
+796,fig,4
+2122,cabbage,5
+3409,cabbage,6
+523,rutabaga,4
+481,damson,5
+4689,goji berry,1
+4232,daikon,3
+1368,radish,4
+1077,avocado,4
+3594,apricot,1
+1769,daikon,2
+3141,bilberry,4
+4937,blackcurrant,1
+491,goji berry,2
+2868,tubers,5
+2535,white radish,4
+2886,apricot,1
+3994,apple,5
+2427,grapefruit,1
+1669,kale,1
+1641,dragonfruit,5
+1683,broccoflower,2
+3302,grapefruit,2
+3440,goji berry,4
+1562,watercress,1
+2849,azuki bean,2
+1385,blackberry,5
+942,blueberry,3
+3293,coconut,4
+3059,delicata,3
+2585,watercress,4
+602,tat soi,4
+731,courgette,6
+698,frisee,4
+3699,white radish,4
+3725,hubbard squash,2
+1717,coconut,4
+4503,watercress,5
+2346,marjoram,6
+1309,tubers,5
+926,currant,6
+4995,cauliflower,2
+3490,dragonfruit,5
+3869,tat soi,2
+301,date,3
+1107,radish,3
+2381,tabasco pepper,1
+1199,black-eyed pea,2
+4280,tat soi,3
+3770,kale,4
+308,pumpkin,1
+4299,daikon,1
+4569,blackcurrant,2
+3695,lentils,4
+1780,date,4
+52,dragonfruit,3
+4603,date,4
+203,watercress,2
+734,new zealand spinach,3
+711,frisee,4
+1924,bilberry,2
+3736,apricot,4
+4623,patty pan,2
+1562,blueberry,6
+875,apricot,4
+2799,hubbard squash,2
+843,radish,2
+2675,spaghetti squash,1
+409,patty pan,4
+4139,azuki bean,6
+346,apple,1
+2202,patty pan,4
+1324,frisee,3
+3168,navy bean,1
+4245,frisee,1
+4837,watercress,4
+1594,blackberry,3
+546,black-eyed pea,3
+3181,date,1
+1,spinach,4
+315,marjoram,4
+512,frisee,3
+2369,apricot,2
+425,fig,1
+3655,navy bean,3
+440,fig,2
+1754,marjoram,3
+1780,patty pan,3
+4428,marjoram,4
+1602,paprika,1
+577,frisee,3
+282,azuki bean,3
+3475,blackcurrant,3
+3306,blackcurrant,4
+2099,goji berry,3
+1859,currant,2
+4995,cherimoya,1
+796,dragonfruit,5
+1801,banana,3
+1197,grapefruit,1
+2877,dragonfruit,6
+2446,radish,5
+2434,feijoa,6
+4534,cloudberry,6
+3643,daikon,5
+4857,spinach,3
+4323,currant,5
+2642,raisin,4
+4863,fig,1
+3212,kale,1
+1225,dragonfruit,3
+4885,apricot,5
+2303,cloudberry,6
+3005,fig,5
+2276,apple,3
+397,apricot,2
+2984,blackberry,4
+1437,coconut,3
+24,spinach,1
+2981,fig,3
+691,spaghetti squash,4
+1236,fig,3
+4099,fig,4
+2580,corn salad,6
+4147,black-eyed pea,5
+722,broccoflower,6
+1923,daikon,1
+364,patty pan,2
+656,apricot,2
+305,apricot,5
+1870,bilberry,6
+3363,azuki bean,2
+528,patty pan,4
+3535,corn salad,3
+3414,blackcurrant,4
+4559,cherimoya,5
+3012,frisee,3
+3824,lentils,3
+1353,apple,4
+3090,patty pan,1
+4767,spinach,4
+1267,marjoram,4
+497,broccoflower,1
+4715,black-eyed pea,6
+905,corn salad,4
+2657,grapefruit,3
+608,cabbage,5
+3066,coconut,6
+1783,tat soi,1
+1164,blueberry,1
+4220,cabbage,2
+2654,frisee,2
+4752,blackcurrant,2
+3120,coconut,2
+3574,frisee,1
+4408,avocado,6
+3829,kale,6
+3727,apricot,4
+3773,coconut,6
+4478,cabbage,5
+2884,apricot,4
+480,basil,5
+4154,spaghetti squash,5
+3478,cloudberry,6
+3097,coconut,2
+3756,watercress,2
+1511,apricot,5
+3738,tat soi,4
+1326,raisin,3
+2202,lentils,3
+2502,frisee,1
+3737,lentils,3
+355,coconut,4
+4689,apple,1
+123,kale,6
+163,radish,4
+1499,apricot,3
+1911,blackcurrant,4
+4645,avocado,5
+2334,cherimoya,4
+1502,daikon,3
+2842,blackberry,2
+2331,spinach,6
+2759,black-eyed pea,6
+3703,dragonfruit,1
+805,goji berry,2
+2198,corn salad,1
+447,dragonfruit,4
+2899,cloudberry,5
+1709,cloudberry,5
+490,kale,3
+1327,banana squash,4
+1890,broccoflower,6
+1716,black-eyed pea,6
+250,banana,4
+2871,coconut,6
+4989,blueberry,1
+4319,daikon,3
+2760,date,6
+3443,spinach,1
+1139,tabasco pepper,1
+4678,date,3
+1340,dragonfruit,2
+4186,avocado,1
+435,frisee,2
+1791,radish,1
+4094,avocado,6
+3913,kale,6
+4376,currant,3
+3675,kale,2
+1682,daikon,1
+3782,white radish,3
+3505,cloudberry,5
+3983,marjoram,3
+4525,bilberry,6
+298,boysenberry,5
+1754,radish,3
+2699,date,5
+4234,damson,6
+2085,marjoram,6
+3900,blackcurrant,6
+4210,apple,2
+4129,corn salad,6
+3117,fig,3
+3458,grapefruit,4
+4066,raisin,5
+2607,banana,1
+1825,cloudberry,5
+2285,banana,6
+4814,cabbage,3
+1275,banana,2
+4098,broccoflower,2
+2023,kale,4
+3651,radish,1
+1739,radish,4
+2319,goji berry,2
+3289,radish,2
+4070,watercress,6
+1429,corn salad,2
+4921,broccoflower,6
+688,black-eyed pea,4
+601,daikon,3
+208,azuki bean,2
+3396,azuki bean,2
+3125,broccoflower,6
+2670,white radish,1
+787,broccoflower,3
+4580,apricot,6
+3517,watercress,5
+1836,damson,4
+721,lentils,5
+3597,goji berry,6
+4754,grapefruit,2
+3941,corn salad,1
+3085,fig,5
+2353,frisee,5
+4746,bilberry,4
+1363,blueberry,3
+4377,blackberry,3
+1346,tabasco pepper,1
+115,black-eyed pea,6
+3282,dragonfruit,3
+4320,damson,2
+2549,currant,6
+321,frisee,6
+3682,daikon,1
+4504,blueberry,3
+1806,damson,5
+1918,marjoram,6
+4304,ginger,5
+3746,kale,6
+708,lentils,4
+251,spinach,5
+2644,azuki bean,3
+2486,blackcurrant,1
+3585,goji berry,3
+2982,cloudberry,6
+2120,cloudberry,2
+251,broccoflower,4
+879,kale,6
+9,navy bean,4
+2310,taro,2
+575,kale,2
+28,tat soi,6
+2463,cabbage,6
+941,nopale,4
+3462,bilberry,4
+2415,apple,4
+4450,date,4
+4552,broccoflower,6
+4704,tat soi,2
+2238,elderberry,3
+4444,damson,3
+3581,frisee,6
+2383,frisee,3
+4222,spinach,1
+437,patty pan,1
+1845,patty pan,2
+4858,patty pan,6
+1695,daikon,2
+4721,daikon,5
+1169,fig,4
+3428,white radish,5
+4422,white radish,1
+3737,frisee,6
+274,radish,4
+1259,tabasco pepper,6
+4585,radish,5
+1921,blackberry,4
+2050,dragonfruit,2
+3791,corn salad,3
+1758,watercress,1
+2749,lentils,4
+1056,dragonfruit,6
+557,broccoflower,1
+2181,corn,4
+113,goji berry,5
+2012,corn salad,3
+1895,tabasco pepper,3
+2218,broccoflower,4
+109,dragonfruit,1
+4863,tabasco pepper,5
+840,apricot,4
+4656,grapefruit,3
+583,kale,1
+2042,daikon,1
+4243,tubers,4
+3587,blueberry,2
+3525,patty pan,6
+2042,radish,3
+4115,damson,4
+1834,apple,5
+1574,navy bean,2
+4003,tat soi,6
+1977,coconut,1
+971,kale,3
+2986,currant,4
+4963,marjoram,5
+841,blueberry,6
+3095,lentils,2
+2538,blackcurrant,3
+322,tabasco pepper,4
+4634,apple,6
+4997,watercress,5
+107,blackberry,1
+4269,frisee,3
+4492,apricot,6
+704,apple,6
+650,spinach,1
+2523,broccoflower,6
+3012,kale,6
+4373,tabasco pepper,5
+2233,daikon,3
+2825,patty pan,5
+3825,currant,6
+3217,cabbage,3
+869,avocado,3
+3011,cherimoya,6
+2966,cherimoya,1
+1804,spaghetti squash,6
+1625,goji berry,1
+4984,lentils,5
+2889,cherimoya,1
+4208,legume,1
+4353,spinach,1
+889,marjoram,5
+3569,bilberry,4
+2712,elderberry,1
+3255,marjoram,1
+3067,avocado,2
+3299,goji berry,6
+2272,patty pan,4
+1592,apple,2
+502,currant,6
+3049,pumpkin,3
+3945,cloudberry,4
+3114,spaghetti squash,6
+3732,date,4
+3855,frisee,4
+3130,currant,1
+1035,tabasco pepper,4
+367,blueberry,6
+335,damson,2
+1023,fig,4
+3893,blueberry,3
+3592,damson,6
+3859,currant,3
+3853,lentils,2
+4291,kale,6
+3539,banana,3
+675,blackcurrant,6
+29,frisee,6
+3810,soy bean,2
+572,radish,4
+261,tubers,3
+2341,navy bean,5
+198,currant,5
+3056,raisin,3
+2290,currant,3
+4067,broccoflower,4
+118,coconut,1
+4820,grapefruit,1
+2315,tat soi,4
+753,lentils,5
+1480,lentils,2
+1097,tubers,5
+2380,spinach,1
+1256,spaghetti squash,3
+3890,frisee,2
+4288,spinach,4
+4271,daikon,1
+920,dragonfruit,2
+2857,apricot,5
+844,bilberry,2
+2870,damson,3
+592,cloudberry,6
+1346,apple,3
+592,tubers,2
+23,frisee,2
+227,raisin,4
+2314,blackcurrant,2
+1098,tabasco pepper,1
+1046,cloudberry,1
+2167,coconut,6
+4245,goji berry,4
+2014,tubers,3
+2669,cabbage,3
+2096,damson,2
+284,tat soi,3
+4206,avocado,5
+4181,spinach,4
+4230,patty pan,6
+1182,corn salad,5
+4842,feijoa,6
+4271,spaghetti squash,5
+1257,damson,2
+1417,white radish,4
+2324,cherimoya,3
+257,bilberry,6
+1814,hubbard squash,4
+1815,apple,2
+3807,broccoflower,6
+2485,blackberry,1
+2113,blackberry,1
+866,azuki bean,6
+3835,watercress,5
+1948,corn salad,4
+3071,azuki bean,1
+1911,tat soi,6
+3869,navy bean,3
+4011,spinach,3
+1356,radish,5
+2821,corn salad,5
+4032,lentils,1
+4757,black-eyed pea,5
+3111,tat soi,4
+2997,date,4
+1234,spaghetti squash,5
+2443,corn salad,1
+1985,cabbage,2
+2898,frisee,6
+1158,shallot,4
+875,kohlrabi,5
+368,cloudberry,6
+3093,cherimoya,2
+3636,tabasco pepper,1
+2730,watercress,1
+1570,broccoflower,4
+4800,radish,6
+3108,currant,4
+4382,goji berry,5
+4727,avocado,6
+1765,bilberry,6
+789,dragonfruit,3
+222,blueberry,1
+4331,cherimoya,6
+3726,endive,4
+337,tat soi,6
+1641,tubers,3
+3885,kale,2
+2719,bilberry,1
+2080,damson,5
+327,tabasco pepper,3
+1589,corn salad,1
+326,spaghetti squash,6
+3394,apricot,2
+3810,raisin,1
+1783,broccoflower,5
+4846,apricot,5
+2751,tabasco pepper,2
+3711,date,6
+1719,coconut,6
+4059,fennel,2
+3986,apple,1
+359,radish,2
+3411,corn salad,1
+3376,skirret,3
+2120,spaghetti squash,2
+1561,apricot,2
+3420,borlotti bean,6
+3026,spinach,3
+1048,frisee,2
+3255,coconut,3
+1508,navy bean,5
+3546,goji berry,6
+3394,frisee,6
+3351,damson,6
+160,caraway,5
+1036,apple,5
+2284,grapefruit,6
+4865,banana,6
+4060,tabasco pepper,3
+2854,radish,3
+3588,watercress,5
+3166,radicchio,3
+1980,tubers,1
+2053,daikon,3
+323,blueberry,6
+1069,broccoflower,4
+1111,white radish,4
+3542,avocado,1
+3061,apple,1
+384,black-eyed pea,6
+2909,grapefruit,3
+3548,white radish,1
+2214,potato,6
+2370,fig,1
+423,corn salad,6
+975,spinach,5
+4544,azuki bean,1
+1628,frisee,4
+1660,spaghetti squash,5
+260,lentils,5
+2738,apricot,2
+1812,tubers,4
+3171,apple,4
+2630,kale,5
+1594,banana,5
+1196,damson,2
+202,apple,3
+73,tabasco pepper,5
+1208,coconut,6
+560,avocado,2
+1719,garlic,2
+225,coconut,2
+256,corn salad,5
+964,currant,5
+1157,damson,4
+386,goji berry,4
+2062,bilberry,1
+777,corn salad,4
+3508,azuki bean,4
+3180,cabbage,3
+2463,apple,1
+4664,banana,3
+1065,patty pan,3
+2780,navy bean,1
+4814,white radish,1
+2650,fig,2
+2926,fig,6
+1648,banana,1
+1944,patty pan,2
+2619,cloudberry,3
+4640,kale,6
+3240,blackcurrant,4
+271,navy bean,5
+4231,feijoa,2
+1391,blackcurrant,6
+933,cabbage,6
+2985,kale,6
+3492,white radish,4
+3348,currant,3
+827,frisee,4
+1477,corn salad,5
+2113,black-eyed pea,5
+2367,tubers,5
+3571,tat soi,3
+3372,black-eyed pea,6
+4029,lentils,2
+2692,currant,6
+1165,kale,1
+470,cabbage,2
+4226,patty pan,6
+1712,bilberry,2
+2485,patty pan,5
+2163,spinach,3
+2383,date,4
+600,azuki bean,4
+1225,tat soi,3
+474,damson,6
+4679,spaghetti squash,6
+2533,date,3
+2108,azuki bean,2
+3215,goji berry,4
+1292,paprika,3
+4421,tubers,6
+3373,white radish,3
+354,frisee,4
+3523,blueberry,2
+3846,blackcurrant,5
+4232,tabasco pepper,6
+1484,raisin,5
+4879,frisee,3
+3649,chives,1
+4208,damson,6
+778,dragonfruit,5
+3798,blackcurrant,1
+962,currant,6
+586,fig,1
+2003,cabbage,2
+2441,kale,3
+4079,bilberry,3
+1952,cherimoya,6
+3466,gooseberry,6
+1613,black-eyed pea,1
+1089,broccoflower,2
+129,watercress,3
+2489,damson,3
+4459,black-eyed pea,3
+2145,raisin,5
+4111,lentils,1
+2670,feijoa,2
+931,banana,1
+3185,avocado,4
+3595,white radish,5
+968,lentils,6
+776,apricot,3
+4088,tubers,1
+3278,radish,6
+2370,goji berry,3
+4769,watercress,1
+2248,navy bean,1
+3608,tubers,5
+2525,black-eyed pea,6
+661,lentils,3
+1951,goji berry,2
+4811,patty pan,1
+160,black-eyed pea,3
+2451,goji berry,1
+2491,bilberry,1
+3723,raisin,2
+4277,broccoflower,2
+4258,patty pan,4
+3163,tat soi,2
+3943,currant,5
+1183,kale,6
+2259,dragonfruit,6
+3378,spinach,1
+2014,apricot,6
+2663,avocado,1
+4603,cloudberry,1
+4589,avocado,1
+3096,spinach,5
+2121,coconut,1
+1525,radish,6
+206,marjoram,2
+2639,white radish,6
+1735,currant,3
+4183,banana,2
+3633,cabbage,3
+2510,spaghetti squash,5
+1849,dragonfruit,2
+3616,black-eyed pea,2
+2394,blueberry,5
+2475,lentils,3
+3111,watercress,3
+1974,azuki bean,3
+2214,spinach,3
+2512,frisee,4
+4816,bilberry,6
+4002,blackberry,4
+327,navy bean,3
+1101,black-eyed pea,5
+4177,tat soi,5
+299,date,1
+1806,apricot,5
+4760,goji berry,2
+2473,corn salad,6
+4123,avocado,3
+3051,spinach,6
+1399,patty pan,6
+2454,dragonfruit,1
+1993,spinach,3
+762,radish,6
+2973,frisee,5
+2293,dragonfruit,2
+3924,tat soi,4
+3560,currant,5
+80,grapefruit,4
+2481,date,3
+2529,goji berry,4
+1353,bilberry,2
+4017,currant,1
+1735,blueberry,1
+4585,daikon,3
+4542,lentils,5
+1083,tat soi,6
+4025,apricot,6
+2743,currant,4
+1503,apricot,4
+4403,coconut,4
+924,feijoa,5
+4132,cherimoya,5
+3560,tat soi,5
+1885,fig,1
+395,cloudberry,5
+304,blackcurrant,5
+1997,corn salad,3
+2682,daikon,5
+4099,marjoram,4
+3710,tat soi,5
+3327,blackberry,1
+4262,fig,6
+3433,date,3
+776,blueberry,2
+1079,fig,4
+4909,dragonfruit,2
+2971,apple,1
+3787,navy bean,1
+1581,radish,2
+398,feijoa,5
+1455,banana,3
+2061,blackberry,6
+3720,blueberry,2
+3029,rosemary,4
+4727,goji berry,3
+4906,lentils,1
+2752,cloudberry,5
+1761,apricot,4
+868,avocado,4
+1915,marjoram,2
+4339,cherimoya,2
+3658,feijoa,2
+1988,corn salad,6
+3469,apricot,4
+1563,tat soi,4
+3876,date,4
+3508,spaghetti squash,5
+241,spaghetti squash,5
+4492,avocado,1
+1606,radish,2
+3970,feijoa,4
+3105,watercress,5
+1822,goji berry,2
+1043,date,5
+1192,spinach,2
+1932,habanero,6
+798,kale,2
+2276,lentils,5
+4555,patty pan,6
+3663,tat soi,2
+4514,spaghetti squash,6
+3437,coconut,2
+3865,pinto bean,3
+4672,daikon,4
+1251,cloudberry,1
+2456,marjoram,4
+3605,tabasco pepper,4
+1833,black-eyed pea,2
+4366,white radish,5
+4422,skirret,4
+3479,radish,3
+1035,currant,5
+220,marjoram,4
+2812,patty pan,6
+2284,radish,5
+4786,spinach,3
+3778,currant,4
+2327,cloudberry,1
+422,white radish,6
+1626,radish,1
+2109,feijoa,6
+672,apple,4
+3526,corn salad,2
+3174,spinach,2
+1057,tubers,6
+4738,radish,2
+4121,cherimoya,4
+3467,tat soi,3
+4347,blackcurrant,2
+4226,brussels sprout,1
+477,daikon,4
+816,tat soi,1
+2230,dill,5
+2400,blueberry,2
+2790,cherimoya,3
+3086,radish,2
+4282,damson,3
+363,tat soi,2
+4804,spaghetti squash,4
+4211,patty pan,3
+3141,bilberry,4
+2974,tubers,3
+3265,coconut,4
+733,avocado,4
+1265,banana,5
+3287,runner bean,5
+1390,fig,3
+1482,navy bean,2
+1207,bilberry,3
+3465,apricot,5
+595,raisin,6
+1820,kale,3
+556,dragonfruit,5
+4886,black-eyed pea,3
+2050,currant,6
+4206,patty pan,4
+1386,spaghetti squash,3
+4363,broccoflower,4
+1248,kale,3
+674,dragonfruit,4
+4244,spaghetti squash,1
+138,tat soi,6
+2162,black-eyed pea,1
+1251,fig,6
+3119,white radish,2
+2124,damson,5
+2082,broccoflower,1
+3653,avocado,3
+4821,patty pan,5
+3319,frisee,1
+2124,cabbage,6
+1740,navy bean,2
+3802,goji berry,5
+3589,avocado,2
+2528,spinach,1
+1943,bean sprout,3
+4082,apple,1
+2545,dragonfruit,3
+4511,fig,6
+769,cloudberry,5
+546,date,5
+4403,feijoa,5
+1638,blackberry,6
+352,apple,4
+1859,marjoram,4
+2569,butternut squash,3
+4614,radish,2
+3387,white radish,2
+576,patty pan,3
+833,cabbage,1
+2154,azuki bean,5
+3967,fig,2
+703,raisin,4
+1476,bilberry,6
+4516,tat soi,4
+4323,raisin,2
+1841,patty pan,4
+348,cabbage,3
+4260,broccoflower,3
+497,tat soi,3
+4713,fig,4
+231,kale,5
+777,avocado,6
+4362,grapefruit,3
+3491,apple,5
+470,radish,1
+3050,tat soi,2
+1606,grapefruit,2
+4691,turnip,5
+4242,grapefruit,5
+665,blackberry,4
+1655,broccoflower,5
+1511,radish,2
+806,spinach,6
+1288,apple,5
+336,tubers,1
+3716,corn salad,4
+325,damson,5
+24,blackcurrant,1
+3554,spaghetti squash,2
+2285,cherimoya,4
+3707,patty pan,4
+545,black-eyed pea,6
+3138,dragonfruit,6
+2495,blackcurrant,3
+3332,tubers,1
+1919,frisee,2
+4890,spaghetti squash,1
+4475,goji berry,4
+2475,watercress,2
+1521,kale,6
+322,bilberry,4
+4140,grapefruit,1
+2685,marjoram,5
+2806,corn salad,3
+535,lemon grass,5
+632,blueberry,1
+4378,currant,5
+3614,dragonfruit,3
+3572,avocado,2
+4078,patty pan,3
+1824,apricot,1
+4587,currant,2
+1413,avocado,5
+4038,banana,2
+3663,radish,5
+3170,kale,2
+542,raisin,5
+2001,apricot,3
+4980,apricot,3
+4254,apricot,3
+2142,black-eyed pea,5
+89,cherimoya,6
+4199,apricot,4
+4166,date,1
+2125,broccoflower,2
+4281,tabasco pepper,5
+4390,tat soi,2
+4671,blackcurrant,5
+4462,kale,5
+4429,tabasco pepper,6
+974,kale,1
+2762,tat soi,5
+4912,marjoram,5
+4344,raisin,4
+4424,tat soi,1
+2158,jalapeno,1
+3942,azuki bean,2
+1113,navy bean,3
+4738,apricot,4
+2667,lentils,3
+865,cabbage,2
+2487,bilberry,5
+2486,date,1
+3725,apple,6
+3958,cloudberry,6
+2125,pumpkin,5
+4959,currant,6
+3954,coconut,4
+1208,date,4
+1500,fig,5
+2264,tabasco pepper,3
+2249,feijoa,6
+1416,coconut,2
+2360,watercress,1
+981,blackberry,6
+446,blackberry,5
+1479,tubers,6
+2986,blueberry,4
+2915,broccoflower,6
+2485,cilantro,6
+4665,grapefruit,2
+1390,blackcurrant,1
+110,grapefruit,1
+23,lentils,3
+4686,dragonfruit,1
+1648,cloudberry,6
+3094,apricot,5
+3692,daikon,1
+4634,blackcurrant,5
+2131,green bean,6
+3899,azuki bean,3
+3384,fig,2
+4540,apricot,2
+1615,cherimoya,1
+1782,blackcurrant,2
+1805,blackberry,6
+278,courgette,1
+2002,corn salad,3
+3672,tat soi,2
+691,watercress,2
+1143,watercress,4
+2603,kale,4
+2037,tat soi,1
+3448,white radish,5
+4274,radish,3
+1150,avocado,2
+3130,apple,2
+1007,blueberry,5
+2579,damson,2
+1433,daikon,5
+4558,black-eyed pea,6
+4506,cloudberry,2
+2671,spinach,3
+44,daikon,1
+105,damson,6
+101,avocado,4
+494,apricot,6
+4915,grapefruit,6
+696,legume,3
+380,coconut,6
+11,tabasco pepper,1
+3855,fig,1
+3020,watercress,3
+1909,apricot,1
+756,watercress,6
+4631,fig,3
+2309,butternut squash,5
+2296,feijoa,5
+6,apricot,3
+2842,currant,5
+1669,spinach,2
+1601,cabbage,6
+3691,currant,6
+970,watercress,5
+633,dragonfruit,2
+3533,radish,2
+4912,damson,4
+4120,feijoa,2
+2554,damson,3
+1030,daikon,6
+3928,asparagus,2
+1554,coconut,5
+4813,bilberry,1
+522,goji berry,4
+1026,tat soi,4
+1383,cloudberry,3
+3362,tabasco pepper,6
+2166,cherimoya,3
+1612,cherimoya,4
+4037,bilberry,3
+1406,blackcurrant,2
+1793,navy bean,3
+1533,spaghetti squash,6
+1500,radish,2
+3168,cherimoya,6
+1028,tubers,5
+2756,tat soi,6
+2281,apple,6
+4304,spinach,6
+114,cabbage,3
+669,dragonfruit,6
+1563,apricot,3
+17,black-eyed pea,2
+246,broccoflower,4
+1612,daikon,2
+3917,corn salad,3
+366,tubers,2
+3178,apple,2
+4451,black-eyed pea,4
+3440,azuki bean,2
+3260,cherimoya,1
+2788,tabasco pepper,4
+488,fig,5
+1701,blueberry,3
+2890,azuki bean,3
+3840,tabasco pepper,3
+3863,apple,6
+1383,cherimoya,1
+1576,watercress,3
+3718,apricot,1
+45,coconut,1
+1103,tabasco pepper,3
+1382,dragonfruit,1
+1177,patty pan,6
+2318,raisin,4
+619,currant,6
+1124,white radish,2
+839,tabasco pepper,4
+3127,broccoflower,6
+521,patty pan,4
+171,raisin,4
+2955,kale,5
+3776,daikon,5
+179,damson,4
+2356,feijoa,4
+1038,goji berry,2
+570,spinach,6
+4163,avocado,3
+2510,blackberry,4
+4474,avocado,6
+1365,raisin,6
+2920,borlotti bean,5
+1441,cloudberry,6
+4404,feijoa,4
+3652,goji berry,4
+4926,blackcurrant,6
+1957,dragonfruit,5
+45,daikon,3
+4617,damson,6
+762,tat soi,5
+2101,skirret,5
+3829,avocado,6
+1429,white radish,6
+1947,currant,2
+3362,azuki bean,5
+1930,frisee,6
+4192,corn salad,2
+1568,lentils,2
+1482,spaghetti squash,5
+3961,spinach,6
+1064,cabbage,6
+2919,broccoflower,4
+4866,damson,3
+1587,navy bean,3
+4456,tubers,2
+3863,frisee,6
+3115,tat soi,1
+815,corn salad,3
+43,apricot,3
+4036,bilberry,5
+807,daikon,1
+2232,kale,6
+1406,lentils,6
+831,spinach,5
+3031,banana,2
+1063,navy bean,6
+3309,bilberry,5
+4532,blackcurrant,5
+780,fig,2
+64,celeriac,1
+1507,black-eyed pea,6
+1991,kale,6
+727,cherimoya,5
+4967,goji berry,4
+2669,cloudberry,4
+2580,kale,6
+2863,feijoa,1
+2688,corn salad,6
+1807,watercress,3
+3234,arugula,4
+3083,marjoram,3
+2398,banana,6
+2133,damson,6
+1223,azuki bean,4
+328,bilberry,3
+600,fig,5
+903,patty pan,1
+3007,courgette,1
+4435,spaghetti squash,3
+4754,white radish,3
+3904,damson,4
+4842,azuki bean,3
+4683,blueberry,6
+1549,tabasco pepper,2
+4106,tabasco pepper,6
+2583,cloudberry,6
+838,blackberry,4
+434,apple,5
+926,date,2
+4272,currant,1
+3088,fig,3
+4831,currant,6
+2050,tat soi,4
+2929,date,3
+680,raisin,1
+4060,apricot,2
+3331,coconut,6
+2450,blackberry,5
+221,lentils,5
+591,coconut,1
+3694,cabbage,3
+2625,spinach,5
+4085,lentils,1
+1155,apple,3
+2983,tat soi,5
+320,spinach,2
+4953,goji berry,3
+3534,frisee,5
+369,black-eyed pea,2
+2024,fig,5
+1349,damson,6
+27,white radish,6
+198,navy bean,6
+523,bilberry,5
+4069,calabrese,2
+851,broccoflower,4
+1035,cherimoya,1
+298,grapefruit,4
+4134,apricot,6
+1611,navy bean,3
+829,blackcurrant,4
+3487,daikon,4
+3796,radish,2
+4270,spaghetti squash,1
+28,frisee,6
+3962,blackberry,2
+2867,patty pan,4
+3375,coconut,3
+3249,navy bean,5
+4769,patty pan,1
+3149,coconut,3
+2087,marjoram,4
+3673,grapefruit,4
+1372,lentils,3
+3744,coconut,1
+4181,feijoa,2
+4031,tabasco pepper,1
+288,broccoflower,1
+4640,white radish,2
+3299,kale,3
+3506,artichoke,5
+4808,white radish,1
+2877,coconut,5
+2413,blackberry,4
+533,gooseberry,1
+1860,blueberry,6
+71,grapefruit,1
+676,blackberry,3
+3888,grapefruit,5
+4311,watercress,1
+2635,corn salad,5
+324,radish,4
+3908,broccoflower,3
+1864,apple,5
+1411,banana,5
+2526,tat soi,5
+3740,navy bean,4
+2072,corn salad,5
+2758,bilberry,4
+2874,navy bean,3
+4189,apple,6
+3182,azuki bean,6
+1364,corn salad,1
+841,bilberry,1
+1456,cloudberry,5
+1212,banana,5
+1655,blackcurrant,6
+2269,kale,1
+959,bilberry,4
+4872,apricot,6
+4286,bilberry,6
+4989,white radish,2
+842,damson,1
+304,banana,2
+1301,blueberry,1
+4764,blueberry,3
+4550,tubers,4
+313,marjoram,6
+2002,radish,6
+4586,broccoflower,4
+1727,avocado,6
+1478,cloudberry,4
+783,fig,5
+1003,spaghetti squash,1
+1582,cloudberry,6
+1891,fig,5
+1154,kale,3
+4387,lentils,5
+2220,apricot,1
+2206,spinach,4
+2776,lentils,2
+2785,blueberry,6
+3108,cherimoya,1
+719,blackcurrant,1
+4722,fig,4
+4945,lentils,4
+2182,frisee,2
+3549,broccoflower,5
+3084,feijoa,6
+3407,dragonfruit,6
+2389,azuki bean,6
+3425,amaranth,5
+2246,patty pan,2
+482,avocado,4
+3,feijoa,5
+537,azuki bean,6
+2219,navy bean,2
+2994,fig,2
+274,black-eyed pea,2
+2417,grapefruit,5
+4097,banana,1
+697,banana,4
+3373,frisee,1
+3064,tubers,5
+3062,marjoram,3
+4287,spaghetti squash,3
+3219,blueberry,1
+2435,daikon,2
+3362,goji berry,4
+917,cabbage,5
+3386,fig,2
+1622,apple,5
+2694,marjoram,5
+839,blackcurrant,3
+156,white radish,1
+1088,dragonfruit,1
+4533,corn salad,4
+3175,tubers,1
+3024,damson,1
+2379,blackberry,1
+1959,marjoram,6
+3190,apricot,4
+1681,cabbage,5
+4602,bilberry,4
+3224,bilberry,4
+3672,blueberry,3
+3359,patty pan,2
+2131,raisin,5
+2355,spinach,4
+4484,feijoa,3
+466,navy bean,4
+4777,parsley,6
+72,tubers,3
+3952,patty pan,2
+3432,marjoram,3
+909,jalapeno,3
+2658,apricot,6
+3493,azuki bean,2
+128,daikon,6
+2687,tat soi,4
+4991,cabbage,6
+175,tubers,5
+1542,daikon,1
+283,corn salad,3
+483,cloudberry,5
+3712,bilberry,1
+2427,daikon,4
+2889,navy bean,4
+4614,kale,2
+139,white radish,3
+2741,frisee,4
+3074,banana,5
+3080,cherimoya,5
+786,apple,3
+1530,patty pan,3
+3347,cloudberry,4
+893,tabasco pepper,3
+2427,patty pan,6
+4228,patty pan,3
+3995,spaghetti squash,5
+1885,frisee,4
+2767,apple,5
+3575,frisee,1
+3635,radish,3
+2866,jicama,6
+523,white radish,3
+3737,apple,3
+2245,spinach,6
+2061,patty pan,6
+1672,tabasco pepper,4
+1125,frisee,4
+1915,patty pan,5
+1150,banana,5
+345,spinach,2
+1729,white radish,2
+1315,damson,4
+4600,cloudberry,5
+3987,watercress,1
+2436,broccoflower,2
+3429,frisee,3
+1877,kale,1
+1165,apricot,1
+433,frisee,5
+2419,dragonfruit,5
+4881,apple,1
+3686,blackcurrant,6
+3673,damson,5
+3843,broccoflower,2
+1501,radish,3
+4192,avocado,6
+4770,blackberry,3
+3743,apricot,2
+1575,grapefruit,4
+4493,navy bean,1
+1313,tubers,2
+4681,spaghetti squash,4
+4910,tat soi,4
+2357,navy bean,3
+4544,black-eyed pea,5
+102,apricot,6
+2620,tubers,2
+756,apple,1
+711,blueberry,1
+522,cloudberry,5
+2831,tat soi,6
+4112,date,1
+442,corn salad,1
+1623,raisin,5
+3271,date,4
+3737,tubers,6
+3009,tabasco pepper,3
+4116,blueberry,2
+3196,damson,2
+3426,azuki bean,6
+1289,lentils,6
+1279,bilberry,5
+2799,tabasco pepper,5
+2783,spinach,3
+4087,cabbage,4
+1648,bilberry,4
+2804,currant,6
+3310,tabasco pepper,4
+969,white radish,2
+751,lentils,2
+4819,apple,4
+262,daikon,4
+1514,avocado,2
+2670,raisin,4
+699,runner bean,6
+3265,raisin,2
+1395,currant,5
+2073,lentils,5
+1652,cherimoya,2
+4763,lentils,4
+127,radish,6
+2029,banana,6
+1757,damson,5
+3428,cabbage,3
+4952,banana,5
+570,black-eyed pea,4
+1891,fig,5
+4455,coconut,4
+344,watercress,2
+3998,raisin,2
+74,bilberry,3
+3533,blackberry,2
+2413,banana,4
+3589,radish,6
+955,daikon,1
+1958,bilberry,2
+2016,azuki bean,2
+881,radish,1
+4898,spaghetti squash,6
+2428,apricot,3
+1697,raisin,6
+2396,blueberry,1
+4067,coconut,1
+322,grapefruit,3
+4750,corn salad,1
+2791,blackberry,2
+3745,feijoa,2
+4397,currant,1
+1807,apricot,5
+4908,banana,2
+2530,broccoflower,1
+1631,cabbage,2
+4230,cherimoya,5
+3317,cloudberry,2
+1348,radish,5
+2801,raisin,6
+3177,currant,6
+112,date,6
+168,date,2
+2354,apple,6
+1235,tabasco pepper,3
+2986,raisin,6

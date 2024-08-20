@@ -35,7 +35,7 @@ export async function fetchData(method: Method, source: string, options?: Partia
 
 
 async function fetchDataFromFS(path: string) : Promise<RawDataSource> {
-  try {
+  try {   
     const data = await fs.readFile(path, { encoding: 'utf8'});
     return stringToRawDataSource(data); 
   } catch (error) {
