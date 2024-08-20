@@ -1,6 +1,18 @@
-export type ProblemSet = {
-  num: number;
-  title: string;
+export class ProblemSet {
+  num!: number;
+  title!: string;
+
+  constructor(num: number, title: string) {
+    this.num = num;
+    this.title = title;
+  }
+
+  toString() { 
+    return `${this.num.toString().padStart(2,"0")} - ${this.title}`;
+  }
+  toFilename(ext: string = 'ts') {
+    return `${this.num.toString().padStart(2,"0")}-${this.title.toLocaleLowerCase()}.${ext}`;
+  }
 }
 
 export function problemSetHeading(ps: ProblemSet) {
@@ -10,7 +22,7 @@ export function problemSetHeading(ps: ProblemSet) {
 }
 
 export function problemSetDone() {
-  console.log();
   console.log(`---------------------------------------------`);
   console.log('DONE');
+  console.log();
 }
