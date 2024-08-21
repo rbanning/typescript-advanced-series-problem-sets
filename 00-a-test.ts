@@ -20,4 +20,29 @@ async function work(ps: ProblemSet) {
   data.forEach((line, index) => {
     console.log(">>>", index, line);
   })
+
+  test("roger");
+  test(30);
+  test({ name: "roger", age: 30 });
+  test(null);
+
+}
+
+function test(param: string | number | object | null) {
+  if (param instanceof String) {
+    console.log(">>> string", param);
+  }
+  else if (param instanceof Number) {
+    console.log(">>> number", param);
+  }
+  else if (param instanceof Object) {
+    console.log(">>> object", param);
+  }
+  else if (param === null) {
+    console.log(">>> null", param);
+  }
+  else {
+    console.log(">>> unknown", param);
+  }
+
 }
