@@ -1,8 +1,16 @@
 
 export const strHelper = {
+  twoDigitOrdinal,
   asCurrency,
-  random
+  random,
+  capitalize,
+  first,
+  last
 } as const;
+
+function twoDigitOrdinal(num: string | number): string {
+  return (typeof(num) === 'number' ? num.toString() : num).padStart(2, '0');
+}
 
 function asCurrency(value: number, currency: string = 'USD'): string {
   if (typeof(value) === 'number') {
@@ -25,4 +33,29 @@ function random(size: number, inclMixedCase: boolean, inclDigits: boolean) {
     ret += (inclMixedCase && Math.random() < .5) ? ch.toLocaleUpperCase() : ch;
   }
   return ret;
+}
+
+function capitalize(text: string, firstOnly: boolean = false): string {
+  if (text) {
+    if (firstOnly) { return text.charAt(0).toLocaleUpperCase() + text.substring(1).toLocaleLowerCase(); }
+    //split and capitalize each word
+    return text.split(' ').map(word => capitalize(word, true)).join(' ');
+  }
+  //else
+  return text;
+}
+
+function first(text: string) {
+  if (text) {
+    return text.charAt(0);
+  }
+  //else
+  return '';
+}
+function last(text: string) {
+  if (text) {
+    return text.charAt(text.length-1);
+  }
+  //else
+  return '';
 }

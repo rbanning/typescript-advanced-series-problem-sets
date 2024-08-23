@@ -57,7 +57,7 @@ async function work(ps: ProblemSet) {
 
   await saveData(filename, entries.join('\n'));
 
-  return Promise.resolve(true);
+  return true;
 }
 
 async function loadData() : Promise<{vegetables: string[], fruits: string[]}> {
