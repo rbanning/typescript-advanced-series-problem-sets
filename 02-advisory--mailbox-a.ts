@@ -1,4 +1,4 @@
-import { Mailbox } from './src/01-onboarding/mailbox.props';
+import { Mailbox, Frequency, DuplicateStats } from './src/02-advisory/mailbox.props';
 import { fetchData, RawDataSource } from "./src/fetch-data.utils";
 import { ProblemSet, problemSetDone, problemSetHeading } from "./src/problem-set.utils";
 
@@ -19,7 +19,6 @@ async function work(ps: ProblemSet) {
   //load data
   const data: RawDataSource = await fetchData('file', ps.toFilename('txt'), { removeBlankLines: true });
 
-  //parse the data into Mailbox[] array
   const boxes: Mailbox[] = data.map((line, index) => {
     const parts = line.split(',');
     if (parts.length === 2) {
@@ -32,18 +31,35 @@ async function work(ps: ProblemSet) {
     //else
     throw new Error(`Invalid mailbox entry on line ${index}: ${line}`);
   })
-  
-  const unique = boxes.filter(isUnique);
+
+  const frequency = boxes.reduce((acc, box) => {
+
+    if (box.key in acc) {
+      acc[box.key] += 1;
+    }
+    else {
+      acc[box.key] = 1;
+    }
+
+    return acc;
+  }, {} as Frequency)
+
+  const stats: DuplicateStats = Object.keys(frequency).reduce((acc, key) => {
+    const count = frequency[key];
+    if (count > 1) {
+      acc.count += 1;
+      if (!acc.max || acc.max.count < count) {
+        acc.max = { key, count };
+      }
+    }
+    return acc;
+  }, {count: 0} as DuplicateStats)
+
+
 
   console.log('>>> Mailboxes Found', boxes.length);
-  console.log('>>> Unique Found', unique.length);
+  console.log('>>> Duplicates Found', stats.count);
+  console.log('>>> Max', stats.max);
   
   return true;
 }
-
-function isUnique (mailbox: Mailbox, index: number, allBoxes: Mailbox[]) {
-  //are there any other mailboxes that have the same key...
-  //or is this is the FIRST mailbox with this key
-  return allBoxes.findIndex(box => box.key === mailbox.key) === index;
-}
-
